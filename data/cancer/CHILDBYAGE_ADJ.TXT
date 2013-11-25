@@ -1,0 +1,573 @@
+AGE|AGE_ADJUSTED_CI_LOWER|AGE_ADJUSTED_CI_UPPER|AGE_ADJUSTED_RATE|COUNT|EVENT_TYPE|POPULATION|SITE|YEAR
+0-14|0.3|0.4|0.3|194|Mortality|59955368|Acute Lymphocytic|1999
+0-19|0.3|0.4|0.4|285|Mortality|80039970|Acute Lymphocytic|1999
+0-14|3.5|3.8|3.7|1898|Incidence|51965300|Acute Lymphocytic|1999
+0-19|3.0|3.2|3.1|2142|Incidence|69321240|Acute Lymphocytic|1999
+0-14|0.2|0.3|0.2|141|Mortality|59955368|Acute Myeloid|1999
+0-19|0.2|0.3|0.3|207|Mortality|80039970|Acute Myeloid|1999
+0-14|0.6|0.8|0.7|362|Incidence|51965300|Acute Myeloid|1999
+0-19|0.7|0.8|0.7|514|Incidence|69321240|Acute Myeloid|1999
+0-14|2.4|2.6|2.5|1498|Mortality|59955368|All Cancer Sites Combined|1999
+0-19|2.7|2.9|2.8|2243|Mortality|80039970|All Cancer Sites Combined|1999
+0-14|14.4|15.1|14.8|7648|Incidence|51965300|All Cancer Sites Combined|1999
+0-19|15.8|16.4|16.1|11112|Incidence|69321240|All Cancer Sites Combined|1999
+0-14|0.1|0.2|0.1|82|Mortality|59955368|Bones and Joints|1999
+0-19|0.2|0.3|0.3|209|Mortality|80039970|Bones and Joints|1999
+0-14|0.7|0.8|0.8|391|Incidence|51965300|Bones and Joints|1999
+0-19|0.8|1.0|0.9|635|Incidence|69321240|Bones and Joints|1999
+0-14|0.7|0.8|0.7|431|Mortality|59955368|Brain and Other Nervous System|1999
+0-19|0.6|0.7|0.7|546|Mortality|80039970|Brain and Other Nervous System|1999
+0-14|3.1|3.4|3.3|1701|Incidence|51965300|Brain and Other Nervous System|1999
+0-19|2.8|3.1|3.0|2054|Incidence|69321240|Brain and Other Nervous System|1999
+0-14|~|~|~|~|Mortality|59955368|Hodgkin Lymphoma|1999
+0-19|0.0|0.1|0.1|41|Mortality|80039970|Hodgkin Lymphoma|1999
+0-14|0.5|0.6|0.5|279|Incidence|51965300|Hodgkin Lymphoma|1999
+0-19|1.1|1.3|1.2|821|Incidence|69321240|Hodgkin Lymphoma|1999
+0-14|0.1|0.1|0.1|54|Mortality|59955368|Kidney and Renal Pelvis|1999
+0-19|0.1|0.1|0.1|62|Mortality|80039970|Kidney and Renal Pelvis|1999
+0-14|0.8|0.9|0.8|431|Incidence|51965300|Kidney and Renal Pelvis|1999
+0-19|0.6|0.7|0.7|457|Incidence|69321240|Kidney and Renal Pelvis|1999
+0-14|0.7|0.8|0.8|451|Mortality|59955368|Leukemia|1999
+0-19|0.8|0.9|0.8|672|Mortality|80039970|Leukemia|1999
+0-14|4.5|4.9|4.7|2427|Incidence|51965300|Leukemia|1999
+0-19|4.0|4.3|4.2|2896|Incidence|69321240|Leukemia|1999
+0-14|0.1|0.1|0.1|55|Mortality|59955368|Non-Hodgkin Lymphoma|1999
+0-19|0.1|0.2|0.1|106|Mortality|80039970|Non-Hodgkin Lymphoma|1999
+0-14|0.8|1.0|0.9|470|Incidence|51965300|Non-Hodgkin Lymphoma|1999
+0-19|1.0|1.2|1.1|747|Incidence|69321240|Non-Hodgkin Lymphoma|1999
+0-14|0.5|0.6|0.5|328|Mortality|59955368|Other|1999
+0-19|0.5|0.6|0.6|455|Mortality|80039970|Other|1999
+0-14|2.8|3.1|2.9|1506|Incidence|51965300|Other|1999
+0-19|4.0|4.3|4.2|2892|Incidence|69321240|Other|1999
+0-14|0.1|0.2|0.1|87|Mortality|59955368|Soft Tissue|1999
+0-19|0.2|0.2|0.2|152|Mortality|80039970|Soft Tissue|1999
+0-14|0.8|0.9|0.9|443|Incidence|51965300|Soft Tissue|1999
+0-19|0.8|1.0|0.9|610|Incidence|69321240|Soft Tissue|1999
+0-14|0.3|0.4|0.4|234|Mortality|60279841|Acute Lymphocytic|2000
+0-19|0.4|0.5|0.4|332|Mortality|80574796|Acute Lymphocytic|2000
+0-14|3.5|3.8|3.7|1953|Incidence|53577590|Acute Lymphocytic|2000
+0-19|3.0|3.3|3.1|2242|Incidence|71576680|Acute Lymphocytic|2000
+0-14|0.2|0.3|0.2|145|Mortality|60279841|Acute Myeloid|2000
+0-19|0.2|0.3|0.3|222|Mortality|80574796|Acute Myeloid|2000
+0-14|0.5|0.7|0.6|320|Incidence|53577590|Acute Myeloid|2000
+0-19|0.6|0.7|0.7|470|Incidence|71576680|Acute Myeloid|2000
+0-14|2.4|2.7|2.5|1526|Mortality|60279841|All Cancer Sites Combined|2000
+0-19|2.7|2.9|2.8|2271|Mortality|80574796|All Cancer Sites Combined|2000
+0-14|14.6|15.3|15.0|7992|Incidence|53577590|All Cancer Sites Combined|2000
+0-19|16.1|16.7|16.4|11704|Incidence|71576680|All Cancer Sites Combined|2000
+0-14|0.1|0.2|0.1|83|Mortality|60279841|Bones and Joints|2000
+0-19|0.2|0.3|0.2|181|Mortality|80574796|Bones and Joints|2000
+0-14|0.6|0.8|0.7|369|Incidence|53577590|Bones and Joints|2000
+0-19|0.8|0.9|0.9|623|Incidence|71576680|Bones and Joints|2000
+0-14|0.7|0.8|0.7|440|Mortality|60279841|Brain and Other Nervous System|2000
+0-19|0.6|0.7|0.7|545|Mortality|80574796|Brain and Other Nervous System|2000
+0-14|3.2|3.6|3.4|1821|Incidence|53577590|Brain and Other Nervous System|2000
+0-19|3.0|3.2|3.1|2220|Incidence|71576680|Brain and Other Nervous System|2000
+0-14|~|~|~|~|Mortality|60279841|Hodgkin Lymphoma|2000
+0-19|0.0|0.1|0.0|29|Mortality|80574796|Hodgkin Lymphoma|2000
+0-14|0.5|0.7|0.6|320|Incidence|53577590|Hodgkin Lymphoma|2000
+0-19|1.2|1.3|1.2|886|Incidence|71576680|Hodgkin Lymphoma|2000
+0-14|0.1|0.1|0.1|46|Mortality|60279841|Kidney and Renal Pelvis|2000
+0-19|0.1|0.1|0.1|54|Mortality|80574796|Kidney and Renal Pelvis|2000
+0-14|0.8|1.0|0.9|476|Incidence|53577590|Kidney and Renal Pelvis|2000
+0-19|0.6|0.8|0.7|500|Incidence|71576680|Kidney and Renal Pelvis|2000
+0-14|0.7|0.9|0.8|490|Mortality|60279841|Leukemia|2000
+0-19|0.8|1.0|0.9|732|Mortality|80574796|Leukemia|2000
+0-14|4.4|4.8|4.6|2458|Incidence|53577590|Leukemia|2000
+0-19|4.0|4.3|4.1|2951|Incidence|71576680|Leukemia|2000
+0-14|0.1|0.1|0.1|55|Mortality|60279841|Non-Hodgkin Lymphoma|2000
+0-19|0.1|0.2|0.1|115|Mortality|80574796|Non-Hodgkin Lymphoma|2000
+0-14|0.8|1.0|0.9|495|Incidence|53577590|Non-Hodgkin Lymphoma|2000
+0-19|1.1|1.2|1.1|814|Incidence|71576680|Non-Hodgkin Lymphoma|2000
+0-14|0.5|0.6|0.6|333|Mortality|60279841|Other|2000
+0-19|0.5|0.6|0.6|471|Mortality|80574796|Other|2000
+0-14|2.8|3.0|2.9|1545|Incidence|53577590|Other|2000
+0-19|4.0|4.3|4.2|2978|Incidence|71576680|Other|2000
+0-14|0.1|0.1|0.1|71|Mortality|60279841|Soft Tissue|2000
+0-19|0.2|0.2|0.2|144|Mortality|80574796|Soft Tissue|2000
+0-14|0.9|1.0|1.0|508|Incidence|53577590|Soft Tissue|2000
+0-19|1.0|1.1|1.0|732|Incidence|71576680|Soft Tissue|2000
+0-14|0.3|0.4|0.3|208|Mortality|60450257|Acute Lymphocytic|2001
+0-19|0.3|0.4|0.4|313|Mortality|80906541|Acute Lymphocytic|2001
+0-14|3.7|4.0|3.8|2116|Incidence|55895109|Acute Lymphocytic|2001
+0-19|3.1|3.4|3.2|2403|Incidence|74755914|Acute Lymphocytic|2001
+0-14|0.2|0.3|0.3|157|Mortality|60450257|Acute Myeloid|2001
+0-19|0.2|0.3|0.3|227|Mortality|80906541|Acute Myeloid|2001
+0-14|0.6|0.7|0.7|376|Incidence|55895109|Acute Myeloid|2001
+0-19|0.7|0.8|0.7|532|Incidence|74755914|Acute Myeloid|2001
+0-14|2.4|2.6|2.5|1494|Mortality|60450257|All Cancer Sites Combined|2001
+0-19|2.6|2.9|2.8|2226|Mortality|80906541|All Cancer Sites Combined|2001
+0-14|15.3|16.0|15.7|8745|Incidence|55895109|All Cancer Sites Combined|2001
+0-19|16.8|17.4|17.1|12758|Incidence|74755914|All Cancer Sites Combined|2001
+0-14|0.1|0.2|0.1|88|Mortality|60450257|Bones and Joints|2001
+0-19|0.2|0.3|0.2|189|Mortality|80906541|Bones and Joints|2001
+0-14|0.7|0.8|0.7|408|Incidence|55895109|Bones and Joints|2001
+0-19|0.9|1.0|1.0|732|Incidence|74755914|Bones and Joints|2001
+0-14|0.6|0.8|0.7|416|Mortality|60450257|Brain and Other Nervous System|2001
+0-19|0.6|0.7|0.6|520|Mortality|80906541|Brain and Other Nervous System|2001
+0-14|3.2|3.5|3.3|1857|Incidence|55895109|Brain and Other Nervous System|2001
+0-19|2.9|3.2|3.0|2262|Incidence|74755914|Brain and Other Nervous System|2001
+0-14|~|~|~|~|Mortality|60450257|Hodgkin Lymphoma|2001
+0-19|0.0|0.1|0.0|31|Mortality|80906541|Hodgkin Lymphoma|2001
+0-14|0.5|0.7|0.6|331|Incidence|55895109|Hodgkin Lymphoma|2001
+0-19|1.2|1.3|1.3|943|Incidence|74755914|Hodgkin Lymphoma|2001
+0-14|0.1|0.1|0.1|58|Mortality|60450257|Kidney and Renal Pelvis|2001
+0-19|0.1|0.1|0.1|66|Mortality|80906541|Kidney and Renal Pelvis|2001
+0-14|0.8|1.0|0.9|489|Incidence|55895109|Kidney and Renal Pelvis|2001
+0-19|0.6|0.8|0.7|519|Incidence|74755914|Kidney and Renal Pelvis|2001
+0-14|0.8|0.9|0.8|503|Mortality|60450257|Leukemia|2001
+0-19|0.8|1.0|0.9|728|Mortality|80906541|Leukemia|2001
+0-14|4.7|5.1|4.9|2711|Incidence|55895109|Leukemia|2001
+0-19|4.2|4.5|4.4|3246|Incidence|74755914|Leukemia|2001
+0-14|0.0|0.1|0.1|40|Mortality|60450257|Non-Hodgkin Lymphoma|2001
+0-19|0.1|0.2|0.1|101|Mortality|80906541|Non-Hodgkin Lymphoma|2001
+0-14|0.8|1.0|0.9|510|Incidence|55895109|Non-Hodgkin Lymphoma|2001
+0-19|1.0|1.2|1.1|840|Incidence|74755914|Non-Hodgkin Lymphoma|2001
+0-14|0.4|0.6|0.5|297|Mortality|60450257|Other|2001
+0-19|0.5|0.6|0.6|444|Mortality|80906541|Other|2001
+0-14|3.2|3.5|3.4|1884|Incidence|55895109|Other|2001
+0-19|4.5|4.8|4.6|3454|Incidence|74755914|Other|2001
+0-14|0.1|0.2|0.1|86|Mortality|60450257|Soft Tissue|2001
+0-19|0.2|0.2|0.2|147|Mortality|80906541|Soft Tissue|2001
+0-14|0.9|1.1|1.0|555|Incidence|55895109|Soft Tissue|2001
+0-19|0.9|1.1|1.0|762|Incidence|74755914|Soft Tissue|2001
+0-14|0.3|0.4|0.4|217|Mortality|60563030|Acute Lymphocytic|2002
+0-19|0.4|0.4|0.4|323|Mortality|81173400|Acute Lymphocytic|2002
+0-14|3.5|3.9|3.7|2041|Incidence|55565102|Acute Lymphocytic|2002
+0-19|3.0|3.3|3.2|2347|Incidence|74436080|Acute Lymphocytic|2002
+0-14|0.2|0.3|0.2|131|Mortality|60563030|Acute Myeloid|2002
+0-19|0.2|0.3|0.3|209|Mortality|81173400|Acute Myeloid|2002
+0-14|0.6|0.7|0.7|373|Incidence|55565102|Acute Myeloid|2002
+0-19|0.7|0.8|0.7|533|Incidence|74436080|Acute Myeloid|2002
+0-14|2.4|2.7|2.6|1548|Mortality|60563030|All Cancer Sites Combined|2002
+0-19|2.7|2.9|2.8|2271|Mortality|81173400|All Cancer Sites Combined|2002
+0-14|15.3|15.9|15.6|8658|Incidence|55565102|All Cancer Sites Combined|2002
+0-19|16.8|17.4|17.1|12757|Incidence|74436080|All Cancer Sites Combined|2002
+0-14|0.1|0.2|0.1|85|Mortality|60563030|Bones and Joints|2002
+0-19|0.2|0.3|0.2|179|Mortality|81173400|Bones and Joints|2002
+0-14|0.7|0.8|0.7|406|Incidence|55565102|Bones and Joints|2002
+0-19|0.9|1.0|0.9|710|Incidence|74436080|Bones and Joints|2002
+0-14|0.7|0.8|0.8|463|Mortality|60563030|Brain and Other Nervous System|2002
+0-19|0.7|0.8|0.7|571|Mortality|81173400|Brain and Other Nervous System|2002
+0-14|3.4|3.7|3.5|1953|Incidence|55565102|Brain and Other Nervous System|2002
+0-19|3.1|3.3|3.2|2368|Incidence|74436080|Brain and Other Nervous System|2002
+0-14|~|~|~|~|Mortality|60563030|Hodgkin Lymphoma|2002
+0-19|0.0|0.1|0.0|33|Mortality|81173400|Hodgkin Lymphoma|2002
+0-14|0.5|0.6|0.5|306|Incidence|55565102|Hodgkin Lymphoma|2002
+0-19|1.1|1.3|1.2|919|Incidence|74436080|Hodgkin Lymphoma|2002
+0-14|0.1|0.1|0.1|42|Mortality|60563030|Kidney and Renal Pelvis|2002
+0-19|0.0|0.1|0.1|49|Mortality|81173400|Kidney and Renal Pelvis|2002
+0-14|0.8|0.9|0.8|465|Incidence|55565102|Kidney and Renal Pelvis|2002
+0-19|0.6|0.7|0.7|490|Incidence|74436080|Kidney and Renal Pelvis|2002
+0-14|0.7|0.8|0.7|441|Mortality|60563030|Leukemia|2002
+0-19|0.8|0.9|0.8|678|Mortality|81173400|Leukemia|2002
+0-14|4.6|5.0|4.8|2644|Incidence|55565102|Leukemia|2002
+0-19|4.2|4.5|4.3|3185|Incidence|74436080|Leukemia|2002
+0-14|0.1|0.2|0.1|74|Mortality|60563030|Non-Hodgkin Lymphoma|2002
+0-19|0.1|0.2|0.1|118|Mortality|81173400|Non-Hodgkin Lymphoma|2002
+0-14|0.8|1.0|0.9|511|Incidence|55565102|Non-Hodgkin Lymphoma|2002
+0-19|1.1|1.2|1.1|847|Incidence|74436080|Non-Hodgkin Lymphoma|2002
+0-14|0.5|0.6|0.6|342|Mortality|60563030|Other|2002
+0-19|0.6|0.7|0.6|490|Mortality|81173400|Other|2002
+0-14|3.1|3.4|3.2|1806|Incidence|55565102|Other|2002
+0-19|4.5|4.8|4.6|3472|Incidence|74436080|Other|2002
+0-14|0.1|0.2|0.2|95|Mortality|60563030|Soft Tissue|2002
+0-19|0.2|0.2|0.2|153|Mortality|81173400|Soft Tissue|2002
+0-14|0.9|1.1|1.0|567|Incidence|55565102|Soft Tissue|2002
+0-19|1.0|1.1|1.0|766|Incidence|74436080|Soft Tissue|2002
+0-14|0.4|0.5|0.4|246|Mortality|60628650|Acute Lymphocytic|2003
+0-19|0.4|0.4|0.4|328|Mortality|81425816|Acute Lymphocytic|2003
+0-14|3.4|3.7|3.6|2027|Incidence|56909320|Acute Lymphocytic|2003
+0-19|2.9|3.2|3.1|2317|Incidence|76413922|Acute Lymphocytic|2003
+0-14|0.2|0.3|0.2|142|Mortality|60628650|Acute Myeloid|2003
+0-19|0.2|0.3|0.3|207|Mortality|81425816|Acute Myeloid|2003
+0-14|0.6|0.7|0.7|375|Incidence|56909320|Acute Myeloid|2003
+0-19|0.6|0.7|0.7|529|Incidence|76413922|Acute Myeloid|2003
+0-14|2.4|2.7|2.5|1543|Mortality|60628650|All Cancer Sites Combined|2003
+0-19|2.6|2.9|2.7|2233|Mortality|81425816|All Cancer Sites Combined|2003
+0-14|14.9|15.6|15.2|8697|Incidence|56909320|All Cancer Sites Combined|2003
+0-19|16.5|17.0|16.7|12835|Incidence|76413922|All Cancer Sites Combined|2003
+0-14|0.1|0.2|0.1|82|Mortality|60628650|Bones and Joints|2003
+0-19|0.2|0.3|0.2|186|Mortality|81425816|Bones and Joints|2003
+0-14|0.6|0.8|0.7|411|Incidence|56909320|Bones and Joints|2003
+0-19|0.8|1.0|0.9|693|Incidence|76413922|Bones and Joints|2003
+0-14|0.7|0.8|0.8|458|Mortality|60628650|Brain and Other Nervous System|2003
+0-19|0.7|0.8|0.7|577|Mortality|81425816|Brain and Other Nervous System|2003
+0-14|3.2|3.5|3.4|1917|Incidence|56909320|Brain and Other Nervous System|2003
+0-19|3.0|3.2|3.1|2350|Incidence|76413922|Brain and Other Nervous System|2003
+0-14|~|~|~|~|Mortality|60628650|Hodgkin Lymphoma|2003
+0-19|0.0|0.0|0.0|21|Mortality|81425816|Hodgkin Lymphoma|2003
+0-14|0.5|0.6|0.6|326|Incidence|56909320|Hodgkin Lymphoma|2003
+0-19|1.1|1.3|1.2|933|Incidence|76413922|Hodgkin Lymphoma|2003
+0-14|0.1|0.1|0.1|54|Mortality|60628650|Kidney and Renal Pelvis|2003
+0-19|0.1|0.1|0.1|65|Mortality|81425816|Kidney and Renal Pelvis|2003
+0-14|0.8|1.0|0.9|498|Incidence|56909320|Kidney and Renal Pelvis|2003
+0-19|0.6|0.8|0.7|527|Incidence|76413922|Kidney and Renal Pelvis|2003
+0-14|0.8|0.9|0.8|505|Mortality|60628650|Leukemia|2003
+0-19|0.8|0.9|0.8|688|Mortality|81425816|Leukemia|2003
+0-14|4.4|4.7|4.6|2588|Incidence|56909320|Leukemia|2003
+0-19|4.0|4.3|4.1|3121|Incidence|76413922|Leukemia|2003
+0-14|0.1|0.1|0.1|50|Mortality|60628650|Non-Hodgkin Lymphoma|2003
+0-19|0.1|0.2|0.1|103|Mortality|81425816|Non-Hodgkin Lymphoma|2003
+0-14|0.8|1.0|0.9|508|Incidence|56909320|Non-Hodgkin Lymphoma|2003
+0-19|1.0|1.2|1.1|823|Incidence|76413922|Non-Hodgkin Lymphoma|2003
+0-14|0.5|0.6|0.5|311|Mortality|60628650|Other|2003
+0-19|0.5|0.6|0.6|447|Mortality|81425816|Other|2003
+0-14|3.2|3.5|3.3|1908|Incidence|56909320|Other|2003
+0-19|4.5|4.8|4.7|3608|Incidence|76413922|Other|2003
+0-14|0.1|0.2|0.1|78|Mortality|60628650|Soft Tissue|2003
+0-19|0.2|0.2|0.2|146|Mortality|81425816|Soft Tissue|2003
+0-14|0.9|1.0|0.9|541|Incidence|56909320|Soft Tissue|2003
+0-19|0.9|1.1|1.0|780|Incidence|76413922|Soft Tissue|2003
+0-14|0.3|0.4|0.3|202|Mortality|60651802|Acute Lymphocytic|2004
+0-19|0.3|0.4|0.4|295|Mortality|81754354|Acute Lymphocytic|2004
+0-14|3.7|4.0|3.8|2224|Incidence|58106078|Acute Lymphocytic|2004
+0-19|3.2|3.4|3.3|2552|Incidence|78301500|Acute Lymphocytic|2004
+0-14|0.2|0.3|0.2|147|Mortality|60651802|Acute Myeloid|2004
+0-19|0.2|0.3|0.3|211|Mortality|81754354|Acute Myeloid|2004
+0-14|0.6|0.8|0.7|409|Incidence|58106078|Acute Myeloid|2004
+0-19|0.7|0.8|0.7|578|Incidence|78301500|Acute Myeloid|2004
+0-14|2.3|2.6|2.5|1492|Mortality|60651802|All Cancer Sites Combined|2004
+0-19|2.6|2.8|2.7|2223|Mortality|81754354|All Cancer Sites Combined|2004
+0-14|15.6|16.2|15.9|9270|Incidence|58106078|All Cancer Sites Combined|2004
+0-19|17.0|17.6|17.3|13611|Incidence|78301500|All Cancer Sites Combined|2004
+0-14|0.1|0.2|0.1|75|Mortality|60651802|Bones and Joints|2004
+0-19|0.2|0.3|0.2|189|Mortality|81754354|Bones and Joints|2004
+0-14|0.7|0.8|0.7|429|Incidence|58106078|Bones and Joints|2004
+0-19|0.9|1.0|0.9|728|Incidence|78301500|Bones and Joints|2004
+0-14|0.7|0.8|0.7|446|Mortality|60651802|Brain and Other Nervous System|2004
+0-19|0.6|0.7|0.7|555|Mortality|81754354|Brain and Other Nervous System|2004
+0-14|3.4|3.7|3.6|2075|Incidence|58106078|Brain and Other Nervous System|2004
+0-19|3.1|3.4|3.3|2544|Incidence|78301500|Brain and Other Nervous System|2004
+0-14|~|~|~|~|Mortality|60651802|Hodgkin Lymphoma|2004
+0-19|0.0|0.0|0.0|23|Mortality|81754354|Hodgkin Lymphoma|2004
+0-14|0.5|0.6|0.5|310|Incidence|58106078|Hodgkin Lymphoma|2004
+0-19|1.1|1.3|1.2|941|Incidence|78301500|Hodgkin Lymphoma|2004
+0-14|0.1|0.1|0.1|51|Mortality|60651802|Kidney and Renal Pelvis|2004
+0-19|0.1|0.1|0.1|59|Mortality|81754354|Kidney and Renal Pelvis|2004
+0-14|0.8|0.9|0.8|480|Incidence|58106078|Kidney and Renal Pelvis|2004
+0-19|0.6|0.7|0.7|521|Incidence|78301500|Kidney and Renal Pelvis|2004
+0-14|0.7|0.8|0.8|455|Mortality|60651802|Leukemia|2004
+0-19|0.8|0.9|0.8|665|Mortality|81754354|Leukemia|2004
+0-14|4.7|5.1|4.9|2860|Incidence|58106078|Leukemia|2004
+0-19|4.3|4.6|4.4|3441|Incidence|78301500|Leukemia|2004
+0-14|0.1|0.1|0.1|44|Mortality|60651802|Non-Hodgkin Lymphoma|2004
+0-19|0.1|0.1|0.1|100|Mortality|81754354|Non-Hodgkin Lymphoma|2004
+0-14|0.9|1.0|0.9|547|Incidence|58106078|Non-Hodgkin Lymphoma|2004
+0-19|1.0|1.2|1.1|872|Incidence|78301500|Non-Hodgkin Lymphoma|2004
+0-14|0.5|0.6|0.5|317|Mortality|60651802|Other|2004
+0-19|0.5|0.6|0.6|468|Mortality|81754354|Other|2004
+0-14|3.3|3.6|3.4|2000|Incidence|58106078|Other|2004
+0-19|4.6|4.9|4.7|3758|Incidence|78301500|Other|2004
+0-14|0.1|0.2|0.2|98|Mortality|60651802|Soft Tissue|2004
+0-19|0.2|0.2|0.2|164|Mortality|81754354|Soft Tissue|2004
+0-14|0.9|1.1|1.0|569|Incidence|58106078|Soft Tissue|2004
+0-19|1.0|1.1|1.0|806|Incidence|78301500|Soft Tissue|2004
+0-14|0.3|0.4|0.3|188|Mortality|60519046|Acute Lymphocytic|2005
+0-19|0.3|0.4|0.3|267|Mortality|82005260|Acute Lymphocytic|2005
+0-14|3.6|3.9|3.7|2163|Incidence|57973098|Acute Lymphocytic|2005
+0-19|3.1|3.3|3.2|2479|Incidence|78541923|Acute Lymphocytic|2005
+0-14|0.2|0.3|0.2|137|Mortality|60519046|Acute Myeloid|2005
+0-19|0.2|0.3|0.3|212|Mortality|82005260|Acute Myeloid|2005
+0-14|0.6|0.7|0.6|372|Incidence|57973098|Acute Myeloid|2005
+0-19|0.6|0.7|0.7|516|Incidence|78541923|Acute Myeloid|2005
+0-14|2.3|2.5|2.4|1452|Mortality|60519046|All Cancer Sites Combined|2005
+0-19|2.5|2.8|2.7|2183|Mortality|82005260|All Cancer Sites Combined|2005
+0-14|15.2|15.8|15.5|9040|Incidence|57973098|All Cancer Sites Combined|2005
+0-19|16.9|17.4|17.1|13570|Incidence|78541923|All Cancer Sites Combined|2005
+0-14|0.1|0.2|0.1|88|Mortality|60519046|Bones and Joints|2005
+0-19|0.2|0.3|0.3|212|Mortality|82005260|Bones and Joints|2005
+0-14|0.6|0.8|0.7|408|Incidence|57973098|Bones and Joints|2005
+0-19|0.8|1.0|0.9|719|Incidence|78541923|Bones and Joints|2005
+0-14|0.6|0.8|0.7|426|Mortality|60519046|Brain and Other Nervous System|2005
+0-19|0.6|0.7|0.7|544|Mortality|82005260|Brain and Other Nervous System|2005
+0-14|3.2|3.5|3.3|1930|Incidence|57973098|Brain and Other Nervous System|2005
+0-19|2.9|3.2|3.0|2377|Incidence|78541923|Brain and Other Nervous System|2005
+0-14|~|~|~|~|Mortality|60519046|Hodgkin Lymphoma|2005
+0-19|0.0|0.0|0.0|22|Mortality|82005260|Hodgkin Lymphoma|2005
+0-14|0.5|0.6|0.6|342|Incidence|57973098|Hodgkin Lymphoma|2005
+0-19|1.2|1.3|1.3|1014|Incidence|78541923|Hodgkin Lymphoma|2005
+0-14|0.1|0.1|0.1|54|Mortality|60519046|Kidney and Renal Pelvis|2005
+0-19|0.1|0.1|0.1|62|Mortality|82005260|Kidney and Renal Pelvis|2005
+0-14|0.8|0.9|0.8|496|Incidence|57973098|Kidney and Renal Pelvis|2005
+0-19|0.6|0.8|0.7|544|Incidence|78541923|Kidney and Renal Pelvis|2005
+0-14|0.6|0.8|0.7|417|Mortality|60519046|Leukemia|2005
+0-19|0.7|0.8|0.8|640|Mortality|82005260|Leukemia|2005
+0-14|4.6|4.9|4.8|2765|Incidence|57973098|Leukemia|2005
+0-19|4.1|4.4|4.2|3330|Incidence|78541923|Leukemia|2005
+0-14|0.1|0.1|0.1|55|Mortality|60519046|Non-Hodgkin Lymphoma|2005
+0-19|0.1|0.1|0.1|102|Mortality|82005260|Non-Hodgkin Lymphoma|2005
+0-14|0.9|1.0|0.9|542|Incidence|57973098|Non-Hodgkin Lymphoma|2005
+0-19|1.1|1.3|1.2|941|Incidence|78541923|Non-Hodgkin Lymphoma|2005
+0-14|0.5|0.6|0.5|318|Mortality|60519046|Other|2005
+0-19|0.5|0.6|0.5|438|Mortality|82005260|Other|2005
+0-14|3.2|3.5|3.4|1987|Incidence|57973098|Other|2005
+0-19|4.6|4.9|4.8|3830|Incidence|78541923|Other|2005
+0-14|0.1|0.2|0.1|83|Mortality|60519046|Soft Tissue|2005
+0-19|0.2|0.2|0.2|163|Mortality|82005260|Soft Tissue|2005
+0-14|0.9|1.1|1.0|570|Incidence|57973098|Soft Tissue|2005
+0-19|1.0|1.1|1.0|815|Incidence|78541923|Soft Tissue|2005
+0-14|0.2|0.3|0.3|174|Mortality|60516709|Acute Lymphocytic|2006
+0-19|0.3|0.4|0.3|266|Mortality|82324418|Acute Lymphocytic|2006
+0-14|3.7|4.0|3.9|2242|Incidence|57966135|Acute Lymphocytic|2006
+0-19|3.2|3.4|3.3|2582|Incidence|78847112|Acute Lymphocytic|2006
+0-14|0.2|0.2|0.2|124|Mortality|60516709|Acute Myeloid|2006
+0-19|0.2|0.3|0.2|195|Mortality|82324418|Acute Myeloid|2006
+0-14|0.6|0.8|0.7|400|Incidence|57966135|Acute Myeloid|2006
+0-19|0.7|0.8|0.7|567|Incidence|78847112|Acute Myeloid|2006
+0-14|2.1|2.4|2.2|1360|Mortality|60516709|All Cancer Sites Combined|2006
+0-19|2.4|2.6|2.5|2035|Mortality|82324418|All Cancer Sites Combined|2006
+0-14|15.4|16.1|15.8|9188|Incidence|57966135|All Cancer Sites Combined|2006
+0-19|16.8|17.4|17.1|13618|Incidence|78847112|All Cancer Sites Combined|2006
+0-14|0.1|0.1|0.1|59|Mortality|60516709|Bones and Joints|2006
+0-19|0.2|0.2|0.2|174|Mortality|82324418|Bones and Joints|2006
+0-14|0.7|0.8|0.7|429|Incidence|57966135|Bones and Joints|2006
+0-19|0.9|1.0|1.0|765|Incidence|78847112|Bones and Joints|2006
+0-14|0.6|0.8|0.7|422|Mortality|60516709|Brain and Other Nervous System|2006
+0-19|0.6|0.7|0.6|524|Mortality|82324418|Brain and Other Nervous System|2006
+0-14|3.3|3.6|3.5|2009|Incidence|57966135|Brain and Other Nervous System|2006
+0-19|3.0|3.3|3.2|2490|Incidence|78847112|Brain and Other Nervous System|2006
+0-14|~|~|~|~|Mortality|60516709|Hodgkin Lymphoma|2006
+0-19|0.0|0.0|0.0|23|Mortality|82324418|Hodgkin Lymphoma|2006
+0-14|0.5|0.7|0.6|353|Incidence|57966135|Hodgkin Lymphoma|2006
+0-19|1.2|1.3|1.2|1004|Incidence|78847112|Hodgkin Lymphoma|2006
+0-14|0.1|0.1|0.1|43|Mortality|60516709|Kidney and Renal Pelvis|2006
+0-19|0.1|0.1|0.1|54|Mortality|82324418|Kidney and Renal Pelvis|2006
+0-14|0.8|0.9|0.9|502|Incidence|57966135|Kidney and Renal Pelvis|2006
+0-19|0.6|0.8|0.7|549|Incidence|78847112|Kidney and Renal Pelvis|2006
+0-14|0.6|0.7|0.7|411|Mortality|60516709|Leukemia|2006
+0-19|0.7|0.8|0.7|618|Mortality|82324418|Leukemia|2006
+0-14|4.7|5.1|4.9|2867|Incidence|57966135|Leukemia|2006
+0-19|4.3|4.6|4.4|3485|Incidence|78847112|Leukemia|2006
+0-14|0.1|0.1|0.1|44|Mortality|60516709|Non-Hodgkin Lymphoma|2006
+0-19|0.1|0.1|0.1|89|Mortality|82324418|Non-Hodgkin Lymphoma|2006
+0-14|0.8|1.0|0.9|536|Incidence|57966135|Non-Hodgkin Lymphoma|2006
+0-19|1.1|1.2|1.1|902|Incidence|78847112|Non-Hodgkin Lymphoma|2006
+0-14|0.4|0.5|0.5|296|Mortality|60516709|Other|2006
+0-19|0.5|0.6|0.5|413|Mortality|82324418|Other|2006
+0-14|3.1|3.4|3.3|1932|Incidence|57966135|Other|2006
+0-19|4.4|4.7|4.5|3646|Incidence|78847112|Other|2006
+0-14|0.1|0.2|0.1|80|Mortality|60516709|Soft Tissue|2006
+0-19|0.1|0.2|0.2|140|Mortality|82324418|Soft Tissue|2006
+0-14|0.9|1.0|1.0|560|Incidence|57966135|Soft Tissue|2006
+0-19|0.9|1.0|1.0|777|Incidence|78847112|Soft Tissue|2006
+0-14|0.3|0.3|0.3|900|Mortality|304398736|Acute Lymphocytic|2006-2010
+0-19|0.3|0.3|0.3|1283|Mortality|414658092|Acute Lymphocytic|2006-2010
+0-14|3.9|4.1|4.0|11598|Incidence|288616149|Acute Lymphocytic|2006-2010
+0-19|3.3|3.5|3.4|13288|Incidence|393229003|Acute Lymphocytic|2006-2010
+0-14|0.2|0.2|0.2|630|Mortality|304398736|Acute Myeloid|2006-2010
+0-19|0.2|0.2|0.2|953|Mortality|414658092|Acute Myeloid|2006-2010
+0-14|0.6|0.7|0.7|1967|Incidence|288616149|Acute Myeloid|2006-2010
+0-19|0.7|0.7|0.7|2827|Incidence|393229003|Acute Myeloid|2006-2010
+0-14|2.2|2.3|2.2|6753|Mortality|304398736|All Cancer Sites Combined|2006-2010
+0-19|2.4|2.5|2.4|10031|Mortality|414658092|All Cancer Sites Combined|2006-2010
+0-14|16.0|16.3|16.1|46794|Incidence|288616149|All Cancer Sites Combined|2006-2010
+0-19|17.3|17.6|17.5|69274|Incidence|393229003|All Cancer Sites Combined|2006-2010
+0-14|0.1|0.1|0.1|334|Mortality|304398736|Bones and Joints|2006-2010
+0-19|0.2|0.2|0.2|873|Mortality|414658092|Bones and Joints|2006-2010
+0-14|0.7|0.7|0.7|2012|Incidence|288616149|Bones and Joints|2006-2010
+0-19|0.9|0.9|0.9|3532|Incidence|393229003|Bones and Joints|2006-2010
+0-14|0.7|0.7|0.7|2089|Mortality|304398736|Brain and Other Nervous System|2006-2010
+0-19|0.6|0.7|0.6|2598|Mortality|414658092|Brain and Other Nervous System|2006-2010
+0-14|3.4|3.6|3.5|10107|Incidence|288616149|Brain and Other Nervous System|2006-2010
+0-19|3.1|3.2|3.2|12403|Incidence|393229003|Brain and Other Nervous System|2006-2010
+0-14|0.0|0.0|0.0|19|Mortality|304398736|Hodgkin Lymphoma|2006-2010
+0-19|0.0|0.0|0.0|90|Mortality|414658092|Hodgkin Lymphoma|2006-2010
+0-14|0.5|0.6|0.6|1656|Incidence|288616149|Hodgkin Lymphoma|2006-2010
+0-19|1.2|1.3|1.2|4988|Incidence|393229003|Hodgkin Lymphoma|2006-2010
+0-14|0.1|0.1|0.1|209|Mortality|304398736|Kidney and Renal Pelvis|2006-2010
+0-19|0.1|0.1|0.1|254|Mortality|414658092|Kidney and Renal Pelvis|2006-2010
+0-14|0.9|0.9|0.9|2601|Incidence|288616149|Kidney and Renal Pelvis|2006-2010
+0-19|0.7|0.7|0.7|2810|Incidence|393229003|Kidney and Renal Pelvis|2006-2010
+0-14|0.6|0.7|0.7|2033|Mortality|304398736|Leukemia|2006-2010
+0-19|0.7|0.7|0.7|2973|Mortality|414658092|Leukemia|2006-2010
+0-14|5.0|5.1|5.0|14622|Incidence|288616149|Leukemia|2006-2010
+0-19|4.4|4.6|4.5|17657|Incidence|393229003|Leukemia|2006-2010
+0-14|0.1|0.1|0.1|196|Mortality|304398736|Non-Hodgkin Lymphoma|2006-2010
+0-19|0.1|0.1|0.1|419|Mortality|414658092|Non-Hodgkin Lymphoma|2006-2010
+0-14|0.9|1.0|1.0|2749|Incidence|288616149|Non-Hodgkin Lymphoma|2006-2010
+0-19|1.1|1.2|1.1|4522|Incidence|393229003|Non-Hodgkin Lymphoma|2006-2010
+0-14|0.4|0.5|0.5|1445|Mortality|304398736|Other|2006-2010
+0-19|0.5|0.5|0.5|2074|Mortality|414658092|Other|2006-2010
+0-14|3.4|3.5|3.4|10072|Incidence|288616149|Other|2006-2010
+0-19|4.7|4.8|4.8|19208|Incidence|393229003|Other|2006-2010
+0-14|0.1|0.2|0.1|428|Mortality|304398736|Soft Tissue|2006-2010
+0-19|0.2|0.2|0.2|750|Mortality|414658092|Soft Tissue|2006-2010
+0-14|1.0|1.1|1.0|2975|Incidence|288616149|Soft Tissue|2006-2010
+0-19|1.0|1.1|1.0|4154|Incidence|393229003|Soft Tissue|2006-2010
+0-14|0.3|0.4|0.4|212|Mortality|60681615|Acute Lymphocytic|2007
+0-19|0.3|0.4|0.4|294|Mortality|82749431|Acute Lymphocytic|2007
+0-14|3.8|4.1|4.0|2375|Incidence|59628198|Acute Lymphocytic|2007
+0-19|3.3|3.5|3.4|2743|Incidence|81315506|Acute Lymphocytic|2007
+0-14|0.2|0.3|0.2|129|Mortality|60681615|Acute Myeloid|2007
+0-19|0.2|0.3|0.2|195|Mortality|82749431|Acute Myeloid|2007
+0-14|0.6|0.7|0.7|403|Incidence|59628198|Acute Myeloid|2007
+0-19|0.6|0.8|0.7|571|Incidence|81315506|Acute Myeloid|2007
+0-14|2.2|2.4|2.3|1395|Mortality|60681615|All Cancer Sites Combined|2007
+0-19|2.4|2.6|2.5|2068|Mortality|82749431|All Cancer Sites Combined|2007
+0-14|15.7|16.4|16.0|9632|Incidence|59628198|All Cancer Sites Combined|2007
+0-19|17.2|17.8|17.5|14342|Incidence|81315506|All Cancer Sites Combined|2007
+0-14|0.1|0.1|0.1|61|Mortality|60681615|Bones and Joints|2007
+0-19|0.2|0.2|0.2|172|Mortality|82749431|Bones and Joints|2007
+0-14|0.6|0.8|0.7|418|Incidence|59628198|Bones and Joints|2007
+0-19|0.8|1.0|0.9|730|Incidence|81315506|Bones and Joints|2007
+0-14|0.6|0.8|0.7|426|Mortality|60681615|Brain and Other Nervous System|2007
+0-19|0.6|0.7|0.6|521|Mortality|82749431|Brain and Other Nervous System|2007
+0-14|3.4|3.7|3.6|2131|Incidence|59628198|Brain and Other Nervous System|2007
+0-19|3.1|3.4|3.2|2613|Incidence|81315506|Brain and Other Nervous System|2007
+0-14|~|~|~|~|Mortality|60681615|Hodgkin Lymphoma|2007
+0-19|0.0|0.0|0.0|19|Mortality|82749431|Hodgkin Lymphoma|2007
+0-14|0.5|0.6|0.5|323|Incidence|59628198|Hodgkin Lymphoma|2007
+0-19|1.1|1.3|1.2|1010|Incidence|81315506|Hodgkin Lymphoma|2007
+0-14|0.0|0.1|0.1|36|Mortality|60681615|Kidney and Renal Pelvis|2007
+0-19|0.0|0.1|0.1|47|Mortality|82749431|Kidney and Renal Pelvis|2007
+0-14|0.8|1.0|0.9|529|Incidence|59628198|Kidney and Renal Pelvis|2007
+0-19|0.6|0.8|0.7|572|Incidence|81315506|Kidney and Renal Pelvis|2007
+0-14|0.7|0.8|0.7|441|Mortality|60681615|Leukemia|2007
+0-19|0.7|0.8|0.8|643|Mortality|82749431|Leukemia|2007
+0-14|4.8|5.2|5.0|3003|Incidence|59628198|Leukemia|2007
+0-19|4.3|4.6|4.5|3644|Incidence|81315506|Leukemia|2007
+0-14|0.0|0.1|0.1|40|Mortality|60681615|Non-Hodgkin Lymphoma|2007
+0-19|0.1|0.1|0.1|87|Mortality|82749431|Non-Hodgkin Lymphoma|2007
+0-14|0.9|1.1|1.0|579|Incidence|59628198|Non-Hodgkin Lymphoma|2007
+0-19|1.1|1.2|1.2|947|Incidence|81315506|Non-Hodgkin Lymphoma|2007
+0-14|0.4|0.6|0.5|306|Mortality|60681615|Other|2007
+0-19|0.5|0.6|0.5|439|Mortality|82749431|Other|2007
+0-14|3.2|3.5|3.3|2020|Incidence|59628198|Other|2007
+0-19|4.6|4.9|4.7|3938|Incidence|81315506|Other|2007
+0-14|0.1|0.2|0.1|82|Mortality|60681615|Soft Tissue|2007
+0-19|0.1|0.2|0.2|140|Mortality|82749431|Soft Tissue|2007
+0-14|1.0|1.1|1.0|629|Incidence|59628198|Soft Tissue|2007
+0-19|1.0|1.2|1.1|888|Incidence|81315506|Soft Tissue|2007
+0-14|0.2|0.3|0.3|176|Mortality|60907384|Acute Lymphocytic|2008
+0-19|0.3|0.3|0.3|253|Mortality|83118264|Acute Lymphocytic|2008
+0-14|3.9|4.2|4.0|2438|Incidence|59850043|Acute Lymphocytic|2008
+0-19|3.3|3.6|3.4|2799|Incidence|81683260|Acute Lymphocytic|2008
+0-14|0.2|0.2|0.2|127|Mortality|60907384|Acute Myeloid|2008
+0-19|0.2|0.3|0.2|183|Mortality|83118264|Acute Myeloid|2008
+0-14|0.6|0.8|0.7|429|Incidence|59850043|Acute Myeloid|2008
+0-19|0.7|0.8|0.7|611|Incidence|81683260|Acute Myeloid|2008
+0-14|2.1|2.3|2.2|1354|Mortality|60907384|All Cancer Sites Combined|2008
+0-19|2.3|2.5|2.4|2039|Mortality|83118264|All Cancer Sites Combined|2008
+0-14|15.9|16.5|16.2|9774|Incidence|59850043|All Cancer Sites Combined|2008
+0-19|17.3|17.9|17.6|14511|Incidence|81683260|All Cancer Sites Combined|2008
+0-14|0.1|0.1|0.1|62|Mortality|60907384|Bones and Joints|2008
+0-19|0.2|0.2|0.2|182|Mortality|83118264|Bones and Joints|2008
+0-14|0.6|0.8|0.7|419|Incidence|59850043|Bones and Joints|2008
+0-19|0.8|1.0|0.9|730|Incidence|81683260|Bones and Joints|2008
+0-14|0.6|0.8|0.7|429|Mortality|60907384|Brain and Other Nervous System|2008
+0-19|0.6|0.7|0.6|533|Mortality|83118264|Brain and Other Nervous System|2008
+0-14|3.4|3.7|3.5|2112|Incidence|59850043|Brain and Other Nervous System|2008
+0-19|3.1|3.3|3.2|2610|Incidence|81683260|Brain and Other Nervous System|2008
+0-14|~|~|~|~|Mortality|60907384|Hodgkin Lymphoma|2008
+0-19|~|~|~|~|Mortality|83118264|Hodgkin Lymphoma|2008
+0-14|0.6|0.7|0.6|372|Incidence|59850043|Hodgkin Lymphoma|2008
+0-19|1.2|1.4|1.3|1081|Incidence|81683260|Hodgkin Lymphoma|2008
+0-14|0.1|0.1|0.1|46|Mortality|60907384|Kidney and Renal Pelvis|2008
+0-19|0.0|0.1|0.1|52|Mortality|83118264|Kidney and Renal Pelvis|2008
+0-14|0.8|1.0|0.9|551|Incidence|59850043|Kidney and Renal Pelvis|2008
+0-19|0.7|0.8|0.7|600|Incidence|81683260|Kidney and Renal Pelvis|2008
+0-14|0.6|0.7|0.7|402|Mortality|60907384|Leukemia|2008
+0-19|0.7|0.8|0.7|598|Mortality|83118264|Leukemia|2008
+0-14|4.9|5.3|5.1|3090|Incidence|59850043|Leukemia|2008
+0-19|4.4|4.7|4.6|3728|Incidence|81683260|Leukemia|2008
+0-14|0.0|0.1|0.1|39|Mortality|60907384|Non-Hodgkin Lymphoma|2008
+0-19|0.1|0.1|0.1|93|Mortality|83118264|Non-Hodgkin Lymphoma|2008
+0-14|0.9|1.0|1.0|570|Incidence|59850043|Non-Hodgkin Lymphoma|2008
+0-19|1.1|1.2|1.1|946|Incidence|81683260|Non-Hodgkin Lymphoma|2008
+0-14|0.4|0.5|0.5|286|Mortality|60907384|Other|2008
+0-19|0.4|0.5|0.5|407|Mortality|83118264|Other|2008
+0-14|3.2|3.5|3.3|2015|Incidence|59850043|Other|2008
+0-19|4.5|4.8|4.7|3926|Incidence|81683260|Other|2008
+0-14|0.1|0.2|0.1|89|Mortality|60907384|Soft Tissue|2008
+0-19|0.2|0.2|0.2|160|Mortality|83118264|Soft Tissue|2008
+0-14|1.0|1.1|1.1|645|Incidence|59850043|Soft Tissue|2008
+0-19|1.0|1.2|1.1|890|Incidence|81683260|Soft Tissue|2008
+0-14|0.2|0.3|0.3|174|Mortality|61087581|Acute Lymphocytic|2009
+0-19|0.3|0.3|0.3|240|Mortality|83280391|Acute Lymphocytic|2009
+0-14|3.9|4.2|4.0|2432|Incidence|60026780|Acute Lymphocytic|2009
+0-19|3.3|3.5|3.4|2775|Incidence|81846618|Acute Lymphocytic|2009
+0-14|0.2|0.2|0.2|119|Mortality|61087581|Acute Myeloid|2009
+0-19|0.2|0.3|0.2|182|Mortality|83280391|Acute Myeloid|2009
+0-14|0.6|0.7|0.7|398|Incidence|60026780|Acute Myeloid|2009
+0-19|0.6|0.8|0.7|571|Incidence|81846618|Acute Myeloid|2009
+0-14|2.0|2.3|2.2|1320|Mortality|61087581|All Cancer Sites Combined|2009
+0-19|2.2|2.5|2.3|1964|Mortality|83280391|All Cancer Sites Combined|2009
+0-14|15.7|16.3|16.0|9647|Incidence|60026780|All Cancer Sites Combined|2009
+0-19|17.1|17.7|17.4|14339|Incidence|81846618|All Cancer Sites Combined|2009
+0-14|0.1|0.2|0.1|77|Mortality|61087581|Bones and Joints|2009
+0-19|0.2|0.2|0.2|179|Mortality|83280391|Bones and Joints|2009
+0-14|0.6|0.8|0.7|414|Incidence|60026780|Bones and Joints|2009
+0-19|0.8|1.0|0.9|730|Incidence|81846618|Bones and Joints|2009
+0-14|0.6|0.7|0.7|402|Mortality|61087581|Brain and Other Nervous System|2009
+0-19|0.6|0.7|0.6|522|Mortality|83280391|Brain and Other Nervous System|2009
+0-14|3.3|3.6|3.5|2092|Incidence|60026780|Brain and Other Nervous System|2009
+0-19|3.0|3.3|3.1|2557|Incidence|81846618|Brain and Other Nervous System|2009
+0-14|~|~|~|~|Mortality|61087581|Hodgkin Lymphoma|2009
+0-19|0.0|0.0|0.0|22|Mortality|83280391|Hodgkin Lymphoma|2009
+0-14|0.5|0.6|0.6|336|Incidence|60026780|Hodgkin Lymphoma|2009
+0-19|1.2|1.3|1.2|1041|Incidence|81846618|Hodgkin Lymphoma|2009
+0-14|0.0|0.1|0.1|38|Mortality|61087581|Kidney and Renal Pelvis|2009
+0-19|0.0|0.1|0.1|45|Mortality|83280391|Kidney and Renal Pelvis|2009
+0-14|0.9|1.0|0.9|574|Incidence|60026780|Kidney and Renal Pelvis|2009
+0-19|0.7|0.8|0.8|616|Incidence|81846618|Kidney and Renal Pelvis|2009
+0-14|0.6|0.7|0.6|389|Mortality|61087581|Leukemia|2009
+0-19|0.6|0.7|0.7|561|Mortality|83280391|Leukemia|2009
+0-14|4.8|5.2|5.0|3029|Incidence|60026780|Leukemia|2009
+0-19|4.3|4.6|4.4|3632|Incidence|81846618|Leukemia|2009
+0-14|0.0|0.1|0.1|38|Mortality|61087581|Non-Hodgkin Lymphoma|2009
+0-19|0.1|0.1|0.1|75|Mortality|83280391|Non-Hodgkin Lymphoma|2009
+0-14|0.9|1.0|0.9|559|Incidence|60026780|Non-Hodgkin Lymphoma|2009
+0-19|1.0|1.2|1.1|921|Incidence|81846618|Non-Hodgkin Lymphoma|2009
+0-14|0.4|0.5|0.4|271|Mortality|61087581|Other|2009
+0-19|0.4|0.5|0.5|396|Mortality|83280391|Other|2009
+0-14|3.2|3.5|3.3|2021|Incidence|60026780|Other|2009
+0-19|4.6|4.9|4.7|3962|Incidence|81846618|Other|2009
+0-14|0.1|0.2|0.2|98|Mortality|61087581|Soft Tissue|2009
+0-19|0.2|0.2|0.2|164|Mortality|83280391|Soft Tissue|2009
+0-14|0.9|1.1|1.0|622|Incidence|60026780|Soft Tissue|2009
+0-19|1.0|1.1|1.1|880|Incidence|81846618|Soft Tissue|2009
+0-14|0.2|0.3|0.3|164|Mortality|61205447|Acute Lymphocytic|2010
+0-19|0.2|0.3|0.3|230|Mortality|83185588|Acute Lymphocytic|2010
+0-14|3.8|4.2|4.0|2396|Incidence|59550980|Acute Lymphocytic|2010
+0-19|3.2|3.5|3.4|2709|Incidence|80961146|Acute Lymphocytic|2010
+0-14|0.2|0.3|0.2|131|Mortality|61205447|Acute Myeloid|2010
+0-19|0.2|0.3|0.2|198|Mortality|83185588|Acute Myeloid|2010
+0-14|0.6|0.7|0.7|393|Incidence|59550980|Acute Myeloid|2010
+0-19|0.7|0.8|0.7|583|Incidence|80961146|Acute Myeloid|2010
+0-14|2.0|2.3|2.2|1324|Mortality|61205447|All Cancer Sites Combined|2010
+0-19|2.2|2.4|2.3|1925|Mortality|83185588|All Cancer Sites Combined|2010
+0-14|16.1|16.7|16.4|9814|Incidence|59550980|All Cancer Sites Combined|2010
+0-19|17.2|17.8|17.5|14276|Incidence|80961146|All Cancer Sites Combined|2010
+0-14|0.1|0.2|0.1|75|Mortality|61205447|Bones and Joints|2010
+0-19|0.2|0.2|0.2|166|Mortality|83185588|Bones and Joints|2010
+0-14|0.6|0.7|0.7|395|Incidence|59550980|Bones and Joints|2010
+0-19|0.8|0.9|0.8|676|Incidence|80961146|Bones and Joints|2010
+0-14|0.6|0.7|0.7|410|Mortality|61205447|Brain and Other Nervous System|2010
+0-19|0.6|0.7|0.6|498|Mortality|83185588|Brain and Other Nervous System|2010
+0-14|3.3|3.6|3.5|2071|Incidence|59550980|Brain and Other Nervous System|2010
+0-19|3.0|3.2|3.1|2503|Incidence|80961146|Brain and Other Nervous System|2010
+0-14|~|~|~|~|Mortality|61205447|Hodgkin Lymphoma|2010
+0-19|~|~|~|~|Mortality|83185588|Hodgkin Lymphoma|2010
+0-14|0.5|0.6|0.5|314|Incidence|59550980|Hodgkin Lymphoma|2010
+0-19|1.1|1.3|1.2|983|Incidence|80961146|Hodgkin Lymphoma|2010
+0-14|0.1|0.1|0.1|46|Mortality|61205447|Kidney and Renal Pelvis|2010
+0-19|0.1|0.1|0.1|56|Mortality|83185588|Kidney and Renal Pelvis|2010
+0-14|0.8|0.9|0.9|520|Incidence|59550980|Kidney and Renal Pelvis|2010
+0-19|0.6|0.7|0.7|552|Incidence|80961146|Kidney and Renal Pelvis|2010
+0-14|0.6|0.7|0.6|390|Mortality|61205447|Leukemia|2010
+0-19|0.6|0.7|0.7|553|Mortality|83185588|Leukemia|2010
+0-14|4.8|5.2|5.0|3005|Incidence|59550980|Leukemia|2010
+0-19|4.3|4.6|4.5|3609|Incidence|80961146|Leukemia|2010
+0-14|0.0|0.1|0.1|35|Mortality|61205447|Non-Hodgkin Lymphoma|2010
+0-19|0.1|0.1|0.1|75|Mortality|83185588|Non-Hodgkin Lymphoma|2010
+0-14|0.9|1.0|1.0|569|Incidence|59550980|Non-Hodgkin Lymphoma|2010
+0-19|1.0|1.2|1.1|909|Incidence|80961146|Non-Hodgkin Lymphoma|2010
+0-14|0.4|0.5|0.5|286|Mortality|61205447|Other|2010
+0-19|0.5|0.6|0.5|419|Mortality|83185588|Other|2010
+0-14|3.7|4.0|3.9|2321|Incidence|59550980|Other|2010
+0-19|4.9|5.3|5.1|4197|Incidence|80961146|Other|2010
+0-14|0.1|0.2|0.1|79|Mortality|61205447|Soft Tissue|2010
+0-19|0.1|0.2|0.2|146|Mortality|83185588|Soft Tissue|2010
+0-14|1.0|1.1|1.0|619|Incidence|59550980|Soft Tissue|2010
+0-19|1.0|1.1|1.0|847|Incidence|80961146|Soft Tissue|2010

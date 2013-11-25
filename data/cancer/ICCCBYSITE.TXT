@@ -1,0 +1,1587 @@
+AGE_ADJUSTED_CI_LOWER|AGE_ADJUSTED_CI_UPPER|AGE_ADJUSTED_RATE|COUNT|ICCC_GROUP|POPULATION|AGE|RACE|SEX|YEAR|CRUDE_CI_LOWER|CRUDE_CI_UPPER|CRUDE_RATE
+144.2|150.9|147.5|7648|All ICCC Groups Combined|51965300|0-14|All Races|Male and Female|1999|||
+45.0|48.8|46.9|2432|I Leukemias, myeloproliferative & myelodysplastic diseases|51965300|0-14|All Races|Male and Female|1999|||
+35.3|38.6|36.9|1918|I(a) Lymphoid leukemias|51965300|0-14|All Races|Male and Female|1999|||
+7.0|8.6|7.8|402|I(b) Acute myeloid leukemias|51965300|0-14|All Races|Male and Female|1999|||
+0.4|0.8|0.6|29|I(c) Chronic myeloproliferative diseases|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|51965300|0-14|All Races|Male and Female|1999|||
+1.1|1.8|1.4|74|I(e) Unspecified and other specified leukemias|51965300|0-14|All Races|Male and Female|1999|||
+14.3|16.5|15.4|798|II Lymphomas and reticuloendothelial neoplasms|51965300|0-14|All Races|Male and Female|1999|||
+4.8|6.1|5.4|279|II(a) Hodgkin lymphomas|51965300|0-14|All Races|Male and Female|1999|||
+5.5|6.9|6.1|319|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|51965300|0-14|All Races|Male and Female|1999|||
+2.1|3.0|2.5|132|II(c) Burkitt lymphoma|51965300|0-14|All Races|Male and Female|1999|||
+0.6|1.2|0.9|45|II(d) Miscellaneous lymphoreticular neoplasms|51965300|0-14|All Races|Male and Female|1999|||
+0.3|0.7|0.4|23|II(e) Unspecified lymphomas|51965300|0-14|All Races|Male and Female|1999|||
+30.1|33.2|31.7|1646|III CNS and misc intracranial and intraspinal neoplasms|51965300|0-14|All Races|Male and Female|1999|||
+2.4|3.3|2.8|147|III(a) Ependymomas and choroid plexus tumor|51965300|0-14|All Races|Male and Female|1999|||
+13.3|15.4|14.3|745|III(b) Astrocytomas|51965300|0-14|All Races|Male and Female|1999|||
+7.4|8.9|8.1|422|III(c) Intracranial and intraspinal embryonal tumors|51965300|0-14|All Races|Male and Female|1999|||
+4.7|5.9|5.3|274|III(d) Other gliomas|51965300|0-14|All Races|Male and Female|1999|||
+0.3|0.7|0.5|25|III(e) Other specified intracranial & intraspinal neoplasms|51965300|0-14|All Races|Male and Female|1999|||
+0.4|0.9|0.6|33|III(f) Unspecified intracranial and intraspinal neoplasms|51965300|0-14|All Races|Male and Female|1999|||
+9.8|11.6|10.6|547|IV Neuroblastoma and other peripheral nervous cell tumors|51965300|0-14|All Races|Male and Female|1999|||
+9.6|11.4|10.5|538|IV(a) Neuroblastoma and ganglioneuroblastoma|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|51965300|0-14|All Races|Male and Female|1999|||
+8.8|10.5|9.6|497|IX Soft tissue and other extraosseous sarcomas|51965300|0-14|All Races|Male and Female|1999|||
+4.4|5.6|5.0|259|IX(a) Rhabdomyosarcomas|51965300|0-14|All Races|Male and Female|1999|||
+0.7|1.3|1.0|52|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|IX(c) Kaposi sarcoma|51965300|0-14|All Races|Male and Female|1999|||
+2.2|3.1|2.6|136|IX(d) Other specified soft tissue sarcomas|51965300|0-14|All Races|Male and Female|1999|||
+0.7|1.2|0.9|49|IX(e) Unspecified soft tissue sarcomas|51965300|0-14|All Races|Male and Female|1999|||
+0.2|0.5|0.3|16|Not classified by ICCC|51965300|0-14|All Races|Male and Female|1999|||
+3.8|5.0|4.4|224|V Retinoblastoma|51965300|0-14|All Races|Male and Female|1999|||
+7.3|8.8|8.0|415|VI Renal tumors|51965300|0-14|All Races|Male and Female|1999|||
+6.8|8.3|7.5|389|VI(a) Nephroblastoma and other nonepithelial renal tumors|51965300|0-14|All Races|Male and Female|1999|||
+0.3|0.7|0.4|23|VI(b) Renal carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|51965300|0-14|All Races|Male and Female|1999|||
+1.7|2.5|2.1|107|VII Hepatic tumors|51965300|0-14|All Races|Male and Female|1999|||
+1.3|2.1|1.7|86|VII(a) Hepatoblastoma|51965300|0-14|All Races|Male and Female|1999|||
+0.3|0.6|0.4|21|VII(b) Hepatic carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|51965300|0-14|All Races|Male and Female|1999|||
+6.6|8.0|7.3|377|VIII Malignant bone tumors|51965300|0-14|All Races|Male and Female|1999|||
+3.6|4.8|4.2|216|VIII(a) Osteosarcomas|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|VIII(b) Chondrosarcomas|51965300|0-14|All Races|Male and Female|1999|||
+2.1|3.0|2.5|129|VIII(c) Ewing tumor and related sarcomas of bone|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|VIII(d) Other specified malignant bone tumors|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|51965300|0-14|All Races|Male and Female|1999|||
+4.4|5.6|4.9|255|X Germ cell, trophoblastic tumors & neoplasms of gonads|51965300|0-14|All Races|Male and Female|1999|||
+1.0|1.6|1.3|67|X(a) Intracranial & intraspinal germ cell tumors|51965300|0-14|All Races|Male and Female|1999|||
+1.0|1.7|1.3|69|X(b) Malignant extracranial & extragonadal germ cell tumors|51965300|0-14|All Races|Male and Female|1999|||
+1.7|2.5|2.1|107|X(c) Malignant gonadal germ cell tumors|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|X(d) Gonadal carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|51965300|0-14|All Races|Male and Female|1999|||
+5.3|6.6|5.9|307|XI Other malignant epithelial neoplasms and malignant melanomas|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+1.6|2.3|1.9|99|XI(b) Thyroid carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+0.2|0.6|0.4|19|XI(c) Nasopharyngeal carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+1.5|2.2|1.8|94|XI(d) Malignant melanomas|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|XI(e) Skin carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+1.2|1.9|1.5|79|XI(f) Other and unspecified carcinomas|51965300|0-14|All Races|Male and Female|1999|||
+0.3|0.8|0.5|27|XII Other and unspecified malignant neoplasms|51965300|0-14|All Races|Male and Female|1999|||
+~|~|~|~|XII(a) Other specified malignant tumors|51965300|0-14|All Races|Male and Female|1999|||
+0.2|0.5|0.3|16|XII(b) Other unspecified malignant tumors|51965300|0-14|All Races|Male and Female|1999|||
+146.3|152.8|149.5|7992|All ICCC Groups Combined|53577590|0-14|All Races|Male and Female|2000|||
+44.3|47.9|46.1|2459|I Leukemias, myeloproliferative & myelodysplastic diseases|53577590|0-14|All Races|Male and Female|2000|||
+35.5|38.8|37.1|1979|I(a) Lymphoid leukemias|53577590|0-14|All Races|Male and Female|2000|||
+6.0|7.4|6.7|356|I(b) Acute myeloid leukemias|53577590|0-14|All Races|Male and Female|2000|||
+0.5|1.0|0.8|41|I(c) Chronic myeloproliferative diseases|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|53577590|0-14|All Races|Male and Female|2000|||
+1.1|1.7|1.4|74|I(e) Unspecified and other specified leukemias|53577590|0-14|All Races|Male and Female|2000|||
+15.4|17.5|16.4|882|II Lymphomas and reticuloendothelial neoplasms|53577590|0-14|All Races|Male and Female|2000|||
+5.3|6.6|5.9|320|II(a) Hodgkin lymphomas|53577590|0-14|All Races|Male and Female|2000|||
+5.3|6.6|5.9|318|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|53577590|0-14|All Races|Male and Female|2000|||
+2.3|3.2|2.7|144|II(c) Burkitt lymphoma|53577590|0-14|All Races|Male and Female|2000|||
+0.9|1.5|1.2|64|II(d) Miscellaneous lymphoreticular neoplasms|53577590|0-14|All Races|Male and Female|2000|||
+0.5|0.9|0.7|36|II(e) Unspecified lymphomas|53577590|0-14|All Races|Male and Female|2000|||
+31.3|34.4|32.9|1759|III CNS and misc intracranial and intraspinal neoplasms|53577590|0-14|All Races|Male and Female|2000|||
+2.3|3.2|2.7|146|III(a) Ependymomas and choroid plexus tumor|53577590|0-14|All Races|Male and Female|2000|||
+15.7|17.9|16.8|900|III(b) Astrocytomas|53577590|0-14|All Races|Male and Female|2000|||
+6.9|8.4|7.6|407|III(c) Intracranial and intraspinal embryonal tumors|53577590|0-14|All Races|Male and Female|2000|||
+4.0|5.2|4.6|246|III(d) Other gliomas|53577590|0-14|All Races|Male and Female|2000|||
+0.3|0.7|0.4|24|III(e) Other specified intracranial & intraspinal neoplasms|53577590|0-14|All Races|Male and Female|2000|||
+0.5|0.9|0.7|36|III(f) Unspecified intracranial and intraspinal neoplasms|53577590|0-14|All Races|Male and Female|2000|||
+9.3|11.0|10.1|539|IV Neuroblastoma and other peripheral nervous cell tumors|53577590|0-14|All Races|Male and Female|2000|||
+9.2|10.9|10.0|532|IV(a) Neuroblastoma and ganglioneuroblastoma|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|53577590|0-14|All Races|Male and Female|2000|||
+9.5|11.2|10.3|553|IX Soft tissue and other extraosseous sarcomas|53577590|0-14|All Races|Male and Female|2000|||
+4.7|5.9|5.3|281|IX(a) Rhabdomyosarcomas|53577590|0-14|All Races|Male and Female|2000|||
+0.7|1.2|0.9|49|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|IX(c) Kaposi sarcoma|53577590|0-14|All Races|Male and Female|2000|||
+2.7|3.6|3.1|167|IX(d) Other specified soft tissue sarcomas|53577590|0-14|All Races|Male and Female|2000|||
+0.8|1.3|1.0|55|IX(e) Unspecified soft tissue sarcomas|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|Not classified by ICCC|53577590|0-14|All Races|Male and Female|2000|||
+3.9|5.0|4.4|235|V Retinoblastoma|53577590|0-14|All Races|Male and Female|2000|||
+8.0|9.6|8.8|467|VI Renal tumors|53577590|0-14|All Races|Male and Female|2000|||
+7.6|9.2|8.4|446|VI(a) Nephroblastoma and other nonepithelial renal tumors|53577590|0-14|All Races|Male and Female|2000|||
+0.2|0.6|0.4|20|VI(b) Renal carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|53577590|0-14|All Races|Male and Female|2000|||
+1.9|2.7|2.3|120|VII Hepatic tumors|53577590|0-14|All Races|Male and Female|2000|||
+1.7|2.4|2.0|107|VII(a) Hepatoblastoma|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|VII(b) Hepatic carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|53577590|0-14|All Races|Male and Female|2000|||
+6.0|7.4|6.7|360|VIII Malignant bone tumors|53577590|0-14|All Races|Male and Female|2000|||
+3.2|4.3|3.7|201|VIII(a) Osteosarcomas|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|VIII(b) Chondrosarcomas|53577590|0-14|All Races|Male and Female|2000|||
+2.2|3.1|2.6|142|VIII(c) Ewing tumor and related sarcomas of bone|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|VIII(d) Other specified malignant bone tumors|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|53577590|0-14|All Races|Male and Female|2000|||
+4.2|5.4|4.8|258|X Germ cell, trophoblastic tumors & neoplasms of gonads|53577590|0-14|All Races|Male and Female|2000|||
+1.2|1.9|1.5|80|X(a) Intracranial & intraspinal germ cell tumors|53577590|0-14|All Races|Male and Female|2000|||
+0.8|1.4|1.1|59|X(b) Malignant extracranial & extragonadal germ cell tumors|53577590|0-14|All Races|Male and Female|2000|||
+1.7|2.4|2.0|109|X(c) Malignant gonadal germ cell tumors|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|X(d) Gonadal carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|53577590|0-14|All Races|Male and Female|2000|||
+5.1|6.3|5.7|305|XI Other malignant epithelial neoplasms and malignant melanomas|53577590|0-14|All Races|Male and Female|2000|||
+0.2|0.5|0.3|16|XI(a) Adrenocortical carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+1.5|2.3|1.9|100|XI(b) Thyroid carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+0.2|0.5|0.3|18|XI(c) Nasopharyngeal carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+1.3|2.1|1.7|90|XI(d) Malignant melanomas|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|XI(e) Skin carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+1.1|1.8|1.5|78|XI(f) Other and unspecified carcinomas|53577590|0-14|All Races|Male and Female|2000|||
+0.6|1.0|0.8|41|XII Other and unspecified malignant neoplasms|53577590|0-14|All Races|Male and Female|2000|||
+~|~|~|~|XII(a) Other specified malignant tumors|53577590|0-14|All Races|Male and Female|2000|||
+0.3|0.8|0.5|28|XII(b) Other unspecified malignant tumors|53577590|0-14|All Races|Male and Female|2000|||
+153.3|159.9|156.6|8745|All ICCC Groups Combined|55895109|0-14|All Races|Male and Female|2001|||
+49.0|52.7|50.8|2825|I Leukemias, myeloproliferative & myelodysplastic diseases|55895109|0-14|All Races|Male and Female|2001|||
+37.3|40.6|38.9|2159|I(a) Lymphoid leukemias|55895109|0-14|All Races|Male and Female|2001|||
+6.7|8.1|7.4|412|I(b) Acute myeloid leukemias|55895109|0-14|All Races|Male and Female|2001|||
+1.3|2.0|1.6|93|I(c) Chronic myeloproliferative diseases|55895109|0-14|All Races|Male and Female|2001|||
+1.3|2.0|1.7|93|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|55895109|0-14|All Races|Male and Female|2001|||
+0.9|1.5|1.2|68|I(e) Unspecified and other specified leukemias|55895109|0-14|All Races|Male and Female|2001|||
+15.0|17.1|16.1|902|II Lymphomas and reticuloendothelial neoplasms|55895109|0-14|All Races|Male and Female|2001|||
+5.3|6.5|5.9|331|II(a) Hodgkin lymphomas|55895109|0-14|All Races|Male and Female|2001|||
+5.8|7.2|6.5|364|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|55895109|0-14|All Races|Male and Female|2001|||
+1.9|2.7|2.3|127|II(c) Burkitt lymphoma|55895109|0-14|All Races|Male and Female|2001|||
+0.8|1.3|1.0|58|II(d) Miscellaneous lymphoreticular neoplasms|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.6|0.4|22|II(e) Unspecified lymphomas|55895109|0-14|All Races|Male and Female|2001|||
+31.2|34.2|32.7|1823|III CNS and misc intracranial and intraspinal neoplasms|55895109|0-14|All Races|Male and Female|2001|||
+2.4|3.3|2.8|155|III(a) Ependymomas and choroid plexus tumor|55895109|0-14|All Races|Male and Female|2001|||
+15.1|17.2|16.1|899|III(b) Astrocytomas|55895109|0-14|All Races|Male and Female|2001|||
+6.6|8.1|7.3|408|III(c) Intracranial and intraspinal embryonal tumors|55895109|0-14|All Races|Male and Female|2001|||
+4.8|6.1|5.4|304|III(d) Other gliomas|55895109|0-14|All Races|Male and Female|2001|||
+0.5|0.9|0.7|37|III(e) Other specified intracranial & intraspinal neoplasms|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.6|0.4|20|III(f) Unspecified intracranial and intraspinal neoplasms|55895109|0-14|All Races|Male and Female|2001|||
+10.9|12.7|11.8|658|IV Neuroblastoma and other peripheral nervous cell tumors|55895109|0-14|All Races|Male and Female|2001|||
+10.8|12.6|11.6|651|IV(a) Neuroblastoma and ganglioneuroblastoma|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|55895109|0-14|All Races|Male and Female|2001|||
+9.6|11.3|10.4|582|IX Soft tissue and other extraosseous sarcomas|55895109|0-14|All Races|Male and Female|2001|||
+4.5|5.7|5.1|283|IX(a) Rhabdomyosarcomas|55895109|0-14|All Races|Male and Female|2001|||
+1.0|1.6|1.3|72|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|IX(c) Kaposi sarcoma|55895109|0-14|All Races|Male and Female|2001|||
+2.6|3.5|3.0|170|IX(d) Other specified soft tissue sarcomas|55895109|0-14|All Races|Male and Female|2001|||
+0.8|1.3|1.0|57|IX(e) Unspecified soft tissue sarcomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|Not classified by ICCC|55895109|0-14|All Races|Male and Female|2001|||
+3.8|5.0|4.4|245|V Retinoblastoma|55895109|0-14|All Races|Male and Female|2001|||
+7.8|9.3|8.5|473|VI Renal tumors|55895109|0-14|All Races|Male and Female|2001|||
+7.4|8.9|8.2|452|VI(a) Nephroblastoma and other nonepithelial renal tumors|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.5|0.3|19|VI(b) Renal carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|55895109|0-14|All Races|Male and Female|2001|||
+1.7|2.5|2.1|118|VII Hepatic tumors|55895109|0-14|All Races|Male and Female|2001|||
+1.4|2.1|1.7|95|VII(a) Hepatoblastoma|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.6|0.4|22|VII(b) Hepatic carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|55895109|0-14|All Races|Male and Female|2001|||
+6.3|7.7|7.0|394|VIII Malignant bone tumors|55895109|0-14|All Races|Male and Female|2001|||
+3.3|4.3|3.8|214|VIII(a) Osteosarcomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|VIII(b) Chondrosarcomas|55895109|0-14|All Races|Male and Female|2001|||
+2.3|3.2|2.7|153|VIII(c) Ewing tumor and related sarcomas of bone|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|VIII(d) Other specified malignant bone tumors|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|55895109|0-14|All Races|Male and Female|2001|||
+4.5|5.7|5.1|287|X Germ cell, trophoblastic tumors & neoplasms of gonads|55895109|0-14|All Races|Male and Female|2001|||
+1.0|1.6|1.3|73|X(a) Intracranial & intraspinal germ cell tumors|55895109|0-14|All Races|Male and Female|2001|||
+1.1|1.8|1.4|80|X(b) Malignant extracranial & extragonadal germ cell tumors|55895109|0-14|All Races|Male and Female|2001|||
+1.7|2.5|2.1|116|X(c) Malignant gonadal germ cell tumors|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|X(d) Gonadal carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|55895109|0-14|All Races|Male and Female|2001|||
+6.1|7.5|6.8|384|XI Other malignant epithelial neoplasms and malignant melanomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+1.9|2.8|2.3|132|XI(b) Thyroid carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.5|0.3|18|XI(c) Nasopharyngeal carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+1.7|2.5|2.1|118|XI(d) Malignant melanomas|55895109|0-14|All Races|Male and Female|2001|||
+~|~|~|~|XI(e) Skin carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+1.4|2.1|1.7|98|XI(f) Other and unspecified carcinomas|55895109|0-14|All Races|Male and Female|2001|||
+0.5|1.0|0.7|40|XII Other and unspecified malignant neoplasms|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.6|0.4|21|XII(a) Other specified malignant tumors|55895109|0-14|All Races|Male and Female|2001|||
+0.2|0.5|0.3|19|XII(b) Other unspecified malignant tumors|55895109|0-14|All Races|Male and Female|2001|||
+152.6|159.2|155.8|8658|All ICCC Groups Combined|55565102|0-14|All Races|Male and Female|2002|||
+48.0|51.8|49.9|2759|I Leukemias, myeloproliferative & myelodysplastic diseases|55565102|0-14|All Races|Male and Female|2002|||
+35.9|39.2|37.5|2070|I(a) Lymphoid leukemias|55565102|0-14|All Races|Male and Female|2002|||
+7.2|8.6|7.9|439|I(b) Acute myeloid leukemias|55565102|0-14|All Races|Male and Female|2002|||
+1.3|2.0|1.6|89|I(c) Chronic myeloproliferative diseases|55565102|0-14|All Races|Male and Female|2002|||
+1.3|2.0|1.7|92|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|55565102|0-14|All Races|Male and Female|2002|||
+1.0|1.6|1.2|69|I(e) Unspecified and other specified leukemias|55565102|0-14|All Races|Male and Female|2002|||
+14.7|16.8|15.8|883|II Lymphomas and reticuloendothelial neoplasms|55565102|0-14|All Races|Male and Female|2002|||
+4.8|6.1|5.4|306|II(a) Hodgkin lymphomas|55565102|0-14|All Races|Male and Female|2002|||
+5.6|6.9|6.2|347|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|55565102|0-14|All Races|Male and Female|2002|||
+2.3|3.2|2.8|153|II(c) Burkitt lymphoma|55565102|0-14|All Races|Male and Female|2002|||
+0.9|1.5|1.2|65|II(d) Miscellaneous lymphoreticular neoplasms|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|II(e) Unspecified lymphomas|55565102|0-14|All Races|Male and Female|2002|||
+32.9|36.0|34.4|1907|III CNS and misc intracranial and intraspinal neoplasms|55565102|0-14|All Races|Male and Female|2002|||
+3.2|4.2|3.7|205|III(a) Ependymomas and choroid plexus tumor|55565102|0-14|All Races|Male and Female|2002|||
+15.2|17.4|16.3|902|III(b) Astrocytomas|55565102|0-14|All Races|Male and Female|2002|||
+6.7|8.2|7.4|409|III(c) Intracranial and intraspinal embryonal tumors|55565102|0-14|All Races|Male and Female|2002|||
+5.3|6.6|5.9|327|III(d) Other gliomas|55565102|0-14|All Races|Male and Female|2002|||
+0.5|1.0|0.7|41|III(e) Other specified intracranial & intraspinal neoplasms|55565102|0-14|All Races|Male and Female|2002|||
+0.3|0.6|0.4|23|III(f) Unspecified intracranial and intraspinal neoplasms|55565102|0-14|All Races|Male and Female|2002|||
+10.2|11.9|11.0|612|IV Neuroblastoma and other peripheral nervous cell tumors|55565102|0-14|All Races|Male and Female|2002|||
+10.1|11.8|10.9|605|IV(a) Neuroblastoma and ganglioneuroblastoma|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|55565102|0-14|All Races|Male and Female|2002|||
+10.1|11.9|11.0|611|IX Soft tissue and other extraosseous sarcomas|55565102|0-14|All Races|Male and Female|2002|||
+4.8|6.1|5.4|301|IX(a) Rhabdomyosarcomas|55565102|0-14|All Races|Male and Female|2002|||
+1.0|1.6|1.2|69|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|IX(c) Kaposi sarcoma|55565102|0-14|All Races|Male and Female|2002|||
+2.9|3.9|3.3|188|IX(d) Other specified soft tissue sarcomas|55565102|0-14|All Races|Male and Female|2002|||
+0.7|1.2|0.9|53|IX(e) Unspecified soft tissue sarcomas|55565102|0-14|All Races|Male and Female|2002|||
+0.2|0.6|0.4|20|Not classified by ICCC|55565102|0-14|All Races|Male and Female|2002|||
+3.3|4.3|3.7|208|V Retinoblastoma|55565102|0-14|All Races|Male and Female|2002|||
+7.4|9.0|8.2|451|VI Renal tumors|55565102|0-14|All Races|Male and Female|2002|||
+7.2|8.7|7.9|438|VI(a) Nephroblastoma and other nonepithelial renal tumors|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|VI(b) Renal carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|55565102|0-14|All Races|Male and Female|2002|||
+1.5|2.3|1.9|104|VII Hepatic tumors|55565102|0-14|All Races|Male and Female|2002|||
+1.2|1.9|1.5|84|VII(a) Hepatoblastoma|55565102|0-14|All Races|Male and Female|2002|||
+0.2|0.5|0.3|19|VII(b) Hepatic carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|55565102|0-14|All Races|Male and Female|2002|||
+6.3|7.7|7.0|392|VIII Malignant bone tumors|55565102|0-14|All Races|Male and Female|2002|||
+3.3|4.3|3.7|211|VIII(a) Osteosarcomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|VIII(b) Chondrosarcomas|55565102|0-14|All Races|Male and Female|2002|||
+2.2|3.1|2.6|145|VIII(c) Ewing tumor and related sarcomas of bone|55565102|0-14|All Races|Male and Female|2002|||
+0.2|0.6|0.4|20|VIII(d) Other specified malignant bone tumors|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|55565102|0-14|All Races|Male and Female|2002|||
+4.8|6.0|5.4|303|X Germ cell, trophoblastic tumors & neoplasms of gonads|55565102|0-14|All Races|Male and Female|2002|||
+1.2|1.8|1.5|83|X(a) Intracranial & intraspinal germ cell tumors|55565102|0-14|All Races|Male and Female|2002|||
+1.2|1.9|1.5|85|X(b) Malignant extracranial & extragonadal germ cell tumors|55565102|0-14|All Races|Male and Female|2002|||
+1.9|2.7|2.2|125|X(c) Malignant gonadal germ cell tumors|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|X(d) Gonadal carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|55565102|0-14|All Races|Male and Female|2002|||
+5.9|7.3|6.6|372|XI Other malignant epithelial neoplasms and malignant melanomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+1.6|2.4|2.0|112|XI(b) Thyroid carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|XI(c) Nasopharyngeal carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+2.0|2.8|2.4|134|XI(d) Malignant melanomas|55565102|0-14|All Races|Male and Female|2002|||
+~|~|~|~|XI(e) Skin carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+1.3|2.0|1.6|93|XI(f) Other and unspecified carcinomas|55565102|0-14|All Races|Male and Female|2002|||
+0.5|0.9|0.6|36|XII Other and unspecified malignant neoplasms|55565102|0-14|All Races|Male and Female|2002|||
+0.2|0.6|0.4|20|XII(a) Other specified malignant tumors|55565102|0-14|All Races|Male and Female|2002|||
+0.2|0.5|0.3|16|XII(b) Other unspecified malignant tumors|55565102|0-14|All Races|Male and Female|2002|||
+149.3|155.7|152.5|8697|All ICCC Groups Combined|56909320|0-14|All Races|Male and Female|2003|||
+45.9|49.5|47.7|2706|I Leukemias, myeloproliferative & myelodysplastic diseases|56909320|0-14|All Races|Male and Female|2003|||
+34.6|37.7|36.1|2044|I(a) Lymphoid leukemias|56909320|0-14|All Races|Male and Female|2003|||
+6.8|8.3|7.5|430|I(b) Acute myeloid leukemias|56909320|0-14|All Races|Male and Female|2003|||
+1.1|1.8|1.4|82|I(c) Chronic myeloproliferative diseases|56909320|0-14|All Races|Male and Female|2003|||
+1.4|2.1|1.7|97|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|56909320|0-14|All Races|Male and Female|2003|||
+0.7|1.2|0.9|53|I(e) Unspecified and other specified leukemias|56909320|0-14|All Races|Male and Female|2003|||
+14.8|16.9|15.8|904|II Lymphomas and reticuloendothelial neoplasms|56909320|0-14|All Races|Male and Female|2003|||
+5.0|6.3|5.6|326|II(a) Hodgkin lymphomas|56909320|0-14|All Races|Male and Female|2003|||
+5.7|7.0|6.3|359|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|56909320|0-14|All Races|Male and Female|2003|||
+2.2|3.1|2.6|148|II(c) Burkitt lymphoma|56909320|0-14|All Races|Male and Female|2003|||
+0.9|1.4|1.1|64|II(d) Miscellaneous lymphoreticular neoplasms|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|II(e) Unspecified lymphomas|56909320|0-14|All Races|Male and Female|2003|||
+31.7|34.7|33.2|1883|III CNS and misc intracranial and intraspinal neoplasms|56909320|0-14|All Races|Male and Female|2003|||
+2.1|2.9|2.5|142|III(a) Ependymomas and choroid plexus tumor|56909320|0-14|All Races|Male and Female|2003|||
+15.4|17.5|16.4|935|III(b) Astrocytomas|56909320|0-14|All Races|Male and Female|2003|||
+6.6|8.1|7.3|414|III(c) Intracranial and intraspinal embryonal tumors|56909320|0-14|All Races|Male and Female|2003|||
+5.1|6.4|5.7|325|III(d) Other gliomas|56909320|0-14|All Races|Male and Female|2003|||
+0.6|1.1|0.8|48|III(e) Other specified intracranial & intraspinal neoplasms|56909320|0-14|All Races|Male and Female|2003|||
+0.2|0.5|0.3|19|III(f) Unspecified intracranial and intraspinal neoplasms|56909320|0-14|All Races|Male and Female|2003|||
+9.8|11.5|10.6|607|IV Neuroblastoma and other peripheral nervous cell tumors|56909320|0-14|All Races|Male and Female|2003|||
+9.6|11.3|10.5|598|IV(a) Neuroblastoma and ganglioneuroblastoma|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|56909320|0-14|All Races|Male and Female|2003|||
+9.7|11.4|10.5|601|IX Soft tissue and other extraosseous sarcomas|56909320|0-14|All Races|Male and Female|2003|||
+4.4|5.6|5.0|284|IX(a) Rhabdomyosarcomas|56909320|0-14|All Races|Male and Female|2003|||
+0.8|1.3|1.0|58|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|IX(c) Kaposi sarcoma|56909320|0-14|All Races|Male and Female|2003|||
+3.0|4.0|3.5|200|IX(d) Other specified soft tissue sarcomas|56909320|0-14|All Races|Male and Female|2003|||
+0.7|1.3|1.0|57|IX(e) Unspecified soft tissue sarcomas|56909320|0-14|All Races|Male and Female|2003|||
+0.2|0.5|0.3|16|Not classified by ICCC|56909320|0-14|All Races|Male and Female|2003|||
+3.6|4.7|4.1|236|V Retinoblastoma|56909320|0-14|All Races|Male and Female|2003|||
+7.9|9.4|8.6|488|VI Renal tumors|56909320|0-14|All Races|Male and Female|2003|||
+7.5|9.0|8.2|464|VI(a) Nephroblastoma and other nonepithelial renal tumors|56909320|0-14|All Races|Male and Female|2003|||
+0.2|0.5|0.3|20|VI(b) Renal carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|56909320|0-14|All Races|Male and Female|2003|||
+2.1|3.0|2.5|146|VII Hepatic tumors|56909320|0-14|All Races|Male and Female|2003|||
+1.7|2.5|2.1|119|VII(a) Hepatoblastoma|56909320|0-14|All Races|Male and Female|2003|||
+0.3|0.7|0.5|27|VII(b) Hepatic carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|56909320|0-14|All Races|Male and Female|2003|||
+6.2|7.6|6.9|397|VIII Malignant bone tumors|56909320|0-14|All Races|Male and Female|2003|||
+3.3|4.3|3.8|220|VIII(a) Osteosarcomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|VIII(b) Chondrosarcomas|56909320|0-14|All Races|Male and Female|2003|||
+1.9|2.7|2.3|133|VIII(c) Ewing tumor and related sarcomas of bone|56909320|0-14|All Races|Male and Female|2003|||
+0.2|0.5|0.3|17|VIII(d) Other specified malignant bone tumors|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|56909320|0-14|All Races|Male and Female|2003|||
+4.6|5.7|5.1|297|X Germ cell, trophoblastic tumors & neoplasms of gonads|56909320|0-14|All Races|Male and Female|2003|||
+0.9|1.5|1.2|70|X(a) Intracranial & intraspinal germ cell tumors|56909320|0-14|All Races|Male and Female|2003|||
+1.1|1.8|1.4|83|X(b) Malignant extracranial & extragonadal germ cell tumors|56909320|0-14|All Races|Male and Female|2003|||
+1.9|2.6|2.2|129|X(c) Malignant gonadal germ cell tumors|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|X(d) Gonadal carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|56909320|0-14|All Races|Male and Female|2003|||
+5.8|7.1|6.4|372|XI Other malignant epithelial neoplasms and malignant melanomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+1.8|2.6|2.2|126|XI(b) Thyroid carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|XI(c) Nasopharyngeal carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+1.6|2.4|2.0|115|XI(d) Malignant melanomas|56909320|0-14|All Races|Male and Female|2003|||
+~|~|~|~|XI(e) Skin carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+1.5|2.2|1.8|104|XI(f) Other and unspecified carcinomas|56909320|0-14|All Races|Male and Female|2003|||
+0.6|1.0|0.8|44|XII Other and unspecified malignant neoplasms|56909320|0-14|All Races|Male and Female|2003|||
+0.2|0.5|0.3|19|XII(a) Other specified malignant tumors|56909320|0-14|All Races|Male and Female|2003|||
+0.3|0.6|0.4|25|XII(b) Other unspecified malignant tumors|56909320|0-14|All Races|Male and Female|2003|||
+155.6|162.1|158.9|9270|All ICCC Groups Combined|58106078|0-14|All Races|Male and Female|2004|||
+49.1|52.8|50.9|2957|I Leukemias, myeloproliferative & myelodysplastic diseases|58106078|0-14|All Races|Male and Female|2004|||
+37.0|40.2|38.6|2236|I(a) Lymphoid leukemias|58106078|0-14|All Races|Male and Female|2004|||
+7.3|8.8|8.0|468|I(b) Acute myeloid leukemias|58106078|0-14|All Races|Male and Female|2004|||
+1.2|1.8|1.5|88|I(c) Chronic myeloproliferative diseases|58106078|0-14|All Races|Male and Female|2004|||
+1.2|1.8|1.5|85|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|58106078|0-14|All Races|Male and Female|2004|||
+1.1|1.7|1.4|80|I(e) Unspecified and other specified leukemias|58106078|0-14|All Races|Male and Female|2004|||
+15.1|17.1|16.1|941|II Lymphomas and reticuloendothelial neoplasms|58106078|0-14|All Races|Male and Female|2004|||
+4.7|5.9|5.2|310|II(a) Hodgkin lymphomas|58106078|0-14|All Races|Male and Female|2004|||
+6.2|7.5|6.8|399|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|58106078|0-14|All Races|Male and Female|2004|||
+2.1|2.9|2.4|141|II(c) Burkitt lymphoma|58106078|0-14|All Races|Male and Female|2004|||
+1.1|1.7|1.3|79|II(d) Miscellaneous lymphoreticular neoplasms|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|II(e) Unspecified lymphomas|58106078|0-14|All Races|Male and Female|2004|||
+33.4|36.5|35.0|2025|III CNS and misc intracranial and intraspinal neoplasms|58106078|0-14|All Races|Male and Female|2004|||
+2.5|3.4|3.0|172|III(a) Ependymomas and choroid plexus tumor|58106078|0-14|All Races|Male and Female|2004|||
+16.3|18.5|17.4|1009|III(b) Astrocytomas|58106078|0-14|All Races|Male and Female|2004|||
+7.0|8.5|7.7|448|III(c) Intracranial and intraspinal embryonal tumors|58106078|0-14|All Races|Male and Female|2004|||
+4.9|6.1|5.5|317|III(d) Other gliomas|58106078|0-14|All Races|Male and Female|2004|||
+0.6|1.0|0.8|46|III(e) Other specified intracranial & intraspinal neoplasms|58106078|0-14|All Races|Male and Female|2004|||
+0.4|0.8|0.6|33|III(f) Unspecified intracranial and intraspinal neoplasms|58106078|0-14|All Races|Male and Female|2004|||
+10.0|11.7|10.8|634|IV Neuroblastoma and other peripheral nervous cell tumors|58106078|0-14|All Races|Male and Female|2004|||
+9.8|11.4|10.6|621|IV(a) Neuroblastoma and ganglioneuroblastoma|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|58106078|0-14|All Races|Male and Female|2004|||
+9.7|11.4|10.5|615|IX Soft tissue and other extraosseous sarcomas|58106078|0-14|All Races|Male and Female|2004|||
+4.2|5.3|4.7|273|IX(a) Rhabdomyosarcomas|58106078|0-14|All Races|Male and Female|2004|||
+0.9|1.5|1.2|70|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|IX(c) Kaposi sarcoma|58106078|0-14|All Races|Male and Female|2004|||
+3.1|4.1|3.6|212|IX(d) Other specified soft tissue sarcomas|58106078|0-14|All Races|Male and Female|2004|||
+0.8|1.3|1.0|59|IX(e) Unspecified soft tissue sarcomas|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|Not classified by ICCC|58106078|0-14|All Races|Male and Female|2004|||
+3.6|4.7|4.1|245|V Retinoblastoma|58106078|0-14|All Races|Male and Female|2004|||
+7.4|8.8|8.1|470|VI Renal tumors|58106078|0-14|All Races|Male and Female|2004|||
+7.0|8.5|7.7|448|VI(a) Nephroblastoma and other nonepithelial renal tumors|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.6|0.4|22|VI(b) Renal carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|58106078|0-14|All Races|Male and Female|2004|||
+2.2|3.0|2.6|151|VII Hepatic tumors|58106078|0-14|All Races|Male and Female|2004|||
+1.9|2.6|2.2|131|VII(a) Hepatoblastoma|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|VII(b) Hepatic carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|58106078|0-14|All Races|Male and Female|2004|||
+6.3|7.7|7.0|413|VIII Malignant bone tumors|58106078|0-14|All Races|Male and Female|2004|||
+3.6|4.6|4.1|241|VIII(a) Osteosarcomas|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.4|0.3|16|VIII(b) Chondrosarcomas|58106078|0-14|All Races|Male and Female|2004|||
+1.9|2.7|2.3|134|VIII(c) Ewing tumor and related sarcomas of bone|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.5|0.3|17|VIII(d) Other specified malignant bone tumors|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|58106078|0-14|All Races|Male and Female|2004|||
+5.0|6.2|5.6|329|X Germ cell, trophoblastic tumors & neoplasms of gonads|58106078|0-14|All Races|Male and Female|2004|||
+1.2|1.9|1.5|89|X(a) Intracranial & intraspinal germ cell tumors|58106078|0-14|All Races|Male and Female|2004|||
+1.0|1.6|1.3|77|X(b) Malignant extracranial & extragonadal germ cell tumors|58106078|0-14|All Races|Male and Female|2004|||
+2.0|2.9|2.4|144|X(c) Malignant gonadal germ cell tumors|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|X(d) Gonadal carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|58106078|0-14|All Races|Male and Female|2004|||
+6.7|8.1|7.4|436|XI Other malignant epithelial neoplasms and malignant melanomas|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.4|0.3|16|XI(a) Adrenocortical carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+2.2|3.0|2.6|152|XI(b) Thyroid carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.6|0.4|23|XI(c) Nasopharyngeal carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+2.2|3.0|2.6|152|XI(d) Malignant melanomas|58106078|0-14|All Races|Male and Female|2004|||
+~|~|~|~|XI(e) Skin carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+1.2|1.8|1.5|88|XI(f) Other and unspecified carcinomas|58106078|0-14|All Races|Male and Female|2004|||
+0.5|0.9|0.7|39|XII Other and unspecified malignant neoplasms|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.5|0.3|17|XII(a) Other specified malignant tumors|58106078|0-14|All Races|Male and Female|2004|||
+0.2|0.6|0.4|22|XII(b) Other unspecified malignant tumors|58106078|0-14|All Races|Male and Female|2004|||
+151.9|158.3|155.1|9040|All ICCC Groups Combined|57973098|0-14|All Races|Male and Female|2005|||
+47.4|51.0|49.1|2859|I Leukemias, myeloproliferative & myelodysplastic diseases|57973098|0-14|All Races|Male and Female|2005|||
+35.9|39.1|37.5|2177|I(a) Lymphoid leukemias|57973098|0-14|All Races|Male and Female|2005|||
+6.6|8.0|7.3|425|I(b) Acute myeloid leukemias|57973098|0-14|All Races|Male and Female|2005|||
+1.1|1.7|1.4|82|I(c) Chronic myeloproliferative diseases|57973098|0-14|All Races|Male and Female|2005|||
+1.3|2.0|1.6|94|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|57973098|0-14|All Races|Male and Female|2005|||
+1.1|1.7|1.4|81|I(e) Unspecified and other specified leukemias|57973098|0-14|All Races|Male and Female|2005|||
+15.7|17.8|16.7|976|II Lymphomas and reticuloendothelial neoplasms|57973098|0-14|All Races|Male and Female|2005|||
+5.2|6.5|5.8|342|II(a) Hodgkin lymphomas|57973098|0-14|All Races|Male and Female|2005|||
+6.0|7.3|6.6|385|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|57973098|0-14|All Races|Male and Female|2005|||
+2.2|3.0|2.6|148|II(c) Burkitt lymphoma|57973098|0-14|All Races|Male and Female|2005|||
+1.2|1.8|1.5|88|II(d) Miscellaneous lymphoreticular neoplasms|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|II(e) Unspecified lymphomas|57973098|0-14|All Races|Male and Female|2005|||
+31.0|33.9|32.4|1877|III CNS and misc intracranial and intraspinal neoplasms|57973098|0-14|All Races|Male and Female|2005|||
+2.7|3.6|3.1|182|III(a) Ependymomas and choroid plexus tumor|57973098|0-14|All Races|Male and Female|2005|||
+15.2|17.2|16.2|938|III(b) Astrocytomas|57973098|0-14|All Races|Male and Female|2005|||
+6.3|7.7|7.0|402|III(c) Intracranial and intraspinal embryonal tumors|57973098|0-14|All Races|Male and Female|2005|||
+4.5|5.7|5.1|291|III(d) Other gliomas|57973098|0-14|All Races|Male and Female|2005|||
+0.4|0.8|0.6|35|III(e) Other specified intracranial & intraspinal neoplasms|57973098|0-14|All Races|Male and Female|2005|||
+0.3|0.7|0.5|29|III(f) Unspecified intracranial and intraspinal neoplasms|57973098|0-14|All Races|Male and Female|2005|||
+11.0|12.8|11.9|701|IV Neuroblastoma and other peripheral nervous cell tumors|57973098|0-14|All Races|Male and Female|2005|||
+10.9|12.7|11.8|693|IV(a) Neuroblastoma and ganglioneuroblastoma|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|57973098|0-14|All Races|Male and Female|2005|||
+9.7|11.4|10.5|612|IX Soft tissue and other extraosseous sarcomas|57973098|0-14|All Races|Male and Female|2005|||
+4.7|5.9|5.3|306|IX(a) Rhabdomyosarcomas|57973098|0-14|All Races|Male and Female|2005|||
+0.9|1.4|1.1|65|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|IX(c) Kaposi sarcoma|57973098|0-14|All Races|Male and Female|2005|||
+2.8|3.8|3.3|192|IX(d) Other specified soft tissue sarcomas|57973098|0-14|All Races|Male and Female|2005|||
+0.6|1.1|0.8|46|IX(e) Unspecified soft tissue sarcomas|57973098|0-14|All Races|Male and Female|2005|||
+0.2|0.5|0.3|17|Not classified by ICCC|57973098|0-14|All Races|Male and Female|2005|||
+3.3|4.3|3.8|222|V Retinoblastoma|57973098|0-14|All Races|Male and Female|2005|||
+7.5|9.0|8.2|478|VI Renal tumors|57973098|0-14|All Races|Male and Female|2005|||
+7.1|8.5|7.8|455|VI(a) Nephroblastoma and other nonepithelial renal tumors|57973098|0-14|All Races|Male and Female|2005|||
+0.2|0.5|0.3|19|VI(b) Renal carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|57973098|0-14|All Races|Male and Female|2005|||
+2.0|2.8|2.4|139|VII Hepatic tumors|57973098|0-14|All Races|Male and Female|2005|||
+1.5|2.3|1.9|111|VII(a) Hepatoblastoma|57973098|0-14|All Races|Male and Female|2005|||
+0.3|0.6|0.4|26|VII(b) Hepatic carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|57973098|0-14|All Races|Male and Female|2005|||
+6.2|7.6|6.9|402|VIII Malignant bone tumors|57973098|0-14|All Races|Male and Female|2005|||
+3.3|4.3|3.8|222|VIII(a) Osteosarcomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|VIII(b) Chondrosarcomas|57973098|0-14|All Races|Male and Female|2005|||
+2.0|2.8|2.4|139|VIII(c) Ewing tumor and related sarcomas of bone|57973098|0-14|All Races|Male and Female|2005|||
+0.2|0.5|0.3|20|VIII(d) Other specified malignant bone tumors|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|57973098|0-14|All Races|Male and Female|2005|||
+4.9|6.2|5.5|326|X Germ cell, trophoblastic tumors & neoplasms of gonads|57973098|0-14|All Races|Male and Female|2005|||
+1.1|1.7|1.4|79|X(a) Intracranial & intraspinal germ cell tumors|57973098|0-14|All Races|Male and Female|2005|||
+1.3|1.9|1.6|93|X(b) Malignant extracranial & extragonadal germ cell tumors|57973098|0-14|All Races|Male and Female|2005|||
+1.9|2.7|2.3|137|X(c) Malignant gonadal germ cell tumors|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|X(d) Gonadal carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|57973098|0-14|All Races|Male and Female|2005|||
+6.1|7.5|6.8|399|XI Other malignant epithelial neoplasms and malignant melanomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+1.8|2.6|2.2|127|XI(b) Thyroid carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|XI(c) Nasopharyngeal carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+2.0|2.8|2.4|138|XI(d) Malignant melanomas|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|XI(e) Skin carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+1.6|2.3|1.9|112|XI(f) Other and unspecified carcinomas|57973098|0-14|All Races|Male and Female|2005|||
+0.4|0.8|0.5|32|XII Other and unspecified malignant neoplasms|57973098|0-14|All Races|Male and Female|2005|||
+~|~|~|~|XII(a) Other specified malignant tumors|57973098|0-14|All Races|Male and Female|2005|||
+0.2|0.5|0.3|17|XII(b) Other unspecified malignant tumors|57973098|0-14|All Races|Male and Female|2005|||
+154.4|160.9|157.6|9188|All ICCC Groups Combined|57966135|0-14|All Races|Male and Female|2006|||
+49.5|53.2|51.3|2986|I Leukemias, myeloproliferative & myelodysplastic diseases|57966135|0-14|All Races|Male and Female|2006|||
+37.1|40.4|38.7|2251|I(a) Lymphoid leukemias|57966135|0-14|All Races|Male and Female|2006|||
+7.1|8.6|7.8|458|I(b) Acute myeloid leukemias|57966135|0-14|All Races|Male and Female|2006|||
+1.4|2.0|1.7|98|I(c) Chronic myeloproliferative diseases|57966135|0-14|All Races|Male and Female|2006|||
+1.4|2.1|1.7|102|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|57966135|0-14|All Races|Male and Female|2006|||
+1.0|1.7|1.3|77|I(e) Unspecified and other specified leukemias|57966135|0-14|All Races|Male and Female|2006|||
+15.6|17.7|16.7|968|II Lymphomas and reticuloendothelial neoplasms|57966135|0-14|All Races|Male and Female|2006|||
+5.4|6.7|6.1|353|II(a) Hodgkin lymphomas|57966135|0-14|All Races|Male and Female|2006|||
+5.9|7.2|6.5|380|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|57966135|0-14|All Races|Male and Female|2006|||
+2.1|3.0|2.5|146|II(c) Burkitt lymphoma|57966135|0-14|All Races|Male and Female|2006|||
+1.0|1.6|1.3|77|II(d) Miscellaneous lymphoreticular neoplasms|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|II(e) Unspecified lymphomas|57966135|0-14|All Races|Male and Female|2006|||
+32.3|35.3|33.8|1957|III CNS and misc intracranial and intraspinal neoplasms|57966135|0-14|All Races|Male and Female|2006|||
+2.6|3.5|3.0|177|III(a) Ependymomas and choroid plexus tumor|57966135|0-14|All Races|Male and Female|2006|||
+15.0|17.1|16.0|929|III(b) Astrocytomas|57966135|0-14|All Races|Male and Female|2006|||
+7.1|8.5|7.8|450|III(c) Intracranial and intraspinal embryonal tumors|57966135|0-14|All Races|Male and Female|2006|||
+5.2|6.4|5.8|331|III(d) Other gliomas|57966135|0-14|All Races|Male and Female|2006|||
+0.4|0.8|0.5|31|III(e) Other specified intracranial & intraspinal neoplasms|57966135|0-14|All Races|Male and Female|2006|||
+0.5|0.9|0.7|39|III(f) Unspecified intracranial and intraspinal neoplasms|57966135|0-14|All Races|Male and Female|2006|||
+9.4|11.0|10.2|600|IV Neuroblastoma and other peripheral nervous cell tumors|57966135|0-14|All Races|Male and Female|2006|||
+9.3|10.9|10.1|595|IV(a) Neuroblastoma and ganglioneuroblastoma|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|57966135|0-14|All Races|Male and Female|2006|||
+9.7|11.4|10.5|614|IX Soft tissue and other extraosseous sarcomas|57966135|0-14|All Races|Male and Female|2006|||
+4.3|5.5|4.9|283|IX(a) Rhabdomyosarcomas|57966135|0-14|All Races|Male and Female|2006|||
+0.9|1.5|1.2|68|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|IX(c) Kaposi sarcoma|57966135|0-14|All Races|Male and Female|2006|||
+3.0|3.9|3.4|200|IX(d) Other specified soft tissue sarcomas|57966135|0-14|All Races|Male and Female|2006|||
+0.8|1.3|1.0|61|IX(e) Unspecified soft tissue sarcomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|Not classified by ICCC|57966135|0-14|All Races|Male and Female|2006|||
+3.4|4.5|3.9|234|V Retinoblastoma|57966135|0-14|All Races|Male and Female|2006|||
+7.5|9.0|8.3|483|VI Renal tumors|57966135|0-14|All Races|Male and Female|2006|||
+7.2|8.6|7.9|460|VI(a) Nephroblastoma and other nonepithelial renal tumors|57966135|0-14|All Races|Male and Female|2006|||
+0.2|0.5|0.3|19|VI(b) Renal carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|57966135|0-14|All Races|Male and Female|2006|||
+2.2|3.0|2.6|152|VII Hepatic tumors|57966135|0-14|All Races|Male and Female|2006|||
+1.8|2.5|2.1|127|VII(a) Hepatoblastoma|57966135|0-14|All Races|Male and Female|2006|||
+0.2|0.5|0.4|21|VII(b) Hepatic carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|57966135|0-14|All Races|Male and Female|2006|||
+6.5|7.9|7.1|414|VIII Malignant bone tumors|57966135|0-14|All Races|Male and Female|2006|||
+3.6|4.7|4.1|238|VIII(a) Osteosarcomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|VIII(b) Chondrosarcomas|57966135|0-14|All Races|Male and Female|2006|||
+2.0|2.8|2.4|139|VIII(c) Ewing tumor and related sarcomas of bone|57966135|0-14|All Races|Male and Female|2006|||
+0.2|0.5|0.3|18|VIII(d) Other specified malignant bone tumors|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|57966135|0-14|All Races|Male and Female|2006|||
+4.5|5.7|5.1|299|X Germ cell, trophoblastic tumors & neoplasms of gonads|57966135|0-14|All Races|Male and Female|2006|||
+1.0|1.6|1.3|74|X(a) Intracranial & intraspinal germ cell tumors|57966135|0-14|All Races|Male and Female|2006|||
+1.2|1.8|1.5|87|X(b) Malignant extracranial & extragonadal germ cell tumors|57966135|0-14|All Races|Male and Female|2006|||
+1.7|2.5|2.1|123|X(c) Malignant gonadal germ cell tumors|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|X(d) Gonadal carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|57966135|0-14|All Races|Male and Female|2006|||
+6.6|8.0|7.3|426|XI Other malignant epithelial neoplasms and malignant melanomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+2.2|3.0|2.6|152|XI(b) Thyroid carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+0.2|0.4|0.3|16|XI(c) Nasopharyngeal carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+2.0|2.8|2.4|139|XI(d) Malignant melanomas|57966135|0-14|All Races|Male and Female|2006|||
+~|~|~|~|XI(e) Skin carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+1.4|2.1|1.7|101|XI(f) Other and unspecified carcinomas|57966135|0-14|All Races|Male and Female|2006|||
+0.6|1.0|0.8|45|XII Other and unspecified malignant neoplasms|57966135|0-14|All Races|Male and Female|2006|||
+0.3|0.7|0.5|27|XII(a) Other specified malignant tumors|57966135|0-14|All Races|Male and Female|2006|||
+0.2|0.5|0.3|18|XII(b) Other unspecified malignant tumors|57966135|0-14|All Races|Male and Female|2006|||
+159.7|162.6|161.2|46794|All ICCC Groups Combined|288616149|0-14|All Races|Male and Female|2006-2010|||
+51.7|53.4|52.5|15262|I Leukemias, myeloproliferative & myelodysplastic diseases|288616149|0-14|All Races|Male and Female|2006-2010|||
+39.4|40.9|40.2|11660|I(a) Lymphoid leukemias|288616149|0-14|All Races|Male and Female|2006-2010|||
+7.3|8.0|7.6|2222|I(b) Acute myeloid leukemias|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.6|2.0|1.8|521|I(c) Chronic myeloproliferative diseases|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.5|1.8|1.7|483|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.2|1.4|1.3|376|I(e) Unspecified and other specified leukemias|288616149|0-14|All Races|Male and Female|2006-2010|||
+16.8|17.7|17.2|4969|II Lymphomas and reticuloendothelial neoplasms|288616149|0-14|All Races|Male and Female|2006-2010|||
+5.5|6.0|5.8|1656|II(a) Hodgkin lymphomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+6.5|7.2|6.8|1969|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.4|2.7|2.6|733|II(c) Burkitt lymphoma|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.7|2.0|1.9|550|II(d) Miscellaneous lymphoreticular neoplasms|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.2|0.3|0.2|61|II(e) Unspecified lymphomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+33.5|34.8|34.2|9877|III CNS and misc intracranial and intraspinal neoplasms|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.6|3.0|2.8|819|III(a) Ependymomas and choroid plexus tumor|288616149|0-14|All Races|Male and Female|2006-2010|||
+16.0|17.0|16.5|4765|III(b) Astrocytomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+7.4|8.0|7.7|2224|III(c) Intracranial and intraspinal embryonal tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+5.8|6.3|6.0|1736|III(d) Other gliomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.6|0.7|0.6|186|III(e) Other specified intracranial & intraspinal neoplasms|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.4|0.6|0.5|147|III(f) Unspecified intracranial and intraspinal neoplasms|288616149|0-14|All Races|Male and Female|2006-2010|||
+10.4|11.2|10.8|3180|IV Neuroblastoma and other peripheral nervous cell tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+10.2|11.0|10.6|3130|IV(a) Neuroblastoma and ganglioneuroblastoma|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.1|0.2|0.2|50|IV(b) Other peripheral nervous cell tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+10.5|11.3|10.9|3150|IX Soft tissue and other extraosseous sarcomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+4.9|5.4|5.2|1495|IX(a) Rhabdomyosarcomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.9|1.2|1.0|302|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|288616149|0-14|All Races|Male and Female|2006-2010|||
+~|~|~|~|IX(c) Kaposi sarcoma|288616149|0-14|All Races|Male and Female|2006-2010|||
+3.3|3.8|3.5|1025|IX(d) Other specified soft tissue sarcomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.0|1.3|1.1|325|IX(e) Unspecified soft tissue sarcomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.2|0.3|0.3|73|Not classified by ICCC|288616149|0-14|All Races|Male and Female|2006-2010|||
+3.9|4.4|4.1|1224|V Retinoblastoma|288616149|0-14|All Races|Male and Female|2006-2010|||
+8.3|9.0|8.6|2522|VI Renal tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+7.8|8.5|8.2|2391|VI(a) Nephroblastoma and other nonepithelial renal tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.3|0.5|0.4|119|VI(b) Renal carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.4|2.8|2.6|766|VII Hepatic tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.0|2.4|2.2|650|VII(a) Hepatoblastoma|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.3|0.5|0.4|110|VII(b) Hepatic carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+6.5|7.1|6.8|1954|VIII Malignant bone tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+3.6|4.1|3.8|1102|VIII(a) Osteosarcomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.1|0.2|0.1|39|VIII(b) Chondrosarcomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.2|2.5|2.3|675|VIII(c) Ewing tumor and related sarcomas of bone|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.2|0.4|0.3|83|VIII(d) Other specified malignant bone tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.1|0.2|0.2|55|VIII(e) Unspecified malignant bone tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+5.2|5.7|5.5|1587|X Germ cell, trophoblastic tumors & neoplasms of gonads|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.3|1.6|1.4|415|X(a) Intracranial & intraspinal germ cell tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.2|1.5|1.3|394|X(b) Malignant extracranial & extragonadal germ cell tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.3|2.6|2.4|706|X(c) Malignant gonadal germ cell tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.1|0.2|0.1|36|X(d) Gonadal carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.1|0.2|0.1|36|X(e) Other and unspecified malignant gonadal tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+6.7|7.3|7.0|2027|XI Other malignant epithelial neoplasms and malignant melanomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.2|0.3|0.2|65|XI(a) Adrenocortical carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+2.4|2.8|2.6|743|XI(b) Thyroid carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.2|0.4|0.3|86|XI(c) Nasopharyngeal carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.9|2.3|2.1|610|XI(d) Malignant melanomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.0|0.1|0.1|17|XI(e) Skin carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+1.6|1.9|1.8|506|XI(f) Other and unspecified carcinomas|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.6|0.8|0.7|203|XII Other and unspecified malignant neoplasms|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.3|0.5|0.4|110|XII(a) Other specified malignant tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+0.3|0.4|0.3|93|XII(b) Other unspecified malignant tumors|288616149|0-14|All Races|Male and Female|2006-2010|||
+157.2|163.6|160.4|9632|All ICCC Groups Combined|59628198|0-14|All Races|Male and Female|2007|||
+50.1|53.7|51.9|3110|I Leukemias, myeloproliferative & myelodysplastic diseases|59628198|0-14|All Races|Male and Female|2007|||
+38.3|41.5|39.9|2386|I(a) Lymphoid leukemias|59628198|0-14|All Races|Male and Female|2007|||
+7.0|8.4|7.7|461|I(b) Acute myeloid leukemias|59628198|0-14|All Races|Male and Female|2007|||
+1.3|1.9|1.6|96|I(c) Chronic myeloproliferative diseases|59628198|0-14|All Races|Male and Female|2007|||
+1.2|1.9|1.5|93|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|59628198|0-14|All Races|Male and Female|2007|||
+1.0|1.5|1.2|74|I(e) Unspecified and other specified leukemias|59628198|0-14|All Races|Male and Female|2007|||
+15.4|17.5|16.4|979|II Lymphomas and reticuloendothelial neoplasms|59628198|0-14|All Races|Male and Female|2007|||
+4.8|6.0|5.4|323|II(a) Hodgkin lymphomas|59628198|0-14|All Races|Male and Female|2007|||
+6.3|7.6|6.9|413|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|59628198|0-14|All Races|Male and Female|2007|||
+2.2|3.1|2.6|154|II(c) Burkitt lymphoma|59628198|0-14|All Races|Male and Female|2007|||
+1.0|1.5|1.2|75|II(d) Miscellaneous lymphoreticular neoplasms|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|II(e) Unspecified lymphomas|59628198|0-14|All Races|Male and Female|2007|||
+33.3|36.3|34.7|2074|III CNS and misc intracranial and intraspinal neoplasms|59628198|0-14|All Races|Male and Female|2007|||
+2.4|3.3|2.8|171|III(a) Ependymomas and choroid plexus tumor|59628198|0-14|All Races|Male and Female|2007|||
+15.3|17.4|16.3|973|III(b) Astrocytomas|59628198|0-14|All Races|Male and Female|2007|||
+7.1|8.5|7.8|464|III(c) Intracranial and intraspinal embryonal tumors|59628198|0-14|All Races|Male and Female|2007|||
+5.9|7.3|6.6|390|III(d) Other gliomas|59628198|0-14|All Races|Male and Female|2007|||
+0.5|1.0|0.7|45|III(e) Other specified intracranial & intraspinal neoplasms|59628198|0-14|All Races|Male and Female|2007|||
+0.3|0.7|0.5|31|III(f) Unspecified intracranial and intraspinal neoplasms|59628198|0-14|All Races|Male and Female|2007|||
+10.8|12.5|11.6|714|IV Neuroblastoma and other peripheral nervous cell tumors|59628198|0-14|All Races|Male and Female|2007|||
+10.6|12.3|11.5|703|IV(a) Neuroblastoma and ganglioneuroblastoma|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|59628198|0-14|All Races|Male and Female|2007|||
+10.1|11.8|10.9|654|IX Soft tissue and other extraosseous sarcomas|59628198|0-14|All Races|Male and Female|2007|||
+5.1|6.3|5.7|339|IX(a) Rhabdomyosarcomas|59628198|0-14|All Races|Male and Female|2007|||
+0.9|1.4|1.1|67|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|IX(c) Kaposi sarcoma|59628198|0-14|All Races|Male and Female|2007|||
+2.9|3.8|3.3|198|IX(d) Other specified soft tissue sarcomas|59628198|0-14|All Races|Male and Female|2007|||
+0.6|1.1|0.8|49|IX(e) Unspecified soft tissue sarcomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|Not classified by ICCC|59628198|0-14|All Races|Male and Female|2007|||
+3.5|4.5|4.0|247|V Retinoblastoma|59628198|0-14|All Races|Male and Female|2007|||
+7.8|9.3|8.5|515|VI Renal tumors|59628198|0-14|All Races|Male and Female|2007|||
+7.4|8.8|8.1|489|VI(a) Nephroblastoma and other nonepithelial renal tumors|59628198|0-14|All Races|Male and Female|2007|||
+0.3|0.6|0.4|25|VI(b) Renal carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|59628198|0-14|All Races|Male and Female|2007|||
+2.2|3.0|2.6|156|VII Hepatic tumors|59628198|0-14|All Races|Male and Female|2007|||
+1.9|2.6|2.2|137|VII(a) Hepatoblastoma|59628198|0-14|All Races|Male and Female|2007|||
+0.2|0.5|0.3|19|VII(b) Hepatic carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|59628198|0-14|All Races|Male and Female|2007|||
+6.2|7.5|6.8|405|VIII Malignant bone tumors|59628198|0-14|All Races|Male and Female|2007|||
+3.2|4.2|3.7|218|VIII(a) Osteosarcomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|VIII(b) Chondrosarcomas|59628198|0-14|All Races|Male and Female|2007|||
+2.1|2.9|2.5|147|VIII(c) Ewing tumor and related sarcomas of bone|59628198|0-14|All Races|Male and Female|2007|||
+0.2|0.4|0.3|16|VIII(d) Other specified malignant bone tumors|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|59628198|0-14|All Races|Male and Female|2007|||
+4.9|6.1|5.5|334|X Germ cell, trophoblastic tumors & neoplasms of gonads|59628198|0-14|All Races|Male and Female|2007|||
+1.1|1.8|1.4|85|X(a) Intracranial & intraspinal germ cell tumors|59628198|0-14|All Races|Male and Female|2007|||
+1.0|1.6|1.3|81|X(b) Malignant extracranial & extragonadal germ cell tumors|59628198|0-14|All Races|Male and Female|2007|||
+2.2|3.0|2.6|155|X(c) Malignant gonadal germ cell tumors|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|X(d) Gonadal carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|59628198|0-14|All Races|Male and Female|2007|||
+5.9|7.2|6.5|391|XI Other malignant epithelial neoplasms and malignant melanomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+1.8|2.6|2.2|131|XI(b) Thyroid carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+0.2|0.4|0.3|16|XI(c) Nasopharyngeal carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+1.8|2.6|2.2|131|XI(d) Malignant melanomas|59628198|0-14|All Races|Male and Female|2007|||
+~|~|~|~|XI(e) Skin carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+1.3|2.0|1.6|96|XI(f) Other and unspecified carcinomas|59628198|0-14|All Races|Male and Female|2007|||
+0.5|0.9|0.7|41|XII Other and unspecified malignant neoplasms|59628198|0-14|All Races|Male and Female|2007|||
+0.2|0.6|0.4|23|XII(a) Other specified malignant tumors|59628198|0-14|All Races|Male and Female|2007|||
+0.2|0.5|0.3|18|XII(b) Other unspecified malignant tumors|59628198|0-14|All Races|Male and Female|2007|||
+158.9|165.4|162.1|9774|All ICCC Groups Combined|59850043|0-14|All Races|Male and Female|2008|||
+51.7|55.4|53.5|3228|I Leukemias, myeloproliferative & myelodysplastic diseases|59850043|0-14|All Races|Male and Female|2008|||
+39.2|42.4|40.7|2454|I(a) Lymphoid leukemias|59850043|0-14|All Races|Male and Female|2008|||
+7.3|8.7|8.0|484|I(b) Acute myeloid leukemias|59850043|0-14|All Races|Male and Female|2008|||
+1.7|2.4|2.0|124|I(c) Chronic myeloproliferative diseases|59850043|0-14|All Races|Male and Female|2008|||
+1.3|2.0|1.6|99|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|59850043|0-14|All Races|Male and Female|2008|||
+0.9|1.4|1.1|67|I(e) Unspecified and other specified leukemias|59850043|0-14|All Races|Male and Female|2008|||
+15.9|18.0|17.0|1011|II Lymphomas and reticuloendothelial neoplasms|59850043|0-14|All Races|Male and Female|2008|||
+5.6|6.9|6.3|372|II(a) Hodgkin lymphomas|59850043|0-14|All Races|Male and Female|2008|||
+6.0|7.4|6.7|398|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|59850043|0-14|All Races|Male and Female|2008|||
+2.3|3.2|2.7|162|II(c) Burkitt lymphoma|59850043|0-14|All Races|Male and Female|2008|||
+0.8|1.3|1.1|65|II(d) Miscellaneous lymphoreticular neoplasms|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|II(e) Unspecified lymphomas|59850043|0-14|All Races|Male and Female|2008|||
+32.8|35.8|34.3|2057|III CNS and misc intracranial and intraspinal neoplasms|59850043|0-14|All Races|Male and Female|2008|||
+2.3|3.1|2.7|160|III(a) Ependymomas and choroid plexus tumor|59850043|0-14|All Races|Male and Female|2008|||
+15.6|17.7|16.6|997|III(b) Astrocytomas|59850043|0-14|All Races|Male and Female|2008|||
+7.4|8.9|8.1|489|III(c) Intracranial and intraspinal embryonal tumors|59850043|0-14|All Races|Male and Female|2008|||
+5.2|6.4|5.8|346|III(d) Other gliomas|59850043|0-14|All Races|Male and Female|2008|||
+0.5|0.9|0.7|42|III(e) Other specified intracranial & intraspinal neoplasms|59850043|0-14|All Races|Male and Female|2008|||
+0.2|0.6|0.4|23|III(f) Unspecified intracranial and intraspinal neoplasms|59850043|0-14|All Races|Male and Female|2008|||
+10.0|11.7|10.8|666|IV Neuroblastoma and other peripheral nervous cell tumors|59850043|0-14|All Races|Male and Female|2008|||
+9.7|11.4|10.5|649|IV(a) Neuroblastoma and ganglioneuroblastoma|59850043|0-14|All Races|Male and Female|2008|||
+0.2|0.5|0.3|17|IV(b) Other peripheral nervous cell tumors|59850043|0-14|All Races|Male and Female|2008|||
+10.1|11.8|10.9|656|IX Soft tissue and other extraosseous sarcomas|59850043|0-14|All Races|Male and Female|2008|||
+4.7|5.9|5.3|318|IX(a) Rhabdomyosarcomas|59850043|0-14|All Races|Male and Female|2008|||
+0.7|1.2|0.9|57|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|IX(c) Kaposi sarcoma|59850043|0-14|All Races|Male and Female|2008|||
+3.0|3.9|3.4|204|IX(d) Other specified soft tissue sarcomas|59850043|0-14|All Races|Male and Female|2008|||
+1.0|1.6|1.3|77|IX(e) Unspecified soft tissue sarcomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|Not classified by ICCC|59850043|0-14|All Races|Male and Female|2008|||
+3.5|4.5|4.0|249|V Retinoblastoma|59850043|0-14|All Races|Male and Female|2008|||
+8.1|9.6|8.9|539|VI Renal tumors|59850043|0-14|All Races|Male and Female|2008|||
+7.7|9.1|8.4|511|VI(a) Nephroblastoma and other nonepithelial renal tumors|59850043|0-14|All Races|Male and Female|2008|||
+0.3|0.6|0.4|26|VI(b) Renal carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|59850043|0-14|All Races|Male and Female|2008|||
+2.2|3.1|2.6|161|VII Hepatic tumors|59850043|0-14|All Races|Male and Female|2008|||
+1.9|2.6|2.2|138|VII(a) Hepatoblastoma|59850043|0-14|All Races|Male and Female|2008|||
+0.2|0.6|0.4|23|VII(b) Hepatic carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|59850043|0-14|All Races|Male and Female|2008|||
+6.2|7.6|6.9|408|VIII Malignant bone tumors|59850043|0-14|All Races|Male and Female|2008|||
+3.4|4.4|3.9|230|VIII(a) Osteosarcomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|VIII(b) Chondrosarcomas|59850043|0-14|All Races|Male and Female|2008|||
+2.1|2.9|2.5|147|VIII(c) Ewing tumor and related sarcomas of bone|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|VIII(d) Other specified malignant bone tumors|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|59850043|0-14|All Races|Male and Female|2008|||
+4.7|5.8|5.2|316|X Germ cell, trophoblastic tumors & neoplasms of gonads|59850043|0-14|All Races|Male and Female|2008|||
+1.1|1.7|1.3|80|X(a) Intracranial & intraspinal germ cell tumors|59850043|0-14|All Races|Male and Female|2008|||
+1.1|1.7|1.4|87|X(b) Malignant extracranial & extragonadal germ cell tumors|59850043|0-14|All Races|Male and Female|2008|||
+1.9|2.7|2.3|138|X(c) Malignant gonadal germ cell tumors|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|X(d) Gonadal carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|59850043|0-14|All Races|Male and Female|2008|||
+6.5|7.9|7.2|431|XI Other malignant epithelial neoplasms and malignant melanomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+2.2|3.0|2.5|152|XI(b) Thyroid carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+0.2|0.5|0.3|17|XI(c) Nasopharyngeal carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+1.9|2.7|2.3|136|XI(d) Malignant melanomas|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|XI(e) Skin carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+1.5|2.2|1.8|110|XI(f) Other and unspecified carcinomas|59850043|0-14|All Races|Male and Female|2008|||
+0.4|0.8|0.6|37|XII Other and unspecified malignant neoplasms|59850043|0-14|All Races|Male and Female|2008|||
+0.2|0.5|0.4|22|XII(a) Other specified malignant tumors|59850043|0-14|All Races|Male and Female|2008|||
+~|~|~|~|XII(b) Other unspecified malignant tumors|59850043|0-14|All Races|Male and Female|2008|||
+156.6|163.0|159.8|9647|All ICCC Groups Combined|60026780|0-14|All Races|Male and Female|2009|||
+50.0|53.6|51.8|3136|I Leukemias, myeloproliferative & myelodysplastic diseases|60026780|0-14|All Races|Male and Female|2009|||
+38.8|42.0|40.4|2445|I(a) Lymphoid leukemias|60026780|0-14|All Races|Male and Female|2009|||
+6.7|8.0|7.3|444|I(b) Acute myeloid leukemias|60026780|0-14|All Races|Male and Female|2009|||
+1.3|1.9|1.6|94|I(c) Chronic myeloproliferative diseases|60026780|0-14|All Races|Male and Female|2009|||
+1.2|1.8|1.5|89|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60026780|0-14|All Races|Male and Female|2009|||
+0.8|1.4|1.1|64|I(e) Unspecified and other specified leukemias|60026780|0-14|All Races|Male and Female|2009|||
+15.5|17.5|16.5|986|II Lymphomas and reticuloendothelial neoplasms|60026780|0-14|All Races|Male and Female|2009|||
+5.1|6.3|5.6|336|II(a) Hodgkin lymphomas|60026780|0-14|All Races|Male and Female|2009|||
+6.3|7.6|6.9|413|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60026780|0-14|All Races|Male and Female|2009|||
+1.9|2.7|2.3|137|II(c) Burkitt lymphoma|60026780|0-14|All Races|Male and Female|2009|||
+1.1|1.8|1.4|87|II(d) Miscellaneous lymphoreticular neoplasms|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|II(e) Unspecified lymphomas|60026780|0-14|All Races|Male and Female|2009|||
+32.9|35.8|34.3|2065|III CNS and misc intracranial and intraspinal neoplasms|60026780|0-14|All Races|Male and Female|2009|||
+2.1|2.9|2.5|151|III(a) Ependymomas and choroid plexus tumor|60026780|0-14|All Races|Male and Female|2009|||
+15.7|17.7|16.7|1003|III(b) Astrocytomas|60026780|0-14|All Races|Male and Female|2009|||
+6.8|8.2|7.5|453|III(c) Intracranial and intraspinal embryonal tumors|60026780|0-14|All Races|Male and Female|2009|||
+5.9|7.2|6.5|389|III(d) Other gliomas|60026780|0-14|All Races|Male and Female|2009|||
+0.4|0.8|0.6|34|III(e) Other specified intracranial & intraspinal neoplasms|60026780|0-14|All Races|Male and Female|2009|||
+0.4|0.8|0.6|35|III(f) Unspecified intracranial and intraspinal neoplasms|60026780|0-14|All Races|Male and Female|2009|||
+9.8|11.5|10.6|651|IV Neuroblastoma and other peripheral nervous cell tumors|60026780|0-14|All Races|Male and Female|2009|||
+9.7|11.3|10.5|642|IV(a) Neuroblastoma and ganglioneuroblastoma|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|60026780|0-14|All Races|Male and Female|2009|||
+9.7|11.4|10.5|634|IX Soft tissue and other extraosseous sarcomas|60026780|0-14|All Races|Male and Female|2009|||
+3.9|4.9|4.4|263|IX(a) Rhabdomyosarcomas|60026780|0-14|All Races|Male and Female|2009|||
+1.0|1.6|1.2|75|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|IX(c) Kaposi sarcoma|60026780|0-14|All Races|Male and Female|2009|||
+3.3|4.3|3.8|226|IX(d) Other specified soft tissue sarcomas|60026780|0-14|All Races|Male and Female|2009|||
+0.9|1.5|1.2|70|IX(e) Unspecified soft tissue sarcomas|60026780|0-14|All Races|Male and Female|2009|||
+0.2|0.6|0.4|23|Not classified by ICCC|60026780|0-14|All Races|Male and Female|2009|||
+3.8|4.8|4.3|262|V Retinoblastoma|60026780|0-14|All Races|Male and Female|2009|||
+8.3|9.9|9.1|554|VI Renal tumors|60026780|0-14|All Races|Male and Female|2009|||
+7.8|9.2|8.5|518|VI(a) Nephroblastoma and other nonepithelial renal tumors|60026780|0-14|All Races|Male and Female|2009|||
+0.4|0.8|0.6|34|VI(b) Renal carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|60026780|0-14|All Races|Male and Female|2009|||
+1.8|2.6|2.2|134|VII Hepatic tumors|60026780|0-14|All Races|Male and Female|2009|||
+1.5|2.2|1.8|113|VII(a) Hepatoblastoma|60026780|0-14|All Races|Male and Female|2009|||
+0.2|0.5|0.3|19|VII(b) Hepatic carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60026780|0-14|All Races|Male and Female|2009|||
+6.2|7.5|6.8|407|VIII Malignant bone tumors|60026780|0-14|All Races|Male and Female|2009|||
+3.4|4.5|3.9|234|VIII(a) Osteosarcomas|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|VIII(b) Chondrosarcomas|60026780|0-14|All Races|Male and Female|2009|||
+1.9|2.7|2.2|134|VIII(c) Ewing tumor and related sarcomas of bone|60026780|0-14|All Races|Male and Female|2009|||
+0.2|0.6|0.4|23|VIII(d) Other specified malignant bone tumors|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|60026780|0-14|All Races|Male and Female|2009|||
+4.8|6.0|5.4|324|X Germ cell, trophoblastic tumors & neoplasms of gonads|60026780|0-14|All Races|Male and Female|2009|||
+1.1|1.7|1.4|81|X(a) Intracranial & intraspinal germ cell tumors|60026780|0-14|All Races|Male and Female|2009|||
+0.9|1.4|1.1|70|X(b) Malignant extracranial & extragonadal germ cell tumors|60026780|0-14|All Races|Male and Female|2009|||
+2.2|3.1|2.6|159|X(c) Malignant gonadal germ cell tumors|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|X(d) Gonadal carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60026780|0-14|All Races|Male and Female|2009|||
+6.4|7.8|7.1|422|XI Other malignant epithelial neoplasms and malignant melanomas|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+2.4|3.2|2.8|166|XI(b) Thyroid carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+0.3|0.6|0.4|24|XI(c) Nasopharyngeal carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+1.4|2.1|1.8|105|XI(d) Malignant melanomas|60026780|0-14|All Races|Male and Female|2009|||
+~|~|~|~|XI(e) Skin carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+1.5|2.2|1.8|108|XI(f) Other and unspecified carcinomas|60026780|0-14|All Races|Male and Female|2009|||
+0.6|1.1|0.8|49|XII Other and unspecified malignant neoplasms|60026780|0-14|All Races|Male and Female|2009|||
+0.2|0.5|0.3|20|XII(a) Other specified malignant tumors|60026780|0-14|All Races|Male and Female|2009|||
+0.3|0.7|0.5|29|XII(b) Other unspecified malignant tumors|60026780|0-14|All Races|Male and Female|2009|||
+160.8|167.3|164.0|9814|All ICCC Groups Combined|59550980|0-14|All Races|Male and Female|2010|||
+51.2|54.9|53.1|3184|I Leukemias, myeloproliferative & myelodysplastic diseases|59550980|0-14|All Races|Male and Female|2010|||
+38.6|41.8|40.2|2413|I(a) Lymphoid leukemias|59550980|0-14|All Races|Male and Female|2010|||
+6.6|8.0|7.3|437|I(b) Acute myeloid leukemias|59550980|0-14|All Races|Male and Female|2010|||
+1.6|2.4|2.0|117|I(c) Chronic myeloproliferative diseases|59550980|0-14|All Races|Male and Female|2010|||
+1.6|2.3|1.9|114|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|59550980|0-14|All Races|Male and Female|2010|||
+1.4|2.1|1.7|103|I(e) Unspecified and other specified leukemias|59550980|0-14|All Races|Male and Female|2010|||
+18.1|20.4|19.2|1144|II Lymphomas and reticuloendothelial neoplasms|59550980|0-14|All Races|Male and Female|2010|||
+4.7|5.9|5.3|314|II(a) Hodgkin lymphomas|59550980|0-14|All Races|Male and Female|2010|||
+6.4|7.7|7.0|417|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|59550980|0-14|All Races|Male and Female|2010|||
+2.1|2.9|2.4|145|II(c) Burkitt lymphoma|59550980|0-14|All Races|Male and Female|2010|||
+3.8|4.9|4.3|259|II(d) Miscellaneous lymphoreticular neoplasms|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|II(e) Unspecified lymphomas|59550980|0-14|All Races|Male and Female|2010|||
+32.5|35.4|33.9|2026|III CNS and misc intracranial and intraspinal neoplasms|59550980|0-14|All Races|Male and Female|2010|||
+2.7|3.6|3.1|187|III(a) Ependymomas and choroid plexus tumor|59550980|0-14|All Races|Male and Female|2010|||
+15.9|18.0|16.9|1007|III(b) Astrocytomas|59550980|0-14|All Races|Male and Female|2010|||
+6.6|8.0|7.3|438|III(c) Intracranial and intraspinal embryonal tumors|59550980|0-14|All Races|Male and Female|2010|||
+5.0|6.2|5.6|331|III(d) Other gliomas|59550980|0-14|All Races|Male and Female|2010|||
+0.5|0.9|0.7|39|III(e) Other specified intracranial & intraspinal neoplasms|59550980|0-14|All Races|Male and Female|2010|||
+0.3|0.6|0.4|24|III(f) Unspecified intracranial and intraspinal neoplasms|59550980|0-14|All Races|Male and Female|2010|||
+9.9|11.6|10.7|649|IV Neuroblastoma and other peripheral nervous cell tumors|59550980|0-14|All Races|Male and Female|2010|||
+9.8|11.4|10.6|640|IV(a) Neuroblastoma and ganglioneuroblastoma|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|59550980|0-14|All Races|Male and Female|2010|||
+10.4|12.1|11.2|667|IX Soft tissue and other extraosseous sarcomas|59550980|0-14|All Races|Male and Female|2010|||
+4.9|6.1|5.5|327|IX(a) Rhabdomyosarcomas|59550980|0-14|All Races|Male and Female|2010|||
+0.5|0.9|0.7|41|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|IX(c) Kaposi sarcoma|59550980|0-14|All Races|Male and Female|2010|||
+3.3|4.3|3.8|224|IX(d) Other specified soft tissue sarcomas|59550980|0-14|All Races|Male and Female|2010|||
+1.0|1.6|1.3|75|IX(e) Unspecified soft tissue sarcomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|Not classified by ICCC|59550980|0-14|All Races|Male and Female|2010|||
+3.8|4.9|4.3|261|V Retinoblastoma|59550980|0-14|All Races|Male and Female|2010|||
+7.7|9.1|8.4|506|VI Renal tumors|59550980|0-14|All Races|Male and Female|2010|||
+7.3|8.8|8.0|486|VI(a) Nephroblastoma and other nonepithelial renal tumors|59550980|0-14|All Races|Male and Female|2010|||
+0.2|0.5|0.3|17|VI(b) Renal carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|VI(c) Unspecified malignant renal tumors|59550980|0-14|All Races|Male and Female|2010|||
+2.5|3.4|2.9|178|VII Hepatic tumors|59550980|0-14|All Races|Male and Female|2010|||
+2.1|2.9|2.5|150|VII(a) Hepatoblastoma|59550980|0-14|All Races|Male and Female|2010|||
+0.3|0.7|0.5|28|VII(b) Hepatic carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|59550980|0-14|All Races|Male and Female|2010|||
+5.8|7.1|6.4|381|VIII Malignant bone tumors|59550980|0-14|All Races|Male and Female|2010|||
+3.2|4.2|3.7|217|VIII(a) Osteosarcomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|VIII(b) Chondrosarcomas|59550980|0-14|All Races|Male and Female|2010|||
+1.8|2.6|2.2|129|VIII(c) Ewing tumor and related sarcomas of bone|59550980|0-14|All Races|Male and Female|2010|||
+0.2|0.5|0.3|17|VIII(d) Other specified malignant bone tumors|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|59550980|0-14|All Races|Male and Female|2010|||
+5.4|6.7|6.0|357|X Germ cell, trophoblastic tumors & neoplasms of gonads|59550980|0-14|All Races|Male and Female|2010|||
+1.4|2.1|1.8|104|X(a) Intracranial & intraspinal germ cell tumors|59550980|0-14|All Races|Male and Female|2010|||
+1.0|1.6|1.3|78|X(b) Malignant extracranial & extragonadal germ cell tumors|59550980|0-14|All Races|Male and Female|2010|||
+2.2|3.0|2.6|153|X(c) Malignant gonadal germ cell tumors|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|X(d) Gonadal carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|59550980|0-14|All Races|Male and Female|2010|||
+6.2|7.6|6.9|407|XI Other malignant epithelial neoplasms and malignant melanomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|XI(a) Adrenocortical carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+2.3|3.1|2.7|157|XI(b) Thyroid carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+0.2|0.5|0.3|17|XI(c) Nasopharyngeal carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+1.6|2.3|1.9|113|XI(d) Malignant melanomas|59550980|0-14|All Races|Male and Female|2010|||
+~|~|~|~|XI(e) Skin carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+1.4|2.1|1.8|104|XI(f) Other and unspecified carcinomas|59550980|0-14|All Races|Male and Female|2010|||
+0.5|0.9|0.7|40|XII Other and unspecified malignant neoplasms|59550980|0-14|All Races|Male and Female|2010|||
+0.2|0.6|0.4|22|XII(a) Other specified malignant tumors|59550980|0-14|All Races|Male and Female|2010|||
+0.2|0.5|0.3|18|XII(b) Other unspecified malignant tumors|59550980|0-14|All Races|Male and Female|2010|||
+157.7|163.6|160.6|11112|All ICCC Groups Combined|69321240|0-19|All Races|Male and Female|1999|157.3|163.3|160.3
+40.4|43.4|41.9|2901|I Leukemias, myeloproliferative & myelodysplastic diseases|69321240|0-19|All Races|Male and Female|1999|40.3|43.4|41.8
+30.0|32.6|31.3|2168|I(a) Lymphoid leukemias|69321240|0-19|All Races|Male and Female|1999|30.0|32.6|31.3
+7.5|8.9|8.2|565|I(b) Acute myeloid leukemias|69321240|0-19|All Races|Male and Female|1999|7.5|8.9|8.2
+0.7|1.2|0.9|65|I(c) Chronic myeloproliferative diseases|69321240|0-19|All Races|Male and Female|1999|0.7|1.2|0.9
+~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|69321240|0-19|All Races|Male and Female|1999|~|~|~
+1.1|1.7|1.3|93|I(e) Unspecified and other specified leukemias|69321240|0-19|All Races|Male and Female|1999|1.1|1.6|1.3
+22.3|24.6|23.4|1621|II Lymphomas and reticuloendothelial neoplasms|69321240|0-19|All Races|Male and Female|1999|22.3|24.6|23.4
+11.1|12.7|11.9|821|II(a) Hodgkin lymphomas|69321240|0-19|All Races|Male and Female|1999|11.0|12.7|11.8
+7.2|8.5|7.8|541|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|69321240|0-19|All Races|Male and Female|1999|7.2|8.5|7.8
+2.1|2.8|2.4|170|II(c) Burkitt lymphoma|69321240|0-19|All Races|Male and Female|1999|2.1|2.8|2.5
+0.5|0.9|0.7|47|II(d) Miscellaneous lymphoreticular neoplasms|69321240|0-19|All Races|Male and Female|1999|0.5|0.9|0.7
+0.4|0.8|0.6|42|II(e) Unspecified lymphomas|69321240|0-19|All Races|Male and Female|1999|0.4|0.8|0.6
+27.4|30.0|28.7|1989|III CNS and misc intracranial and intraspinal neoplasms|69321240|0-19|All Races|Male and Female|1999|27.4|30.0|28.7
+2.2|2.9|2.5|174|III(a) Ependymomas and choroid plexus tumor|69321240|0-19|All Races|Male and Female|1999|2.2|2.9|2.5
+12.7|14.5|13.6|942|III(b) Astrocytomas|69321240|0-19|All Races|Male and Female|1999|12.7|14.5|13.6
+6.2|7.4|6.8|472|III(c) Intracranial and intraspinal embryonal tumors|69321240|0-19|All Races|Male and Female|1999|6.2|7.5|6.8
+4.2|5.3|4.7|328|III(d) Other gliomas|69321240|0-19|All Races|Male and Female|1999|4.2|5.3|4.7
+0.3|0.7|0.5|34|III(e) Other specified intracranial & intraspinal neoplasms|69321240|0-19|All Races|Male and Female|1999|0.3|0.7|0.5
+0.4|0.8|0.6|39|III(f) Unspecified intracranial and intraspinal neoplasms|69321240|0-19|All Races|Male and Female|1999|0.4|0.8|0.6
+7.6|8.9|8.2|567|IV Neuroblastoma and other peripheral nervous cell tumors|69321240|0-19|All Races|Male and Female|1999|7.5|8.9|8.2
+7.3|8.6|7.9|546|IV(a) Neuroblastoma and ganglioneuroblastoma|69321240|0-19|All Races|Male and Female|1999|7.2|8.6|7.9
+0.2|0.5|0.3|21|IV(b) Other peripheral nervous cell tumors|69321240|0-19|All Races|Male and Female|1999|0.2|0.5|0.3
+10.2|11.7|10.9|756|IX Soft tissue and other extraosseous sarcomas|69321240|0-19|All Races|Male and Female|1999|10.1|11.7|10.9
+4.1|5.1|4.6|319|IX(a) Rhabdomyosarcomas|69321240|0-19|All Races|Male and Female|1999|4.1|5.1|4.6
+0.9|1.5|1.2|81|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|69321240|0-19|All Races|Male and Female|1999|0.9|1.5|1.2
+~|~|~|~|IX(c) Kaposi sarcoma|69321240|0-19|All Races|Male and Female|1999|~|~|~
+3.4|4.4|3.9|269|IX(d) Other specified soft tissue sarcomas|69321240|0-19|All Races|Male and Female|1999|3.4|4.4|3.9
+1.0|1.5|1.2|84|IX(e) Unspecified soft tissue sarcomas|69321240|0-19|All Races|Male and Female|1999|1.0|1.5|1.2
+0.2|0.5|0.3|21|Not classified by ICCC|69321240|0-19|All Races|Male and Female|1999|0.2|0.5|0.3
+2.9|3.7|3.3|225|V Retinoblastoma|69321240|0-19|All Races|Male and Female|1999|2.8|3.7|3.2
+5.8|7.0|6.4|440|VI Renal tumors|69321240|0-19|All Races|Male and Female|1999|5.8|7.0|6.3
+5.2|6.3|5.7|397|VI(a) Nephroblastoma and other nonepithelial renal tumors|69321240|0-19|All Races|Male and Female|1999|5.2|6.3|5.7
+0.4|0.8|0.6|39|VI(b) Renal carcinomas|69321240|0-19|All Races|Male and Female|1999|0.4|0.8|0.6
+~|~|~|~|VI(c) Unspecified malignant renal tumors|69321240|0-19|All Races|Male and Female|1999|~|~|~
+1.6|2.3|2.0|135|VII Hepatic tumors|69321240|0-19|All Races|Male and Female|1999|1.6|2.3|1.9
+1.0|1.5|1.3|86|VII(a) Hepatoblastoma|69321240|0-19|All Races|Male and Female|1999|1.0|1.5|1.2
+0.5|0.9|0.7|48|VII(b) Hepatic carcinomas|69321240|0-19|All Races|Male and Female|1999|0.5|0.9|0.7
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|69321240|0-19|All Races|Male and Female|1999|~|~|~
+8.2|9.7|8.9|618|VIII Malignant bone tumors|69321240|0-19|All Races|Male and Female|1999|8.2|9.6|8.9
+4.6|5.7|5.1|353|VIII(a) Osteosarcomas|69321240|0-19|All Races|Male and Female|1999|4.6|5.7|5.1
+0.2|0.6|0.4|26|VIII(b) Chondrosarcomas|69321240|0-19|All Races|Male and Female|1999|0.2|0.5|0.4
+2.4|3.2|2.8|195|VIII(c) Ewing tumor and related sarcomas of bone|69321240|0-19|All Races|Male and Female|1999|2.4|3.2|2.8
+0.3|0.7|0.5|32|VIII(d) Other specified malignant bone tumors|69321240|0-19|All Races|Male and Female|1999|0.3|0.7|0.5
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|69321240|0-19|All Races|Male and Female|1999|~|~|~
+9.5|11.0|10.2|706|X Germ cell, trophoblastic tumors & neoplasms of gonads|69321240|0-19|All Races|Male and Female|1999|9.4|11.0|10.2
+1.1|1.7|1.4|95|X(a) Intracranial & intraspinal germ cell tumors|69321240|0-19|All Races|Male and Female|1999|1.1|1.7|1.4
+1.1|1.7|1.4|94|X(b) Malignant extracranial & extragonadal germ cell tumors|69321240|0-19|All Races|Male and Female|1999|1.1|1.7|1.4
+6.2|7.5|6.8|470|X(c) Malignant gonadal germ cell tumors|69321240|0-19|All Races|Male and Female|1999|6.2|7.4|6.8
+0.3|0.6|0.4|30|X(d) Gonadal carcinomas|69321240|0-19|All Races|Male and Female|1999|0.3|0.6|0.4
+0.1|0.4|0.2|17|X(e) Other and unspecified malignant gonadal tumors|69321240|0-19|All Races|Male and Female|1999|0.1|0.4|0.2
+14.7|16.5|15.6|1075|XI Other malignant epithelial neoplasms and malignant melanomas|69321240|0-19|All Races|Male and Female|1999|14.6|16.5|15.5
+0.1|0.4|0.2|17|XI(a) Adrenocortical carcinomas|69321240|0-19|All Races|Male and Female|1999|0.1|0.4|0.2
+5.3|6.5|5.9|408|XI(b) Thyroid carcinomas|69321240|0-19|All Races|Male and Female|1999|5.3|6.5|5.9
+0.4|0.7|0.5|37|XI(c) Nasopharyngeal carcinomas|69321240|0-19|All Races|Male and Female|1999|0.4|0.7|0.5
+4.4|5.5|4.9|340|XI(d) Malignant melanomas|69321240|0-19|All Races|Male and Female|1999|4.4|5.5|4.9
+~|~|~|~|XI(e) Skin carcinomas|69321240|0-19|All Races|Male and Female|1999|~|~|~
+3.4|4.4|3.9|267|XI(f) Other and unspecified carcinomas|69321240|0-19|All Races|Male and Female|1999|3.4|4.3|3.9
+0.6|1.1|0.8|58|XII Other and unspecified malignant neoplasms|69321240|0-19|All Races|Male and Female|1999|0.6|1.1|0.8
+0.1|0.4|0.2|16|XII(a) Other specified malignant tumors|69321240|0-19|All Races|Male and Female|1999|0.1|0.4|0.2
+0.4|0.8|0.6|42|XII(b) Other unspecified malignant tumors|69321240|0-19|All Races|Male and Female|1999|0.4|0.8|0.6
+160.8|166.8|163.8|11704|All ICCC Groups Combined|71576680|0-19|All Races|Male and Female|2000|160.6|166.5|163.5
+39.9|42.9|41.4|2954|I Leukemias, myeloproliferative & myelodysplastic diseases|71576680|0-19|All Races|Male and Female|2000|39.8|42.8|41.3
+30.5|33.2|31.8|2270|I(a) Lymphoid leukemias|71576680|0-19|All Races|Male and Female|2000|30.4|33.0|31.7
+6.5|7.8|7.2|511|I(b) Acute myeloid leukemias|71576680|0-19|All Races|Male and Female|2000|6.5|7.8|7.1
+0.7|1.2|0.9|65|I(c) Chronic myeloproliferative diseases|71576680|0-19|All Races|Male and Female|2000|0.7|1.2|0.9
+~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|71576680|0-19|All Races|Male and Female|2000|~|~|~
+1.1|1.7|1.4|97|I(e) Unspecified and other specified leukemias|71576680|0-19|All Races|Male and Female|2000|1.1|1.7|1.4
+23.6|25.9|24.8|1774|II Lymphomas and reticuloendothelial neoplasms|71576680|0-19|All Races|Male and Female|2000|23.6|26.0|24.8
+11.6|13.2|12.4|886|II(a) Hodgkin lymphomas|71576680|0-19|All Races|Male and Female|2000|11.6|13.2|12.4
+7.5|8.8|8.1|583|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|71576680|0-19|All Races|Male and Female|2000|7.5|8.8|8.1
+2.3|3.0|2.6|188|II(c) Burkitt lymphoma|71576680|0-19|All Races|Male and Female|2000|2.3|3.0|2.6
+0.7|1.2|0.9|67|II(d) Miscellaneous lymphoreticular neoplasms|71576680|0-19|All Races|Male and Female|2000|0.7|1.2|0.9
+0.5|0.9|0.7|50|II(e) Unspecified lymphomas|71576680|0-19|All Races|Male and Female|2000|0.5|0.9|0.7
+28.8|31.4|30.1|2152|III CNS and misc intracranial and intraspinal neoplasms|71576680|0-19|All Races|Male and Female|2000|28.8|31.4|30.1
+2.1|2.8|2.4|171|III(a) Ependymomas and choroid plexus tumor|71576680|0-19|All Races|Male and Female|2000|2.0|2.8|2.4
+14.7|16.5|15.6|1114|III(b) Astrocytomas|71576680|0-19|All Races|Male and Female|2000|14.7|16.5|15.6
+6.0|7.2|6.6|469|III(c) Intracranial and intraspinal embryonal tumors|71576680|0-19|All Races|Male and Female|2000|6.0|7.2|6.6
+4.0|5.0|4.5|319|III(d) Other gliomas|71576680|0-19|All Races|Male and Female|2000|4.0|5.0|4.5
+0.3|0.6|0.5|33|III(e) Other specified intracranial & intraspinal neoplasms|71576680|0-19|All Races|Male and Female|2000|0.3|0.6|0.5
+0.5|0.9|0.6|46|III(f) Unspecified intracranial and intraspinal neoplasms|71576680|0-19|All Races|Male and Female|2000|0.5|0.9|0.6
+7.1|8.4|7.7|548|IV Neuroblastoma and other peripheral nervous cell tumors|71576680|0-19|All Races|Male and Female|2000|7.0|8.3|7.7
+7.0|8.3|7.6|539|IV(a) Neuroblastoma and ganglioneuroblastoma|71576680|0-19|All Races|Male and Female|2000|6.9|8.2|7.5
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|71576680|0-19|All Races|Male and Female|2000|~|~|~
+11.1|12.7|11.9|851|IX Soft tissue and other extraosseous sarcomas|71576680|0-19|All Races|Male and Female|2000|11.1|12.7|11.9
+4.4|5.5|4.9|352|IX(a) Rhabdomyosarcomas|71576680|0-19|All Races|Male and Female|2000|4.4|5.5|4.9
+0.9|1.5|1.2|84|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|71576680|0-19|All Races|Male and Female|2000|0.9|1.5|1.2
+~|~|~|~|IX(c) Kaposi sarcoma|71576680|0-19|All Races|Male and Female|2000|~|~|~
+3.9|4.9|4.4|315|IX(d) Other specified soft tissue sarcomas|71576680|0-19|All Races|Male and Female|2000|3.9|4.9|4.4
+1.1|1.6|1.4|97|IX(e) Unspecified soft tissue sarcomas|71576680|0-19|All Races|Male and Female|2000|1.1|1.7|1.4
+0.1|0.4|0.2|17|Not classified by ICCC|71576680|0-19|All Races|Male and Female|2000|0.1|0.4|0.2
+2.9|3.8|3.3|236|V Retinoblastoma|71576680|0-19|All Races|Male and Female|2000|2.9|3.7|3.3
+6.3|7.5|6.9|487|VI Renal tumors|71576680|0-19|All Races|Male and Female|2000|6.2|7.4|6.8
+5.8|7.0|6.3|450|VI(a) Nephroblastoma and other nonepithelial renal tumors|71576680|0-19|All Races|Male and Female|2000|5.7|6.9|6.3
+0.3|0.7|0.5|35|VI(b) Renal carcinomas|71576680|0-19|All Races|Male and Female|2000|0.3|0.7|0.5
+~|~|~|~|VI(c) Unspecified malignant renal tumors|71576680|0-19|All Races|Male and Female|2000|~|~|~
+1.6|2.2|1.9|134|VII Hepatic tumors|71576680|0-19|All Races|Male and Female|2000|1.6|2.2|1.9
+1.2|1.8|1.5|107|VII(a) Hepatoblastoma|71576680|0-19|All Races|Male and Female|2000|1.2|1.8|1.5
+0.2|0.5|0.4|27|VII(b) Hepatic carcinomas|71576680|0-19|All Races|Male and Female|2000|0.2|0.5|0.4
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|71576680|0-19|All Races|Male and Female|2000|~|~|~
+7.9|9.2|8.5|613|VIII Malignant bone tumors|71576680|0-19|All Races|Male and Female|2000|7.9|9.3|8.6
+4.3|5.4|4.8|347|VIII(a) Osteosarcomas|71576680|0-19|All Races|Male and Female|2000|4.4|5.4|4.8
+~|~|~|~|VIII(b) Chondrosarcomas|71576680|0-19|All Races|Male and Female|2000|~|~|~
+2.7|3.5|3.1|223|VIII(c) Ewing tumor and related sarcomas of bone|71576680|0-19|All Races|Male and Female|2000|2.7|3.6|3.1
+0.1|0.4|0.2|17|VIII(d) Other specified malignant bone tumors|71576680|0-19|All Races|Male and Female|2000|0.1|0.4|0.2
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|71576680|0-19|All Races|Male and Female|2000|~|~|~
+9.9|11.4|10.6|761|X Germ cell, trophoblastic tumors & neoplasms of gonads|71576680|0-19|All Races|Male and Female|2000|9.9|11.4|10.6
+1.4|2.0|1.7|122|X(a) Intracranial & intraspinal germ cell tumors|71576680|0-19|All Races|Male and Female|2000|1.4|2.0|1.7
+1.1|1.7|1.4|100|X(b) Malignant extracranial & extragonadal germ cell tumors|71576680|0-19|All Races|Male and Female|2000|1.1|1.7|1.4
+6.2|7.4|6.8|488|X(c) Malignant gonadal germ cell tumors|71576680|0-19|All Races|Male and Female|2000|6.2|7.5|6.8
+0.3|0.7|0.5|35|X(d) Gonadal carcinomas|71576680|0-19|All Races|Male and Female|2000|0.3|0.7|0.5
+0.1|0.4|0.2|16|X(e) Other and unspecified malignant gonadal tumors|71576680|0-19|All Races|Male and Female|2000|0.1|0.4|0.2
+14.7|16.5|15.6|1116|XI Other malignant epithelial neoplasms and malignant melanomas|71576680|0-19|All Races|Male and Female|2000|14.7|16.5|15.6
+0.2|0.5|0.3|22|XI(a) Adrenocortical carcinomas|71576680|0-19|All Races|Male and Female|2000|0.2|0.5|0.3
+5.2|6.3|5.7|408|XI(b) Thyroid carcinomas|71576680|0-19|All Races|Male and Female|2000|5.2|6.3|5.7
+0.4|0.7|0.5|36|XI(c) Nasopharyngeal carcinomas|71576680|0-19|All Races|Male and Female|2000|0.4|0.7|0.5
+4.6|5.7|5.1|367|XI(d) Malignant melanomas|71576680|0-19|All Races|Male and Female|2000|4.6|5.7|5.1
+~|~|~|~|XI(e) Skin carcinomas|71576680|0-19|All Races|Male and Female|2000|~|~|~
+3.4|4.3|3.9|277|XI(f) Other and unspecified carcinomas|71576680|0-19|All Races|Male and Female|2000|3.4|4.4|3.9
+0.7|1.1|0.9|61|XII Other and unspecified malignant neoplasms|71576680|0-19|All Races|Male and Female|2000|0.7|1.1|0.9
+~|~|~|~|XII(a) Other specified malignant tumors|71576680|0-19|All Races|Male and Female|2000|~|~|~
+0.5|0.9|0.6|46|XII(b) Other unspecified malignant tumors|71576680|0-19|All Races|Male and Female|2000|0.5|0.9|0.6
+167.7|173.7|170.7|12758|All ICCC Groups Combined|74755914|0-19|All Races|Male and Female|2001|167.7|173.6|170.7
+44.3|47.4|45.8|3407|I Leukemias, myeloproliferative & myelodysplastic diseases|74755914|0-19|All Races|Male and Female|2001|44.1|47.1|45.6
+31.8|34.4|33.1|2455|I(a) Lymphoid leukemias|74755914|0-19|All Races|Male and Female|2001|31.6|34.2|32.8
+7.1|8.4|7.7|577|I(b) Acute myeloid leukemias|74755914|0-19|All Races|Male and Female|2001|7.1|8.4|7.7
+1.9|2.6|2.2|166|I(c) Chronic myeloproliferative diseases|74755914|0-19|All Races|Male and Female|2001|1.9|2.6|2.2
+1.2|1.8|1.5|113|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|74755914|0-19|All Races|Male and Female|2001|1.2|1.8|1.5
+1.0|1.6|1.3|96|I(e) Unspecified and other specified leukemias|74755914|0-19|All Races|Male and Female|2001|1.0|1.6|1.3
+23.6|25.8|24.7|1851|II Lymphomas and reticuloendothelial neoplasms|74755914|0-19|All Races|Male and Female|2001|23.6|25.9|24.8
+11.8|13.4|12.6|943|II(a) Hodgkin lymphomas|74755914|0-19|All Races|Male and Female|2001|11.8|13.4|12.6
+8.0|9.3|8.7|649|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|74755914|0-19|All Races|Male and Female|2001|8.0|9.4|8.7
+1.9|2.5|2.2|163|II(c) Burkitt lymphoma|74755914|0-19|All Races|Male and Female|2001|1.9|2.5|2.2
+0.6|1.0|0.8|60|II(d) Miscellaneous lymphoreticular neoplasms|74755914|0-19|All Races|Male and Female|2001|0.6|1.0|0.8
+0.3|0.7|0.5|36|II(e) Unspecified lymphomas|74755914|0-19|All Races|Male and Female|2001|0.3|0.7|0.5
+28.7|31.2|29.9|2232|III CNS and misc intracranial and intraspinal neoplasms|74755914|0-19|All Races|Male and Female|2001|28.6|31.1|29.9
+2.1|2.8|2.5|184|III(a) Ependymomas and choroid plexus tumor|74755914|0-19|All Races|Male and Female|2001|2.1|2.8|2.5
+14.0|15.7|14.8|1105|III(b) Astrocytomas|74755914|0-19|All Races|Male and Female|2001|13.9|15.7|14.8
+6.1|7.2|6.6|494|III(c) Intracranial and intraspinal embryonal tumors|74755914|0-19|All Races|Male and Female|2001|6.0|7.2|6.6
+4.6|5.6|5.0|377|III(d) Other gliomas|74755914|0-19|All Races|Male and Female|2001|4.5|5.6|5.0
+0.4|0.8|0.6|44|III(e) Other specified intracranial & intraspinal neoplasms|74755914|0-19|All Races|Male and Female|2001|0.4|0.8|0.6
+0.2|0.5|0.4|28|III(f) Unspecified intracranial and intraspinal neoplasms|74755914|0-19|All Races|Male and Female|2001|0.2|0.5|0.4
+8.3|9.7|9.0|671|IV Neuroblastoma and other peripheral nervous cell tumors|74755914|0-19|All Races|Male and Female|2001|8.3|9.7|9.0
+8.2|9.5|8.8|659|IV(a) Neuroblastoma and ganglioneuroblastoma|74755914|0-19|All Races|Male and Female|2001|8.2|9.5|8.8
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|74755914|0-19|All Races|Male and Female|2001|~|~|~
+11.0|12.6|11.8|881|IX Soft tissue and other extraosseous sarcomas|74755914|0-19|All Races|Male and Female|2001|11.0|12.6|11.8
+4.4|5.5|4.9|366|IX(a) Rhabdomyosarcomas|74755914|0-19|All Races|Male and Female|2001|4.4|5.4|4.9
+1.2|1.8|1.5|111|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|74755914|0-19|All Races|Male and Female|2001|1.2|1.8|1.5
+~|~|~|~|IX(c) Kaposi sarcoma|74755914|0-19|All Races|Male and Female|2001|~|~|~
+3.6|4.5|4.0|303|IX(d) Other specified soft tissue sarcomas|74755914|0-19|All Races|Male and Female|2001|3.6|4.5|4.1
+1.1|1.6|1.3|98|IX(e) Unspecified soft tissue sarcomas|74755914|0-19|All Races|Male and Female|2001|1.1|1.6|1.3
+0.2|0.4|0.3|20|Not classified by ICCC|74755914|0-19|All Races|Male and Female|2001|0.2|0.4|0.3
+2.9|3.7|3.3|245|V Retinoblastoma|74755914|0-19|All Races|Male and Female|2001|2.9|3.7|3.3
+6.1|7.3|6.7|498|VI Renal tumors|74755914|0-19|All Races|Male and Female|2001|6.1|7.3|6.7
+5.6|6.7|6.1|455|VI(a) Nephroblastoma and other nonepithelial renal tumors|74755914|0-19|All Races|Male and Female|2001|5.5|6.7|6.1
+0.4|0.7|0.5|41|VI(b) Renal carcinomas|74755914|0-19|All Races|Male and Female|2001|0.4|0.7|0.5
+~|~|~|~|VI(c) Unspecified malignant renal tumors|74755914|0-19|All Races|Male and Female|2001|~|~|~
+1.5|2.1|1.8|135|VII Hepatic tumors|74755914|0-19|All Races|Male and Female|2001|1.5|2.1|1.8
+1.0|1.6|1.3|96|VII(a) Hepatoblastoma|74755914|0-19|All Races|Male and Female|2001|1.0|1.6|1.3
+0.4|0.7|0.5|38|VII(b) Hepatic carcinomas|74755914|0-19|All Races|Male and Female|2001|0.4|0.7|0.5
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|74755914|0-19|All Races|Male and Female|2001|~|~|~
+8.8|10.2|9.5|714|VIII Malignant bone tumors|74755914|0-19|All Races|Male and Female|2001|8.9|10.3|9.6
+4.6|5.7|5.1|385|VIII(a) Osteosarcomas|74755914|0-19|All Races|Male and Female|2001|4.6|5.7|5.2
+0.2|0.5|0.3|26|VIII(b) Chondrosarcomas|74755914|0-19|All Races|Male and Female|2001|0.2|0.5|0.3
+3.1|3.9|3.5|260|VIII(c) Ewing tumor and related sarcomas of bone|74755914|0-19|All Races|Male and Female|2001|3.1|3.9|3.5
+0.3|0.6|0.4|32|VIII(d) Other specified malignant bone tumors|74755914|0-19|All Races|Male and Female|2001|0.3|0.6|0.4
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|74755914|0-19|All Races|Male and Female|2001|~|~|~
+9.8|11.2|10.5|788|X Germ cell, trophoblastic tumors & neoplasms of gonads|74755914|0-19|All Races|Male and Female|2001|9.8|11.3|10.5
+1.3|1.9|1.6|121|X(a) Intracranial & intraspinal germ cell tumors|74755914|0-19|All Races|Male and Female|2001|1.3|1.9|1.6
+1.3|1.9|1.6|121|X(b) Malignant extracranial & extragonadal germ cell tumors|74755914|0-19|All Races|Male and Female|2001|1.3|1.9|1.6
+6.1|7.2|6.6|498|X(c) Malignant gonadal germ cell tumors|74755914|0-19|All Races|Male and Female|2001|6.1|7.3|6.7
+0.2|0.5|0.3|25|X(d) Gonadal carcinomas|74755914|0-19|All Races|Male and Female|2001|0.2|0.5|0.3
+0.2|0.5|0.3|23|X(e) Other and unspecified malignant gonadal tumors|74755914|0-19|All Races|Male and Female|2001|0.2|0.5|0.3
+15.7|17.6|16.6|1250|XI Other malignant epithelial neoplasms and malignant melanomas|74755914|0-19|All Races|Male and Female|2001|15.8|17.7|16.7
+0.1|0.3|0.2|16|XI(a) Adrenocortical carcinomas|74755914|0-19|All Races|Male and Female|2001|0.1|0.3|0.2
+5.3|6.4|5.8|438|XI(b) Thyroid carcinomas|74755914|0-19|All Races|Male and Female|2001|5.3|6.4|5.9
+0.4|0.8|0.6|43|XI(c) Nasopharyngeal carcinomas|74755914|0-19|All Races|Male and Female|2001|0.4|0.8|0.6
+5.3|6.4|5.9|441|XI(d) Malignant melanomas|74755914|0-19|All Races|Male and Female|2001|5.4|6.5|5.9
+~|~|~|~|XI(e) Skin carcinomas|74755914|0-19|All Races|Male and Female|2001|~|~|~
+3.6|4.6|4.1|307|XI(f) Other and unspecified carcinomas|74755914|0-19|All Races|Male and Female|2001|3.7|4.6|4.1
+0.7|1.1|0.9|66|XII Other and unspecified malignant neoplasms|74755914|0-19|All Races|Male and Female|2001|0.7|1.1|0.9
+0.3|0.6|0.4|29|XII(a) Other specified malignant tumors|74755914|0-19|All Races|Male and Female|2001|0.3|0.6|0.4
+0.3|0.7|0.5|37|XII(b) Other unspecified malignant tumors|74755914|0-19|All Races|Male and Female|2001|0.3|0.7|0.5
+168.3|174.3|171.3|12757|All ICCC Groups Combined|74436080|0-19|All Races|Male and Female|2002|168.4|174.4|171.4
+43.7|46.7|45.2|3349|I Leukemias, myeloproliferative & myelodysplastic diseases|74436080|0-19|All Races|Male and Female|2002|43.5|46.5|45.0
+30.9|33.5|32.2|2382|I(a) Lymphoid leukemias|74436080|0-19|All Races|Male and Female|2002|30.7|33.3|32.0
+7.6|8.9|8.2|611|I(b) Acute myeloid leukemias|74436080|0-19|All Races|Male and Female|2002|7.6|8.9|8.2
+1.8|2.4|2.1|156|I(c) Chronic myeloproliferative diseases|74436080|0-19|All Races|Male and Female|2002|1.8|2.5|2.1
+1.3|1.9|1.5|115|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|74436080|0-19|All Races|Male and Female|2002|1.3|1.9|1.5
+0.9|1.4|1.1|85|I(e) Unspecified and other specified leukemias|74436080|0-19|All Races|Male and Female|2002|0.9|1.4|1.1
+23.4|25.6|24.5|1834|II Lymphomas and reticuloendothelial neoplasms|74436080|0-19|All Races|Male and Female|2002|23.5|25.8|24.6
+11.4|13.0|12.2|919|II(a) Hodgkin lymphomas|74436080|0-19|All Races|Male and Female|2002|11.6|13.2|12.3
+7.7|9.0|8.3|621|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|74436080|0-19|All Races|Male and Female|2002|7.7|9.0|8.3
+2.4|3.1|2.7|202|II(c) Burkitt lymphoma|74436080|0-19|All Races|Male and Female|2002|2.4|3.1|2.7
+0.7|1.1|0.9|66|II(d) Miscellaneous lymphoreticular neoplasms|74436080|0-19|All Races|Male and Female|2002|0.7|1.1|0.9
+0.2|0.5|0.3|26|II(e) Unspecified lymphomas|74436080|0-19|All Races|Male and Female|2002|0.2|0.5|0.3
+30.1|32.6|31.3|2323|III CNS and misc intracranial and intraspinal neoplasms|74436080|0-19|All Races|Male and Female|2002|30.0|32.5|31.2
+2.6|3.5|3.0|225|III(a) Ependymomas and choroid plexus tumor|74436080|0-19|All Races|Male and Female|2002|2.6|3.4|3.0
+14.4|16.2|15.2|1131|III(b) Astrocytomas|74436080|0-19|All Races|Male and Female|2002|14.3|16.1|15.2
+5.8|7.0|6.4|472|III(c) Intracranial and intraspinal embryonal tumors|74436080|0-19|All Races|Male and Female|2002|5.8|6.9|6.3
+5.0|6.1|5.5|410|III(d) Other gliomas|74436080|0-19|All Races|Male and Female|2002|5.0|6.1|5.5
+0.6|1.0|0.7|55|III(e) Other specified intracranial & intraspinal neoplasms|74436080|0-19|All Races|Male and Female|2002|0.6|1.0|0.7
+0.3|0.6|0.4|30|III(f) Unspecified intracranial and intraspinal neoplasms|74436080|0-19|All Races|Male and Female|2002|0.3|0.6|0.4
+7.8|9.1|8.5|627|IV Neuroblastoma and other peripheral nervous cell tumors|74436080|0-19|All Races|Male and Female|2002|7.8|9.1|8.4
+7.6|8.9|8.2|610|IV(a) Neuroblastoma and ganglioneuroblastoma|74436080|0-19|All Races|Male and Female|2002|7.6|8.9|8.2
+0.1|0.4|0.2|17|IV(b) Other peripheral nervous cell tumors|74436080|0-19|All Races|Male and Female|2002|0.1|0.4|0.2
+11.1|12.6|11.8|882|IX Soft tissue and other extraosseous sarcomas|74436080|0-19|All Races|Male and Female|2002|11.1|12.7|11.8
+4.4|5.4|4.9|364|IX(a) Rhabdomyosarcomas|74436080|0-19|All Races|Male and Female|2002|4.4|5.4|4.9
+1.0|1.5|1.2|92|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|74436080|0-19|All Races|Male and Female|2002|1.0|1.5|1.2
+~|~|~|~|IX(c) Kaposi sarcoma|74436080|0-19|All Races|Male and Female|2002|~|~|~
+4.2|5.2|4.7|352|IX(d) Other specified soft tissue sarcomas|74436080|0-19|All Races|Male and Female|2002|4.2|5.2|4.7
+0.8|1.2|1.0|74|IX(e) Unspecified soft tissue sarcomas|74436080|0-19|All Races|Male and Female|2002|0.8|1.2|1.0
+0.2|0.5|0.3|25|Not classified by ICCC|74436080|0-19|All Races|Male and Female|2002|0.2|0.5|0.3
+2.4|3.2|2.8|208|V Retinoblastoma|74436080|0-19|All Races|Male and Female|2002|2.4|3.2|2.8
+5.9|7.0|6.4|475|VI Renal tumors|74436080|0-19|All Races|Male and Female|2002|5.8|7.0|6.4
+5.4|6.6|6.0|441|VI(a) Nephroblastoma and other nonepithelial renal tumors|74436080|0-19|All Races|Male and Female|2002|5.4|6.5|5.9
+0.3|0.6|0.4|33|VI(b) Renal carcinomas|74436080|0-19|All Races|Male and Female|2002|0.3|0.6|0.4
+~|~|~|~|VI(c) Unspecified malignant renal tumors|74436080|0-19|All Races|Male and Female|2002|~|~|~
+1.4|2.0|1.7|123|VII Hepatic tumors|74436080|0-19|All Races|Male and Female|2002|1.4|2.0|1.7
+0.9|1.4|1.1|85|VII(a) Hepatoblastoma|74436080|0-19|All Races|Male and Female|2002|0.9|1.4|1.1
+0.3|0.7|0.5|37|VII(b) Hepatic carcinomas|74436080|0-19|All Races|Male and Female|2002|0.3|0.7|0.5
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|74436080|0-19|All Races|Male and Female|2002|~|~|~
+8.6|9.9|9.2|693|VIII Malignant bone tumors|74436080|0-19|All Races|Male and Female|2002|8.6|10.0|9.3
+4.5|5.5|4.9|372|VIII(a) Osteosarcomas|74436080|0-19|All Races|Male and Female|2002|4.5|5.5|5.0
+0.3|0.7|0.5|37|VIII(b) Chondrosarcomas|74436080|0-19|All Races|Male and Female|2002|0.3|0.7|0.5
+2.7|3.5|3.1|231|VIII(c) Ewing tumor and related sarcomas of bone|74436080|0-19|All Races|Male and Female|2002|2.7|3.5|3.1
+0.4|0.7|0.5|41|VIII(d) Other specified malignant bone tumors|74436080|0-19|All Races|Male and Female|2002|0.4|0.7|0.6
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|74436080|0-19|All Races|Male and Female|2002|~|~|~
+10.5|12.0|11.2|841|X Germ cell, trophoblastic tumors & neoplasms of gonads|74436080|0-19|All Races|Male and Female|2002|10.5|12.1|11.3
+1.4|2.0|1.7|126|X(a) Intracranial & intraspinal germ cell tumors|74436080|0-19|All Races|Male and Female|2002|1.4|2.0|1.7
+1.3|1.9|1.6|120|X(b) Malignant extracranial & extragonadal germ cell tumors|74436080|0-19|All Races|Male and Female|2002|1.3|1.9|1.6
+6.7|7.9|7.3|547|X(c) Malignant gonadal germ cell tumors|74436080|0-19|All Races|Male and Female|2002|6.7|8.0|7.3
+0.2|0.5|0.3|24|X(d) Gonadal carcinomas|74436080|0-19|All Races|Male and Female|2002|0.2|0.5|0.3
+0.2|0.5|0.3|24|X(e) Other and unspecified malignant gonadal tumors|74436080|0-19|All Races|Male and Female|2002|0.2|0.5|0.3
+16.5|18.4|17.4|1307|XI Other malignant epithelial neoplasms and malignant melanomas|74436080|0-19|All Races|Male and Female|2002|16.6|18.5|17.6
+0.2|0.4|0.3|19|XI(a) Adrenocortical carcinomas|74436080|0-19|All Races|Male and Female|2002|0.2|0.4|0.3
+5.1|6.2|5.7|425|XI(b) Thyroid carcinomas|74436080|0-19|All Races|Male and Female|2002|5.2|6.3|5.7
+0.5|0.8|0.6|47|XI(c) Nasopharyngeal carcinomas|74436080|0-19|All Races|Male and Female|2002|0.5|0.8|0.6
+6.1|7.3|6.7|504|XI(d) Malignant melanomas|74436080|0-19|All Races|Male and Female|2002|6.2|7.4|6.8
+~|~|~|~|XI(e) Skin carcinomas|74436080|0-19|All Races|Male and Female|2002|~|~|~
+3.6|4.5|4.0|304|XI(f) Other and unspecified carcinomas|74436080|0-19|All Races|Male and Female|2002|3.6|4.6|4.1
+0.7|1.2|0.9|70|XII Other and unspecified malignant neoplasms|74436080|0-19|All Races|Male and Female|2002|0.7|1.2|0.9
+0.3|0.7|0.5|35|XII(a) Other specified malignant tumors|74436080|0-19|All Races|Male and Female|2002|0.3|0.7|0.5
+0.3|0.6|0.5|35|XII(b) Other unspecified malignant tumors|74436080|0-19|All Races|Male and Female|2002|0.3|0.7|0.5
+164.6|170.4|167.5|12835|All ICCC Groups Combined|76413922|0-19|All Races|Male and Female|2003|165.1|170.9|168.0
+42.0|44.9|43.4|3305|I Leukemias, myeloproliferative & myelodysplastic diseases|76413922|0-19|All Races|Male and Female|2003|41.8|44.8|43.3
+29.7|32.2|30.9|2343|I(a) Lymphoid leukemias|76413922|0-19|All Races|Male and Female|2003|29.4|31.9|30.7
+7.2|8.4|7.8|596|I(b) Acute myeloid leukemias|76413922|0-19|All Races|Male and Female|2003|7.2|8.5|7.8
+1.9|2.6|2.2|171|I(c) Chronic myeloproliferative diseases|76413922|0-19|All Races|Male and Female|2003|1.9|2.6|2.2
+1.3|1.9|1.6|121|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|76413922|0-19|All Races|Male and Female|2003|1.3|1.9|1.6
+0.8|1.2|1.0|74|I(e) Unspecified and other specified leukemias|76413922|0-19|All Races|Male and Female|2003|0.8|1.2|1.0
+22.7|24.9|23.8|1831|II Lymphomas and reticuloendothelial neoplasms|76413922|0-19|All Races|Male and Female|2003|22.9|25.1|24.0
+11.3|12.8|12.1|933|II(a) Hodgkin lymphomas|76413922|0-19|All Races|Male and Female|2003|11.4|13.0|12.2
+7.4|8.7|8.0|618|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|76413922|0-19|All Races|Male and Female|2003|7.5|8.8|8.1
+2.2|3.0|2.6|195|II(c) Burkitt lymphoma|76413922|0-19|All Races|Male and Female|2003|2.2|2.9|2.6
+0.7|1.1|0.9|68|II(d) Miscellaneous lymphoreticular neoplasms|76413922|0-19|All Races|Male and Female|2003|0.7|1.1|0.9
+0.1|0.4|0.2|17|II(e) Unspecified lymphomas|76413922|0-19|All Races|Male and Female|2003|0.1|0.4|0.2
+29.1|31.6|30.3|2310|III CNS and misc intracranial and intraspinal neoplasms|76413922|0-19|All Races|Male and Female|2003|29.0|31.5|30.2
+2.0|2.7|2.3|179|III(a) Ependymomas and choroid plexus tumor|76413922|0-19|All Races|Male and Female|2003|2.0|2.7|2.3
+14.5|16.2|15.3|1169|III(b) Astrocytomas|76413922|0-19|All Races|Male and Female|2003|14.4|16.2|15.3
+5.7|6.8|6.2|472|III(c) Intracranial and intraspinal embryonal tumors|76413922|0-19|All Races|Male and Female|2003|5.6|6.8|6.2
+4.8|5.8|5.3|402|III(d) Other gliomas|76413922|0-19|All Races|Male and Female|2003|4.8|5.8|5.3
+0.6|1.0|0.8|60|III(e) Other specified intracranial & intraspinal neoplasms|76413922|0-19|All Races|Male and Female|2003|0.6|1.0|0.8
+0.2|0.5|0.4|28|III(f) Unspecified intracranial and intraspinal neoplasms|76413922|0-19|All Races|Male and Female|2003|0.2|0.5|0.4
+7.5|8.8|8.1|622|IV Neuroblastoma and other peripheral nervous cell tumors|76413922|0-19|All Races|Male and Female|2003|7.5|8.8|8.1
+7.3|8.6|8.0|609|IV(a) Neuroblastoma and ganglioneuroblastoma|76413922|0-19|All Races|Male and Female|2003|7.3|8.6|8.0
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|76413922|0-19|All Races|Male and Female|2003|~|~|~
+11.3|12.9|12.1|931|IX Soft tissue and other extraosseous sarcomas|76413922|0-19|All Races|Male and Female|2003|11.4|13.0|12.2
+4.3|5.3|4.8|365|IX(a) Rhabdomyosarcomas|76413922|0-19|All Races|Male and Female|2003|4.3|5.3|4.8
+1.2|1.7|1.4|110|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|76413922|0-19|All Races|Male and Female|2003|1.2|1.7|1.4
+~|~|~|~|IX(c) Kaposi sarcoma|76413922|0-19|All Races|Male and Female|2003|~|~|~
+4.2|5.1|4.6|357|IX(d) Other specified soft tissue sarcomas|76413922|0-19|All Races|Male and Female|2003|4.2|5.2|4.7
+1.0|1.5|1.2|96|IX(e) Unspecified soft tissue sarcomas|76413922|0-19|All Races|Male and Female|2003|1.0|1.5|1.3
+0.2|0.4|0.3|22|Not classified by ICCC|76413922|0-19|All Races|Male and Female|2003|0.2|0.4|0.3
+2.7|3.5|3.1|237|V Retinoblastoma|76413922|0-19|All Races|Male and Female|2003|2.7|3.5|3.1
+6.2|7.4|6.8|513|VI Renal tumors|76413922|0-19|All Races|Male and Female|2003|6.1|7.3|6.7
+5.6|6.7|6.2|466|VI(a) Nephroblastoma and other nonepithelial renal tumors|76413922|0-19|All Races|Male and Female|2003|5.6|6.7|6.1
+0.4|0.8|0.6|43|VI(b) Renal carcinomas|76413922|0-19|All Races|Male and Female|2003|0.4|0.8|0.6
+~|~|~|~|VI(c) Unspecified malignant renal tumors|76413922|0-19|All Races|Male and Female|2003|~|~|~
+1.8|2.5|2.1|165|VII Hepatic tumors|76413922|0-19|All Races|Male and Female|2003|1.8|2.5|2.2
+1.3|1.9|1.6|119|VII(a) Hepatoblastoma|76413922|0-19|All Races|Male and Female|2003|1.3|1.9|1.6
+0.4|0.8|0.6|46|VII(b) Hepatic carcinomas|76413922|0-19|All Races|Male and Female|2003|0.4|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|76413922|0-19|All Races|Male and Female|2003|~|~|~
+8.0|9.4|8.7|672|VIII Malignant bone tumors|76413922|0-19|All Races|Male and Female|2003|8.1|9.5|8.8
+4.7|5.8|5.2|405|VIII(a) Osteosarcomas|76413922|0-19|All Races|Male and Female|2003|4.8|5.8|5.3
+0.1|0.4|0.2|19|VIII(b) Chondrosarcomas|76413922|0-19|All Races|Male and Female|2003|0.1|0.4|0.2
+2.3|3.0|2.6|204|VIII(c) Ewing tumor and related sarcomas of bone|76413922|0-19|All Races|Male and Female|2003|2.3|3.1|2.7
+0.2|0.5|0.3|27|VIII(d) Other specified malignant bone tumors|76413922|0-19|All Races|Male and Female|2003|0.2|0.5|0.4
+0.1|0.4|0.2|17|VIII(e) Unspecified malignant bone tumors|76413922|0-19|All Races|Male and Female|2003|0.1|0.4|0.2
+9.7|11.1|10.4|806|X Germ cell, trophoblastic tumors & neoplasms of gonads|76413922|0-19|All Races|Male and Female|2003|9.8|11.3|10.5
+1.2|1.7|1.4|109|X(a) Intracranial & intraspinal germ cell tumors|76413922|0-19|All Races|Male and Female|2003|1.2|1.7|1.4
+1.2|1.7|1.5|112|X(b) Malignant extracranial & extragonadal germ cell tumors|76413922|0-19|All Races|Male and Female|2003|1.2|1.8|1.5
+6.2|7.4|6.8|527|X(c) Malignant gonadal germ cell tumors|76413922|0-19|All Races|Male and Female|2003|6.3|7.5|6.9
+0.3|0.6|0.4|30|X(d) Gonadal carcinomas|76413922|0-19|All Races|Male and Female|2003|0.3|0.6|0.4
+0.2|0.5|0.4|28|X(e) Other and unspecified malignant gonadal tumors|76413922|0-19|All Races|Male and Female|2003|0.2|0.5|0.4
+16.3|18.2|17.3|1339|XI Other malignant epithelial neoplasms and malignant melanomas|76413922|0-19|All Races|Male and Female|2003|16.6|18.5|17.5
+0.1|0.4|0.2|18|XI(a) Adrenocortical carcinomas|76413922|0-19|All Races|Male and Female|2003|0.1|0.4|0.2
+5.5|6.6|6.0|469|XI(b) Thyroid carcinomas|76413922|0-19|All Races|Male and Female|2003|5.6|6.7|6.1
+0.5|0.9|0.7|53|XI(c) Nasopharyngeal carcinomas|76413922|0-19|All Races|Male and Female|2003|0.5|0.9|0.7
+5.4|6.5|5.9|460|XI(d) Malignant melanomas|76413922|0-19|All Races|Male and Female|2003|5.5|6.6|6.0
+~|~|~|~|XI(e) Skin carcinomas|76413922|0-19|All Races|Male and Female|2003|~|~|~
+3.8|4.8|4.3|331|XI(f) Other and unspecified carcinomas|76413922|0-19|All Races|Male and Female|2003|3.9|4.8|4.3
+0.8|1.3|1.1|82|XII Other and unspecified malignant neoplasms|76413922|0-19|All Races|Male and Female|2003|0.9|1.3|1.1
+0.3|0.7|0.5|37|XII(a) Other specified malignant tumors|76413922|0-19|All Races|Male and Female|2003|0.3|0.7|0.5
+0.4|0.8|0.6|45|XII(b) Other unspecified malignant tumors|76413922|0-19|All Races|Male and Female|2003|0.4|0.8|0.6
+170.1|175.9|173.0|13611|All ICCC Groups Combined|78301500|0-19|All Races|Male and Female|2004|170.9|176.8|173.8
+44.5|47.5|46.0|3589|I Leukemias, myeloproliferative & myelodysplastic diseases|78301500|0-19|All Races|Male and Female|2004|44.3|47.4|45.8
+31.8|34.4|33.1|2573|I(a) Lymphoid leukemias|78301500|0-19|All Races|Male and Female|2004|31.6|34.2|32.9
+7.7|9.0|8.3|653|I(b) Acute myeloid leukemias|78301500|0-19|All Races|Male and Female|2004|7.7|9.0|8.3
+1.7|2.4|2.0|162|I(c) Chronic myeloproliferative diseases|78301500|0-19|All Races|Male and Female|2004|1.8|2.4|2.1
+1.1|1.6|1.3|104|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|78301500|0-19|All Races|Male and Female|2004|1.1|1.6|1.3
+1.0|1.5|1.2|97|I(e) Unspecified and other specified leukemias|78301500|0-19|All Races|Male and Female|2004|1.0|1.5|1.2
+22.9|25.1|24.0|1903|II Lymphomas and reticuloendothelial neoplasms|78301500|0-19|All Races|Male and Female|2004|23.2|25.4|24.3
+11.0|12.6|11.8|941|II(a) Hodgkin lymphomas|78301500|0-19|All Races|Male and Female|2004|11.3|12.8|12.0
+7.8|9.1|8.4|666|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|78301500|0-19|All Races|Male and Female|2004|7.9|9.2|8.5
+2.0|2.7|2.4|185|II(c) Burkitt lymphoma|78301500|0-19|All Races|Male and Female|2004|2.0|2.7|2.4
+0.9|1.3|1.1|85|II(d) Miscellaneous lymphoreticular neoplasms|78301500|0-19|All Races|Male and Female|2004|0.9|1.3|1.1
+0.2|0.5|0.3|26|II(e) Unspecified lymphomas|78301500|0-19|All Races|Male and Female|2004|0.2|0.5|0.3
+30.7|33.3|32.0|2493|III CNS and misc intracranial and intraspinal neoplasms|78301500|0-19|All Races|Male and Female|2004|30.6|33.1|31.8
+2.4|3.1|2.7|213|III(a) Ependymomas and choroid plexus tumor|78301500|0-19|All Races|Male and Female|2004|2.4|3.1|2.7
+15.5|17.3|16.3|1275|III(b) Astrocytomas|78301500|0-19|All Races|Male and Female|2004|15.4|17.2|16.3
+6.0|7.1|6.5|507|III(c) Intracranial and intraspinal embryonal tumors|78301500|0-19|All Races|Male and Female|2004|5.9|7.1|6.5
+4.7|5.7|5.2|402|III(d) Other gliomas|78301500|0-19|All Races|Male and Female|2004|4.6|5.7|5.1
+0.5|0.9|0.7|56|III(e) Other specified intracranial & intraspinal neoplasms|78301500|0-19|All Races|Male and Female|2004|0.5|0.9|0.7
+0.4|0.7|0.5|40|III(f) Unspecified intracranial and intraspinal neoplasms|78301500|0-19|All Races|Male and Female|2004|0.4|0.7|0.5
+7.7|9.0|8.3|652|IV Neuroblastoma and other peripheral nervous cell tumors|78301500|0-19|All Races|Male and Female|2004|7.7|9.0|8.3
+7.4|8.7|8.0|630|IV(a) Neuroblastoma and ganglioneuroblastoma|78301500|0-19|All Races|Male and Female|2004|7.4|8.7|8.0
+0.2|0.4|0.3|22|IV(b) Other peripheral nervous cell tumors|78301500|0-19|All Races|Male and Female|2004|0.2|0.4|0.3
+11.2|12.7|11.9|941|IX Soft tissue and other extraosseous sarcomas|78301500|0-19|All Races|Male and Female|2004|11.3|12.8|12.0
+3.9|4.8|4.3|340|IX(a) Rhabdomyosarcomas|78301500|0-19|All Races|Male and Female|2004|3.9|4.8|4.3
+1.1|1.6|1.3|106|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|78301500|0-19|All Races|Male and Female|2004|1.1|1.6|1.4
+~|~|~|~|IX(c) Kaposi sarcoma|78301500|0-19|All Races|Male and Female|2004|~|~|~
+4.5|5.5|5.0|396|IX(d) Other specified soft tissue sarcomas|78301500|0-19|All Races|Male and Female|2004|4.6|5.6|5.1
+1.0|1.5|1.2|96|IX(e) Unspecified soft tissue sarcomas|78301500|0-19|All Races|Male and Female|2004|1.0|1.5|1.2
+0.2|0.5|0.3|27|Not classified by ICCC|78301500|0-19|All Races|Male and Female|2004|0.2|0.5|0.3
+2.7|3.5|3.1|245|V Retinoblastoma|78301500|0-19|All Races|Male and Female|2004|2.7|3.5|3.1
+5.9|7.1|6.5|504|VI Renal tumors|78301500|0-19|All Races|Male and Female|2004|5.9|7.0|6.4
+5.3|6.4|5.9|456|VI(a) Nephroblastoma and other nonepithelial renal tumors|78301500|0-19|All Races|Male and Female|2004|5.3|6.4|5.8
+0.4|0.8|0.6|45|VI(b) Renal carcinomas|78301500|0-19|All Races|Male and Female|2004|0.4|0.8|0.6
+~|~|~|~|VI(c) Unspecified malignant renal tumors|78301500|0-19|All Races|Male and Female|2004|~|~|~
+2.0|2.7|2.3|184|VII Hepatic tumors|78301500|0-19|All Races|Male and Female|2004|2.0|2.7|2.3
+1.4|2.0|1.7|131|VII(a) Hepatoblastoma|78301500|0-19|All Races|Male and Female|2004|1.4|2.0|1.7
+0.4|0.8|0.6|48|VII(b) Hepatic carcinomas|78301500|0-19|All Races|Male and Female|2004|0.5|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|78301500|0-19|All Races|Male and Female|2004|~|~|~
+8.3|9.6|8.9|707|VIII Malignant bone tumors|78301500|0-19|All Races|Male and Female|2004|8.4|9.7|9.0
+4.6|5.7|5.1|407|VIII(a) Osteosarcomas|78301500|0-19|All Races|Male and Female|2004|4.7|5.7|5.2
+0.3|0.7|0.5|39|VIII(b) Chondrosarcomas|78301500|0-19|All Races|Male and Female|2004|0.4|0.7|0.5
+2.3|3.0|2.6|210|VIII(c) Ewing tumor and related sarcomas of bone|78301500|0-19|All Races|Male and Female|2004|2.3|3.1|2.7
+0.3|0.7|0.5|38|VIII(d) Other specified malignant bone tumors|78301500|0-19|All Races|Male and Female|2004|0.3|0.7|0.5
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|78301500|0-19|All Races|Male and Female|2004|~|~|~
+10.2|11.7|11.0|875|X Germ cell, trophoblastic tumors & neoplasms of gonads|78301500|0-19|All Races|Male and Female|2004|10.4|11.9|11.2
+1.4|2.0|1.7|137|X(a) Intracranial & intraspinal germ cell tumors|78301500|0-19|All Races|Male and Female|2004|1.5|2.1|1.7
+1.0|1.6|1.3|102|X(b) Malignant extracranial & extragonadal germ cell tumors|78301500|0-19|All Races|Male and Female|2004|1.1|1.6|1.3
+6.6|7.8|7.2|578|X(c) Malignant gonadal germ cell tumors|78301500|0-19|All Races|Male and Female|2004|6.8|8.0|7.4
+0.3|0.6|0.4|32|X(d) Gonadal carcinomas|78301500|0-19|All Races|Male and Female|2004|0.3|0.6|0.4
+0.2|0.5|0.3|26|X(e) Other and unspecified malignant gonadal tumors|78301500|0-19|All Races|Male and Female|2004|0.2|0.5|0.3
+17.0|18.8|17.9|1426|XI Other malignant epithelial neoplasms and malignant melanomas|78301500|0-19|All Races|Male and Female|2004|17.3|19.2|18.2
+0.1|0.4|0.2|19|XI(a) Adrenocortical carcinomas|78301500|0-19|All Races|Male and Female|2004|0.1|0.4|0.2
+6.2|7.3|6.7|536|XI(b) Thyroid carcinomas|78301500|0-19|All Races|Male and Female|2004|6.3|7.5|6.8
+0.4|0.8|0.6|45|XI(c) Nasopharyngeal carcinomas|78301500|0-19|All Races|Male and Female|2004|0.4|0.8|0.6
+6.0|7.1|6.5|522|XI(d) Malignant melanomas|78301500|0-19|All Races|Male and Female|2004|6.1|7.3|6.7
+~|~|~|~|XI(e) Skin carcinomas|78301500|0-19|All Races|Male and Female|2004|~|~|~
+3.3|4.2|3.7|298|XI(f) Other and unspecified carcinomas|78301500|0-19|All Races|Male and Female|2004|3.4|4.3|3.8
+0.6|1.0|0.8|65|XII Other and unspecified malignant neoplasms|78301500|0-19|All Races|Male and Female|2004|0.6|1.1|0.8
+0.2|0.5|0.4|28|XII(a) Other specified malignant tumors|78301500|0-19|All Races|Male and Female|2004|0.2|0.5|0.4
+0.3|0.6|0.5|37|XII(b) Other unspecified malignant tumors|78301500|0-19|All Races|Male and Female|2004|0.3|0.7|0.5
+168.6|174.4|171.5|13570|All ICCC Groups Combined|78541923|0-19|All Races|Male and Female|2005|169.9|175.7|172.8
+42.9|45.9|44.4|3480|I Leukemias, myeloproliferative & myelodysplastic diseases|78541923|0-19|All Races|Male and Female|2005|42.8|45.8|44.3
+30.8|33.3|32.0|2502|I(a) Lymphoid leukemias|78541923|0-19|All Races|Male and Female|2005|30.6|33.1|31.9
+6.9|8.1|7.5|594|I(b) Acute myeloid leukemias|78541923|0-19|All Races|Male and Female|2005|7.0|8.2|7.6
+1.7|2.3|2.0|157|I(c) Chronic myeloproliferative diseases|78541923|0-19|All Races|Male and Female|2005|1.7|2.3|2.0
+1.3|1.9|1.6|124|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|78541923|0-19|All Races|Male and Female|2005|1.3|1.9|1.6
+1.1|1.6|1.3|103|I(e) Unspecified and other specified leukemias|78541923|0-19|All Races|Male and Female|2005|1.1|1.6|1.3
+24.7|26.9|25.8|2061|II Lymphomas and reticuloendothelial neoplasms|78541923|0-19|All Races|Male and Female|2005|25.1|27.4|26.2
+11.8|13.4|12.6|1014|II(a) Hodgkin lymphomas|78541923|0-19|All Races|Male and Female|2005|12.1|13.7|12.9
+8.5|9.8|9.1|726|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|78541923|0-19|All Races|Male and Female|2005|8.6|9.9|9.2
+2.2|2.9|2.5|197|II(c) Burkitt lymphoma|78541923|0-19|All Races|Male and Female|2005|2.2|2.9|2.5
+1.0|1.5|1.2|98|II(d) Miscellaneous lymphoreticular neoplasms|78541923|0-19|All Races|Male and Female|2005|1.0|1.5|1.2
+0.2|0.5|0.3|26|II(e) Unspecified lymphomas|78541923|0-19|All Races|Male and Female|2005|0.2|0.5|0.3
+28.4|30.9|29.6|2316|III CNS and misc intracranial and intraspinal neoplasms|78541923|0-19|All Races|Male and Female|2005|28.3|30.7|29.5
+2.5|3.2|2.8|222|III(a) Ependymomas and choroid plexus tumor|78541923|0-19|All Races|Male and Female|2005|2.5|3.2|2.8
+14.2|15.9|15.0|1176|III(b) Astrocytomas|78541923|0-19|All Races|Male and Female|2005|14.1|15.9|15.0
+5.3|6.4|5.8|454|III(c) Intracranial and intraspinal embryonal tumors|78541923|0-19|All Races|Male and Female|2005|5.3|6.3|5.8
+4.4|5.3|4.8|377|III(d) Other gliomas|78541923|0-19|All Races|Male and Female|2005|4.3|5.3|4.8
+0.5|0.9|0.7|51|III(e) Other specified intracranial & intraspinal neoplasms|78541923|0-19|All Races|Male and Female|2005|0.5|0.9|0.6
+0.3|0.6|0.5|36|III(f) Unspecified intracranial and intraspinal neoplasms|78541923|0-19|All Races|Male and Female|2005|0.3|0.6|0.5
+8.5|9.8|9.1|719|IV Neuroblastoma and other peripheral nervous cell tumors|78541923|0-19|All Races|Male and Female|2005|8.5|9.8|9.2
+8.3|9.6|8.9|702|IV(a) Neuroblastoma and ganglioneuroblastoma|78541923|0-19|All Races|Male and Female|2005|8.3|9.6|8.9
+0.1|0.3|0.2|17|IV(b) Other peripheral nervous cell tumors|78541923|0-19|All Races|Male and Female|2005|0.1|0.3|0.2
+11.6|13.2|12.4|981|IX Soft tissue and other extraosseous sarcomas|78541923|0-19|All Races|Male and Female|2005|11.7|13.3|12.5
+4.4|5.4|4.9|385|IX(a) Rhabdomyosarcomas|78541923|0-19|All Races|Male and Female|2005|4.4|5.4|4.9
+1.2|1.7|1.4|113|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|78541923|0-19|All Races|Male and Female|2005|1.2|1.7|1.4
+~|~|~|~|IX(c) Kaposi sarcoma|78541923|0-19|All Races|Male and Female|2005|~|~|~
+4.4|5.4|4.9|393|IX(d) Other specified soft tissue sarcomas|78541923|0-19|All Races|Male and Female|2005|4.5|5.5|5.0
+0.9|1.3|1.1|86|IX(e) Unspecified soft tissue sarcomas|78541923|0-19|All Races|Male and Female|2005|0.9|1.4|1.1
+0.2|0.4|0.3|22|Not classified by ICCC|78541923|0-19|All Races|Male and Female|2005|0.2|0.4|0.3
+2.5|3.2|2.8|224|V Retinoblastoma|78541923|0-19|All Races|Male and Female|2005|2.5|3.3|2.9
+6.1|7.3|6.7|524|VI Renal tumors|78541923|0-19|All Races|Male and Female|2005|6.1|7.3|6.7
+5.5|6.6|6.0|471|VI(a) Nephroblastoma and other nonepithelial renal tumors|78541923|0-19|All Races|Male and Female|2005|5.5|6.6|6.0
+0.5|0.8|0.6|49|VI(b) Renal carcinomas|78541923|0-19|All Races|Male and Female|2005|0.5|0.8|0.6
+~|~|~|~|VI(c) Unspecified malignant renal tumors|78541923|0-19|All Races|Male and Female|2005|~|~|~
+1.7|2.3|2.0|159|VII Hepatic tumors|78541923|0-19|All Races|Male and Female|2005|1.7|2.4|2.0
+1.2|1.7|1.4|112|VII(a) Hepatoblastoma|78541923|0-19|All Races|Male and Female|2005|1.2|1.7|1.4
+0.4|0.8|0.6|45|VII(b) Hepatic carcinomas|78541923|0-19|All Races|Male and Female|2005|0.4|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|78541923|0-19|All Races|Male and Female|2005|~|~|~
+8.2|9.5|8.9|705|VIII Malignant bone tumors|78541923|0-19|All Races|Male and Female|2005|8.3|9.7|9.0
+4.5|5.5|5.0|400|VIII(a) Osteosarcomas|78541923|0-19|All Races|Male and Female|2005|4.6|5.6|5.1
+0.2|0.4|0.3|23|VIII(b) Chondrosarcomas|78541923|0-19|All Races|Male and Female|2005|0.2|0.4|0.3
+2.5|3.3|2.9|230|VIII(c) Ewing tumor and related sarcomas of bone|78541923|0-19|All Races|Male and Female|2005|2.6|3.3|2.9
+0.3|0.6|0.4|35|VIII(d) Other specified malignant bone tumors|78541923|0-19|All Races|Male and Female|2005|0.3|0.6|0.4
+0.1|0.3|0.2|17|VIII(e) Unspecified malignant bone tumors|78541923|0-19|All Races|Male and Female|2005|0.1|0.3|0.2
+10.6|12.1|11.4|917|X Germ cell, trophoblastic tumors & neoplasms of gonads|78541923|0-19|All Races|Male and Female|2005|10.9|12.5|11.7
+1.3|1.9|1.6|127|X(a) Intracranial & intraspinal germ cell tumors|78541923|0-19|All Races|Male and Female|2005|1.3|1.9|1.6
+1.3|1.9|1.6|126|X(b) Malignant extracranial & extragonadal germ cell tumors|78541923|0-19|All Races|Male and Female|2005|1.3|1.9|1.6
+6.9|8.1|7.5|609|X(c) Malignant gonadal germ cell tumors|78541923|0-19|All Races|Male and Female|2005|7.2|8.4|7.8
+0.2|0.5|0.3|28|X(d) Gonadal carcinomas|78541923|0-19|All Races|Male and Female|2005|0.2|0.5|0.4
+0.2|0.5|0.3|27|X(e) Other and unspecified malignant gonadal tumors|78541923|0-19|All Races|Male and Female|2005|0.2|0.5|0.3
+16.3|18.2|17.2|1392|XI Other malignant epithelial neoplasms and malignant melanomas|78541923|0-19|All Races|Male and Female|2005|16.8|18.7|17.7
+~|~|~|~|XI(a) Adrenocortical carcinomas|78541923|0-19|All Races|Male and Female|2005|~|~|~
+5.4|6.5|6.0|483|XI(b) Thyroid carcinomas|78541923|0-19|All Races|Male and Female|2005|5.6|6.7|6.1
+0.3|0.6|0.4|32|XI(c) Nasopharyngeal carcinomas|78541923|0-19|All Races|Male and Female|2005|0.3|0.6|0.4
+5.9|7.1|6.5|522|XI(d) Malignant melanomas|78541923|0-19|All Races|Male and Female|2005|6.1|7.2|6.6
+~|~|~|~|XI(e) Skin carcinomas|78541923|0-19|All Races|Male and Female|2005|~|~|~
+3.7|4.6|4.2|336|XI(f) Other and unspecified carcinomas|78541923|0-19|All Races|Male and Female|2005|3.8|4.8|4.3
+0.7|1.1|0.9|70|XII Other and unspecified malignant neoplasms|78541923|0-19|All Races|Male and Female|2005|0.7|1.1|0.9
+0.2|0.5|0.3|27|XII(a) Other specified malignant tumors|78541923|0-19|All Races|Male and Female|2005|0.2|0.5|0.3
+0.4|0.7|0.5|43|XII(b) Other unspecified malignant tumors|78541923|0-19|All Races|Male and Female|2005|0.4|0.7|0.5
+168.5|174.2|171.3|13618|All ICCC Groups Combined|78847112|0-19|All Races|Male and Female|2006|169.8|175.6|172.7
+45.1|48.1|46.6|3666|I Leukemias, myeloproliferative & myelodysplastic diseases|78847112|0-19|All Races|Male and Female|2006|45.0|48.0|46.5
+31.9|34.5|33.2|2597|I(a) Lymphoid leukemias|78847112|0-19|All Races|Male and Female|2006|31.7|34.2|32.9
+7.5|8.8|8.1|647|I(b) Acute myeloid leukemias|78847112|0-19|All Races|Male and Female|2006|7.6|8.9|8.2
+1.9|2.6|2.3|181|I(c) Chronic myeloproliferative diseases|78847112|0-19|All Races|Male and Female|2006|2.0|2.7|2.3
+1.4|1.9|1.6|130|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|78847112|0-19|All Races|Male and Female|2006|1.4|2.0|1.6
+1.1|1.7|1.4|111|I(e) Unspecified and other specified leukemias|78847112|0-19|All Races|Male and Female|2006|1.2|1.7|1.4
+23.8|26.0|24.8|1996|II Lymphomas and reticuloendothelial neoplasms|78847112|0-19|All Races|Male and Female|2006|24.2|26.5|25.3
+11.6|13.2|12.4|1004|II(a) Hodgkin lymphomas|78847112|0-19|All Races|Male and Female|2006|12.0|13.5|12.7
+8.0|9.3|8.6|691|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|78847112|0-19|All Races|Male and Female|2006|8.1|9.4|8.8
+2.1|2.8|2.5|194|II(c) Burkitt lymphoma|78847112|0-19|All Races|Male and Female|2006|2.1|2.8|2.5
+0.9|1.3|1.1|84|II(d) Miscellaneous lymphoreticular neoplasms|78847112|0-19|All Races|Male and Female|2006|0.8|1.3|1.1
+0.2|0.4|0.3|23|II(e) Unspecified lymphomas|78847112|0-19|All Races|Male and Female|2006|0.2|0.4|0.3
+29.8|32.2|31.0|2430|III CNS and misc intracranial and intraspinal neoplasms|78847112|0-19|All Races|Male and Female|2006|29.6|32.1|30.8
+2.4|3.2|2.8|220|III(a) Ependymomas and choroid plexus tumor|78847112|0-19|All Races|Male and Female|2006|2.4|3.2|2.8
+14.2|16.0|15.1|1185|III(b) Astrocytomas|78847112|0-19|All Races|Male and Female|2006|14.2|15.9|15.0
+5.9|7.0|6.4|501|III(c) Intracranial and intraspinal embryonal tumors|78847112|0-19|All Races|Male and Female|2006|5.8|6.9|6.4
+5.0|6.0|5.5|429|III(d) Other gliomas|78847112|0-19|All Races|Male and Female|2006|4.9|6.0|5.4
+0.4|0.8|0.6|47|III(e) Other specified intracranial & intraspinal neoplasms|78847112|0-19|All Races|Male and Female|2006|0.4|0.8|0.6
+0.5|0.8|0.6|48|III(f) Unspecified intracranial and intraspinal neoplasms|78847112|0-19|All Races|Male and Female|2006|0.4|0.8|0.6
+7.2|8.4|7.8|614|IV Neuroblastoma and other peripheral nervous cell tumors|78847112|0-19|All Races|Male and Female|2006|7.2|8.4|7.8
+7.0|8.3|7.6|601|IV(a) Neuroblastoma and ganglioneuroblastoma|78847112|0-19|All Races|Male and Female|2006|7.0|8.3|7.6
+~|~|~|~|IV(b) Other peripheral nervous cell tumors|78847112|0-19|All Races|Male and Female|2006|~|~|~
+10.8|12.3|11.5|918|IX Soft tissue and other extraosseous sarcomas|78847112|0-19|All Races|Male and Female|2006|10.9|12.4|11.6
+4.0|5.0|4.5|354|IX(a) Rhabdomyosarcomas|78847112|0-19|All Races|Male and Female|2006|4.0|5.0|4.5
+1.1|1.6|1.3|107|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|78847112|0-19|All Races|Male and Female|2006|1.1|1.6|1.4
+~|~|~|~|IX(c) Kaposi sarcoma|78847112|0-19|All Races|Male and Female|2006|~|~|~
+4.0|4.9|4.4|356|IX(d) Other specified soft tissue sarcomas|78847112|0-19|All Races|Male and Female|2006|4.1|5.0|4.5
+1.0|1.5|1.2|97|IX(e) Unspecified soft tissue sarcomas|78847112|0-19|All Races|Male and Female|2006|1.0|1.5|1.2
+0.2|0.5|0.3|25|Not classified by ICCC|78847112|0-19|All Races|Male and Female|2006|0.2|0.5|0.3
+2.6|3.4|3.0|235|V Retinoblastoma|78847112|0-19|All Races|Male and Female|2006|2.6|3.4|3.0
+6.2|7.3|6.7|528|VI Renal tumors|78847112|0-19|All Races|Male and Female|2006|6.1|7.3|6.7
+5.4|6.5|6.0|467|VI(a) Nephroblastoma and other nonepithelial renal tumors|78847112|0-19|All Races|Male and Female|2006|5.4|6.5|5.9
+0.5|0.9|0.7|56|VI(b) Renal carcinomas|78847112|0-19|All Races|Male and Female|2006|0.5|0.9|0.7
+~|~|~|~|VI(c) Unspecified malignant renal tumors|78847112|0-19|All Races|Male and Female|2006|~|~|~
+2.0|2.6|2.3|181|VII Hepatic tumors|78847112|0-19|All Races|Male and Female|2006|2.0|2.7|2.3
+1.4|1.9|1.6|129|VII(a) Hepatoblastoma|78847112|0-19|All Races|Male and Female|2006|1.4|1.9|1.6
+0.4|0.8|0.6|48|VII(b) Hepatic carcinomas|78847112|0-19|All Races|Male and Female|2006|0.4|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|78847112|0-19|All Races|Male and Female|2006|~|~|~
+8.7|10.0|9.3|746|VIII Malignant bone tumors|78847112|0-19|All Races|Male and Female|2006|8.8|10.2|9.5
+4.9|5.9|5.4|430|VIII(a) Osteosarcomas|78847112|0-19|All Races|Male and Female|2006|5.0|6.0|5.5
+0.1|0.3|0.2|16|VIII(b) Chondrosarcomas|78847112|0-19|All Races|Male and Female|2006|0.1|0.3|0.2
+2.7|3.5|3.1|243|VIII(c) Ewing tumor and related sarcomas of bone|78847112|0-19|All Races|Male and Female|2006|2.7|3.5|3.1
+0.4|0.7|0.5|42|VIII(d) Other specified malignant bone tumors|78847112|0-19|All Races|Male and Female|2006|0.4|0.7|0.5
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|78847112|0-19|All Races|Male and Female|2006|~|~|~
+9.5|10.9|10.2|828|X Germ cell, trophoblastic tumors & neoplasms of gonads|78847112|0-19|All Races|Male and Female|2006|9.8|11.2|10.5
+1.2|1.8|1.5|120|X(a) Intracranial & intraspinal germ cell tumors|78847112|0-19|All Races|Male and Female|2006|1.3|1.8|1.5
+1.2|1.8|1.5|120|X(b) Malignant extracranial & extragonadal germ cell tumors|78847112|0-19|All Races|Male and Female|2006|1.3|1.8|1.5
+5.9|7.0|6.4|523|X(c) Malignant gonadal germ cell tumors|78847112|0-19|All Races|Male and Female|2006|6.1|7.2|6.6
+0.3|0.6|0.5|39|X(d) Gonadal carcinomas|78847112|0-19|All Races|Male and Female|2006|0.4|0.7|0.5
+0.2|0.5|0.3|26|X(e) Other and unspecified malignant gonadal tumors|78847112|0-19|All Races|Male and Female|2006|0.2|0.5|0.3
+16.1|17.9|17.0|1381|XI Other malignant epithelial neoplasms and malignant melanomas|78847112|0-19|All Races|Male and Female|2006|16.6|18.5|17.5
+~|~|~|~|XI(a) Adrenocortical carcinomas|78847112|0-19|All Races|Male and Female|2006|~|~|~
+6.0|7.2|6.6|537|XI(b) Thyroid carcinomas|78847112|0-19|All Races|Male and Female|2006|6.2|7.4|6.8
+0.5|0.8|0.6|51|XI(c) Nasopharyngeal carcinomas|78847112|0-19|All Races|Male and Female|2006|0.5|0.9|0.6
+4.9|5.9|5.4|436|XI(d) Malignant melanomas|78847112|0-19|All Races|Male and Female|2006|5.0|6.1|5.5
+~|~|~|~|XI(e) Skin carcinomas|78847112|0-19|All Races|Male and Female|2006|~|~|~
+3.7|4.6|4.1|336|XI(f) Other and unspecified carcinomas|78847112|0-19|All Races|Male and Female|2006|3.8|4.7|4.3
+0.7|1.1|0.9|70|XII Other and unspecified malignant neoplasms|78847112|0-19|All Races|Male and Female|2006|0.7|1.1|0.9
+0.3|0.7|0.5|38|XII(a) Other specified malignant tumors|78847112|0-19|All Races|Male and Female|2006|0.3|0.7|0.5
+0.3|0.6|0.4|32|XII(b) Other unspecified malignant tumors|78847112|0-19|All Races|Male and Female|2006|0.3|0.6|0.4
+173.4|176.0|174.7|69274|All ICCC Groups Combined|393229003|0-19|All Races|Male and Female|2006-2010|174.9|177.5|176.2
+46.8|48.1|47.5|18644|I Leukemias, myeloproliferative & myelodysplastic diseases|393229003|0-19|All Races|Male and Female|2006-2010|46.7|48.1|47.4
+33.6|34.8|34.2|13382|I(a) Lymphoid leukemias|393229003|0-19|All Races|Male and Female|2006-2010|33.5|34.6|34.0
+7.7|8.3|8.0|3174|I(b) Acute myeloid leukemias|393229003|0-19|All Races|Male and Female|2006-2010|7.8|8.4|8.1
+2.3|2.6|2.4|964|I(c) Chronic myeloproliferative diseases|393229003|0-19|All Races|Male and Female|2006-2010|2.3|2.6|2.5
+1.4|1.7|1.6|621|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|393229003|0-19|All Races|Male and Female|2006-2010|1.5|1.7|1.6
+1.2|1.4|1.3|503|I(e) Unspecified and other specified leukemias|393229003|0-19|All Races|Male and Female|2006-2010|1.2|1.4|1.3
+24.9|25.8|25.3|10143|II Lymphomas and reticuloendothelial neoplasms|393229003|0-19|All Races|Male and Female|2006-2010|25.3|26.3|25.8
+12.0|12.7|12.3|4988|II(a) Hodgkin lymphomas|393229003|0-19|All Races|Male and Female|2006-2010|12.3|13.0|12.7
+8.4|9.0|8.7|3450|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|393229003|0-19|All Races|Male and Female|2006-2010|8.5|9.1|8.8
+2.3|2.6|2.5|965|II(c) Burkitt lymphoma|393229003|0-19|All Races|Male and Female|2006-2010|2.3|2.6|2.5
+1.4|1.7|1.5|602|II(d) Miscellaneous lymphoreticular neoplasms|393229003|0-19|All Races|Male and Female|2006-2010|1.4|1.7|1.5
+0.3|0.4|0.3|138|II(e) Unspecified lymphomas|393229003|0-19|All Races|Male and Female|2006-2010|0.3|0.4|0.4
+30.4|31.5|30.9|12114|III CNS and misc intracranial and intraspinal neoplasms|393229003|0-19|All Races|Male and Female|2006-2010|30.3|31.4|30.8
+2.4|2.7|2.5|997|III(a) Ependymomas and choroid plexus tumor|393229003|0-19|All Races|Male and Female|2006-2010|2.4|2.7|2.5
+15.0|15.8|15.4|6033|III(b) Astrocytomas|393229003|0-19|All Races|Male and Female|2006-2010|15.0|15.7|15.3
+6.1|6.6|6.4|2488|III(c) Intracranial and intraspinal embryonal tumors|393229003|0-19|All Races|Male and Female|2006-2010|6.1|6.6|6.3
+5.3|5.8|5.5|2161|III(d) Other gliomas|393229003|0-19|All Races|Male and Female|2006-2010|5.3|5.7|5.5
+0.6|0.7|0.6|249|III(e) Other specified intracranial & intraspinal neoplasms|393229003|0-19|All Races|Male and Female|2006-2010|0.6|0.7|0.6
+0.4|0.5|0.5|186|III(f) Unspecified intracranial and intraspinal neoplasms|393229003|0-19|All Races|Male and Female|2006-2010|0.4|0.5|0.5
+8.0|8.5|8.3|3256|IV Neuroblastoma and other peripheral nervous cell tumors|393229003|0-19|All Races|Male and Female|2006-2010|8.0|8.6|8.3
+7.8|8.3|8.0|3170|IV(a) Neuroblastoma and ganglioneuroblastoma|393229003|0-19|All Races|Male and Female|2006-2010|7.8|8.3|8.1
+0.2|0.3|0.2|86|IV(b) Other peripheral nervous cell tumors|393229003|0-19|All Races|Male and Female|2006-2010|0.2|0.3|0.2
+11.7|12.4|12.1|4791|IX Soft tissue and other extraosseous sarcomas|393229003|0-19|All Races|Male and Female|2006-2010|11.8|12.5|12.2
+4.6|5.0|4.8|1885|IX(a) Rhabdomyosarcomas|393229003|0-19|All Races|Male and Female|2006-2010|4.6|5.0|4.8
+1.1|1.4|1.2|495|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|393229003|0-19|All Races|Male and Female|2006-2010|1.2|1.4|1.3
+0.0|0.1|0.0|16|IX(c) Kaposi sarcoma|393229003|0-19|All Races|Male and Female|2006-2010|0.0|0.1|0.0
+4.4|4.8|4.6|1840|IX(d) Other specified soft tissue sarcomas|393229003|0-19|All Races|Male and Female|2006-2010|4.5|4.9|4.7
+1.3|1.5|1.4|555|IX(e) Unspecified soft tissue sarcomas|393229003|0-19|All Races|Male and Female|2006-2010|1.3|1.5|1.4
+0.2|0.3|0.3|114|Not classified by ICCC|393229003|0-19|All Races|Male and Female|2006-2010|0.2|0.3|0.3
+2.9|3.3|3.1|1225|V Retinoblastoma|393229003|0-19|All Races|Male and Female|2006-2010|2.9|3.3|3.1
+6.7|7.2|6.9|2715|VI Renal tumors|393229003|0-19|All Races|Male and Female|2006-2010|6.6|7.2|6.9
+6.0|6.5|6.2|2430|VI(a) Nephroblastoma and other nonepithelial renal tumors|393229003|0-19|All Races|Male and Female|2006-2010|5.9|6.4|6.2
+0.6|0.8|0.7|270|VI(b) Renal carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|0.6|0.8|0.7
+~|~|~|~|VI(c) Unspecified malignant renal tumors|393229003|0-19|All Races|Male and Female|2006-2010|~|~|~
+2.2|2.5|2.3|913|VII Hepatic tumors|393229003|0-19|All Races|Male and Female|2006-2010|2.2|2.5|2.3
+1.5|1.8|1.7|658|VII(a) Hepatoblastoma|393229003|0-19|All Races|Male and Female|2006-2010|1.5|1.8|1.7
+0.5|0.7|0.6|247|VII(b) Hepatic carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|0.6|0.7|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|393229003|0-19|All Races|Male and Female|2006-2010|~|~|~
+8.4|9.0|8.7|3458|VIII Malignant bone tumors|393229003|0-19|All Races|Male and Female|2006-2010|8.5|9.1|8.8
+4.7|5.2|4.9|1966|VIII(a) Osteosarcomas|393229003|0-19|All Races|Male and Female|2006-2010|4.8|5.2|5.0
+0.3|0.4|0.3|125|VIII(b) Chondrosarcomas|393229003|0-19|All Races|Male and Female|2006-2010|0.3|0.4|0.3
+2.7|3.0|2.8|1119|VIII(c) Ewing tumor and related sarcomas of bone|393229003|0-19|All Races|Male and Female|2006-2010|2.7|3.0|2.8
+0.4|0.5|0.4|165|VIII(d) Other specified malignant bone tumors|393229003|0-19|All Races|Male and Female|2006-2010|0.4|0.5|0.4
+0.2|0.3|0.2|83|VIII(e) Unspecified malignant bone tumors|393229003|0-19|All Races|Male and Female|2006-2010|0.2|0.3|0.2
+10.7|11.3|11.0|4453|X Germ cell, trophoblastic tumors & neoplasms of gonads|393229003|0-19|All Races|Male and Female|2006-2010|11.0|11.7|11.3
+1.6|1.8|1.7|663|X(a) Intracranial & intraspinal germ cell tumors|393229003|0-19|All Races|Male and Female|2006-2010|1.6|1.8|1.7
+1.3|1.5|1.4|563|X(b) Malignant extracranial & extragonadal germ cell tumors|393229003|0-19|All Races|Male and Female|2006-2010|1.3|1.6|1.4
+6.9|7.4|7.2|2927|X(c) Malignant gonadal germ cell tumors|393229003|0-19|All Races|Male and Female|2006-2010|7.2|7.7|7.4
+0.4|0.5|0.5|185|X(d) Gonadal carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|0.4|0.5|0.5
+0.2|0.3|0.3|115|X(e) Other and unspecified malignant gonadal tumors|393229003|0-19|All Races|Male and Female|2006-2010|0.2|0.4|0.3
+17.1|17.9|17.5|7131|XI Other malignant epithelial neoplasms and malignant melanomas|393229003|0-19|All Races|Male and Female|2006-2010|17.7|18.6|18.1
+0.2|0.3|0.2|85|XI(a) Adrenocortical carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|0.2|0.3|0.2
+7.4|7.9|7.6|3110|XI(b) Thyroid carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|7.6|8.2|7.9
+0.5|0.7|0.6|243|XI(c) Nasopharyngeal carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|0.5|0.7|0.6
+4.6|5.0|4.8|1934|XI(d) Malignant melanomas|393229003|0-19|All Races|Male and Female|2006-2010|4.7|5.1|4.9
+0.1|0.1|0.1|32|XI(e) Skin carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|0.1|0.1|0.1
+4.1|4.5|4.2|1727|XI(f) Other and unspecified carcinomas|393229003|0-19|All Races|Male and Female|2006-2010|4.2|4.6|4.4
+0.7|0.9|0.8|317|XII Other and unspecified malignant neoplasms|393229003|0-19|All Races|Male and Female|2006-2010|0.7|0.9|0.8
+0.3|0.4|0.4|151|XII(a) Other specified malignant tumors|393229003|0-19|All Races|Male and Female|2006-2010|0.3|0.5|0.4
+0.4|0.5|0.4|166|XII(b) Other unspecified malignant tumors|393229003|0-19|All Races|Male and Female|2006-2010|0.4|0.5|0.4
+171.8|177.6|174.7|14342|All ICCC Groups Combined|81315506|0-19|All Races|Male and Female|2007|173.5|179.3|176.4
+45.6|48.6|47.1|3826|I Leukemias, myeloproliferative & myelodysplastic diseases|81315506|0-19|All Races|Male and Female|2007|45.6|48.6|47.1
+32.9|35.5|34.2|2762|I(a) Lymphoid leukemias|81315506|0-19|All Races|Male and Female|2007|32.7|35.3|34.0
+7.3|8.6|7.9|652|I(b) Acute myeloid leukemias|81315506|0-19|All Races|Male and Female|2007|7.4|8.7|8.0
+2.1|2.7|2.4|198|I(c) Chronic myeloproliferative diseases|81315506|0-19|All Races|Male and Female|2007|2.1|2.8|2.4
+1.2|1.7|1.4|118|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|81315506|0-19|All Races|Male and Female|2007|1.2|1.7|1.5
+0.9|1.4|1.2|96|I(e) Unspecified and other specified leukemias|81315506|0-19|All Races|Male and Female|2007|1.0|1.4|1.2
+23.6|25.8|24.7|2046|II Lymphomas and reticuloendothelial neoplasms|81315506|0-19|All Races|Male and Female|2007|24.1|26.3|25.2
+11.3|12.8|12.0|1010|II(a) Hodgkin lymphomas|81315506|0-19|All Races|Male and Female|2007|11.7|13.2|12.4
+8.0|9.3|8.6|708|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|81315506|0-19|All Races|Male and Female|2007|8.1|9.4|8.7
+2.2|3.0|2.6|208|II(c) Burkitt lymphoma|81315506|0-19|All Races|Male and Female|2007|2.2|2.9|2.6
+0.8|1.3|1.0|84|II(d) Miscellaneous lymphoreticular neoplasms|81315506|0-19|All Races|Male and Female|2007|0.8|1.3|1.0
+0.3|0.6|0.4|36|II(e) Unspecified lymphomas|81315506|0-19|All Races|Male and Female|2007|0.3|0.6|0.4
+30.2|32.7|31.4|2543|III CNS and misc intracranial and intraspinal neoplasms|81315506|0-19|All Races|Male and Female|2007|30.1|32.5|31.3
+2.1|2.8|2.4|198|III(a) Ependymomas and choroid plexus tumor|81315506|0-19|All Races|Male and Female|2007|2.1|2.8|2.4
+14.7|16.5|15.6|1263|III(b) Astrocytomas|81315506|0-19|All Races|Male and Female|2007|14.7|16.4|15.5
+6.0|7.1|6.5|526|III(c) Intracranial and intraspinal embryonal tumors|81315506|0-19|All Races|Male and Female|2007|5.9|7.0|6.5
+5.2|6.3|5.7|461|III(d) Other gliomas|81315506|0-19|All Races|Male and Female|2007|5.2|6.2|5.7
+0.5|0.9|0.7|57|III(e) Other specified intracranial & intraspinal neoplasms|81315506|0-19|All Races|Male and Female|2007|0.5|0.9|0.7
+0.3|0.6|0.5|38|III(f) Unspecified intracranial and intraspinal neoplasms|81315506|0-19|All Races|Male and Female|2007|0.3|0.6|0.5
+8.3|9.6|8.9|732|IV Neuroblastoma and other peripheral nervous cell tumors|81315506|0-19|All Races|Male and Female|2007|8.4|9.7|9.0
+8.1|9.4|8.7|714|IV(a) Neuroblastoma and ganglioneuroblastoma|81315506|0-19|All Races|Male and Female|2007|8.1|9.4|8.8
+0.1|0.3|0.2|18|IV(b) Other peripheral nervous cell tumors|81315506|0-19|All Races|Male and Female|2007|0.1|0.3|0.2
+11.6|13.1|12.4|1016|IX Soft tissue and other extraosseous sarcomas|81315506|0-19|All Races|Male and Female|2007|11.7|13.3|12.5
+4.6|5.6|5.1|415|IX(a) Rhabdomyosarcomas|81315506|0-19|All Races|Male and Female|2007|4.6|5.6|5.1
+1.1|1.6|1.3|111|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|81315506|0-19|All Races|Male and Female|2007|1.1|1.6|1.4
+~|~|~|~|IX(c) Kaposi sarcoma|81315506|0-19|All Races|Male and Female|2007|~|~|~
+4.3|5.2|4.7|393|IX(d) Other specified soft tissue sarcomas|81315506|0-19|All Races|Male and Female|2007|4.4|5.3|4.8
+0.9|1.4|1.1|94|IX(e) Unspecified soft tissue sarcomas|81315506|0-19|All Races|Male and Female|2007|0.9|1.4|1.2
+0.2|0.4|0.3|21|Not classified by ICCC|81315506|0-19|All Races|Male and Female|2007|0.2|0.4|0.3
+2.6|3.4|3.0|247|V Retinoblastoma|81315506|0-19|All Races|Male and Female|2007|2.7|3.4|3.0
+6.3|7.4|6.9|555|VI Renal tumors|81315506|0-19|All Races|Male and Female|2007|6.3|7.4|6.8
+5.7|6.8|6.2|500|VI(a) Nephroblastoma and other nonepithelial renal tumors|81315506|0-19|All Races|Male and Female|2007|5.6|6.7|6.1
+0.5|0.8|0.6|53|VI(b) Renal carcinomas|81315506|0-19|All Races|Male and Female|2007|0.5|0.9|0.7
+~|~|~|~|VI(c) Unspecified malignant renal tumors|81315506|0-19|All Races|Male and Female|2007|~|~|~
+2.0|2.7|2.3|190|VII Hepatic tumors|81315506|0-19|All Races|Male and Female|2007|2.0|2.7|2.3
+1.4|2.0|1.7|138|VII(a) Hepatoblastoma|81315506|0-19|All Races|Male and Female|2007|1.4|2.0|1.7
+0.5|0.8|0.6|52|VII(b) Hepatic carcinomas|81315506|0-19|All Races|Male and Female|2007|0.5|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|81315506|0-19|All Races|Male and Female|2007|~|~|~
+8.0|9.3|8.6|710|VIII Malignant bone tumors|81315506|0-19|All Races|Male and Female|2007|8.1|9.4|8.7
+4.2|5.2|4.7|384|VIII(a) Osteosarcomas|81315506|0-19|All Races|Male and Female|2007|4.3|5.2|4.7
+0.2|0.5|0.3|28|VIII(b) Chondrosarcomas|81315506|0-19|All Races|Male and Female|2007|0.2|0.5|0.3
+2.7|3.4|3.0|249|VIII(c) Ewing tumor and related sarcomas of bone|81315506|0-19|All Races|Male and Female|2007|2.7|3.5|3.1
+0.2|0.5|0.3|28|VIII(d) Other specified malignant bone tumors|81315506|0-19|All Races|Male and Female|2007|0.2|0.5|0.3
+0.2|0.4|0.3|21|VIII(e) Unspecified malignant bone tumors|81315506|0-19|All Races|Male and Female|2007|0.2|0.4|0.3
+10.3|11.7|11.0|925|X Germ cell, trophoblastic tumors & neoplasms of gonads|81315506|0-19|All Races|Male and Female|2007|10.7|12.1|11.4
+1.3|1.9|1.6|131|X(a) Intracranial & intraspinal germ cell tumors|81315506|0-19|All Races|Male and Female|2007|1.3|1.9|1.6
+1.1|1.7|1.4|116|X(b) Malignant extracranial & extragonadal germ cell tumors|81315506|0-19|All Races|Male and Female|2007|1.2|1.7|1.4
+6.8|8.0|7.4|626|X(c) Malignant gonadal germ cell tumors|81315506|0-19|All Races|Male and Female|2007|7.1|8.3|7.7
+0.2|0.5|0.3|29|X(d) Gonadal carcinomas|81315506|0-19|All Races|Male and Female|2007|0.2|0.5|0.4
+0.2|0.4|0.3|23|X(e) Other and unspecified malignant gonadal tumors|81315506|0-19|All Races|Male and Female|2007|0.2|0.4|0.3
+16.5|18.3|17.3|1465|XI Other malignant epithelial neoplasms and malignant melanomas|81315506|0-19|All Races|Male and Female|2007|17.1|19.0|18.0
+~|~|~|~|XI(a) Adrenocortical carcinomas|81315506|0-19|All Races|Male and Female|2007|~|~|~
+6.5|7.7|7.1|599|XI(b) Thyroid carcinomas|81315506|0-19|All Races|Male and Female|2007|6.8|8.0|7.4
+0.5|0.8|0.6|51|XI(c) Nasopharyngeal carcinomas|81315506|0-19|All Races|Male and Female|2007|0.5|0.8|0.6
+4.9|5.9|5.4|454|XI(d) Malignant melanomas|81315506|0-19|All Races|Male and Female|2007|5.1|6.1|5.6
+~|~|~|~|XI(e) Skin carcinomas|81315506|0-19|All Races|Male and Female|2007|~|~|~
+3.6|4.4|4.0|337|XI(f) Other and unspecified carcinomas|81315506|0-19|All Races|Male and Female|2007|3.7|4.6|4.1
+0.6|1.0|0.8|66|XII Other and unspecified malignant neoplasms|81315506|0-19|All Races|Male and Female|2007|0.6|1.0|0.8
+0.2|0.5|0.4|29|XII(a) Other specified malignant tumors|81315506|0-19|All Races|Male and Female|2007|0.2|0.5|0.4
+0.3|0.6|0.4|37|XII(b) Other unspecified malignant tumors|81315506|0-19|All Races|Male and Female|2007|0.3|0.6|0.5
+173.1|178.8|175.9|14511|All ICCC Groups Combined|81683260|0-19|All Races|Male and Female|2008|174.8|180.6|177.6
+46.7|49.7|48.2|3933|I Leukemias, myeloproliferative & myelodysplastic diseases|81683260|0-19|All Races|Male and Female|2008|46.7|49.7|48.1
+33.5|36.1|34.8|2824|I(a) Lymphoid leukemias|81683260|0-19|All Races|Male and Female|2008|33.3|35.9|34.6
+7.7|8.9|8.3|682|I(b) Acute myeloid leukemias|81683260|0-19|All Races|Male and Female|2008|7.7|9.0|8.3
+2.2|2.9|2.5|211|I(c) Chronic myeloproliferative diseases|81683260|0-19|All Races|Male and Female|2008|2.2|3.0|2.6
+1.3|1.8|1.5|127|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|81683260|0-19|All Races|Male and Female|2008|1.3|1.8|1.6
+0.9|1.3|1.1|89|I(e) Unspecified and other specified leukemias|81683260|0-19|All Races|Male and Female|2008|0.9|1.3|1.1
+24.2|26.4|25.3|2103|II Lymphomas and reticuloendothelial neoplasms|81683260|0-19|All Races|Male and Female|2008|24.7|26.9|25.7
+12.1|13.6|12.9|1081|II(a) Hodgkin lymphomas|81683260|0-19|All Races|Male and Female|2008|12.5|14.0|13.2
+8.1|9.4|8.7|720|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|81683260|0-19|All Races|Male and Female|2008|8.2|9.5|8.8
+2.2|2.9|2.6|207|II(c) Burkitt lymphoma|81683260|0-19|All Races|Male and Female|2008|2.2|2.9|2.5
+0.7|1.1|0.8|69|II(d) Miscellaneous lymphoreticular neoplasms|81683260|0-19|All Races|Male and Female|2008|0.7|1.1|0.8
+0.2|0.5|0.3|26|II(e) Unspecified lymphomas|81683260|0-19|All Races|Male and Female|2008|0.2|0.5|0.3
+30.1|32.5|31.3|2546|III CNS and misc intracranial and intraspinal neoplasms|81683260|0-19|All Races|Male and Female|2008|30.0|32.4|31.2
+2.0|2.7|2.4|193|III(a) Ependymomas and choroid plexus tumor|81683260|0-19|All Races|Male and Female|2008|2.0|2.7|2.4
+14.6|16.4|15.5|1260|III(b) Astrocytomas|81683260|0-19|All Races|Male and Female|2008|14.6|16.3|15.4
+6.2|7.3|6.7|547|III(c) Intracranial and intraspinal embryonal tumors|81683260|0-19|All Races|Male and Female|2008|6.1|7.3|6.7
+5.1|6.1|5.6|453|III(d) Other gliomas|81683260|0-19|All Races|Male and Female|2008|5.0|6.1|5.5
+0.5|0.9|0.7|57|III(e) Other specified intracranial & intraspinal neoplasms|81683260|0-19|All Races|Male and Female|2008|0.5|0.9|0.7
+0.3|0.6|0.4|36|III(f) Unspecified intracranial and intraspinal neoplasms|81683260|0-19|All Races|Male and Female|2008|0.3|0.6|0.4
+7.7|8.9|8.3|681|IV Neuroblastoma and other peripheral nervous cell tumors|81683260|0-19|All Races|Male and Female|2008|7.7|9.0|8.3
+7.4|8.6|8.0|657|IV(a) Neuroblastoma and ganglioneuroblastoma|81683260|0-19|All Races|Male and Female|2008|7.4|8.7|8.0
+0.2|0.4|0.3|24|IV(b) Other peripheral nervous cell tumors|81683260|0-19|All Races|Male and Female|2008|0.2|0.4|0.3
+11.5|13.0|12.2|1007|IX Soft tissue and other extraosseous sarcomas|81683260|0-19|All Races|Male and Female|2008|11.6|13.1|12.3
+4.6|5.6|5.1|416|IX(a) Rhabdomyosarcomas|81683260|0-19|All Races|Male and Female|2008|4.6|5.6|5.1
+0.9|1.3|1.1|90|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|81683260|0-19|All Races|Male and Female|2008|0.9|1.4|1.1
+~|~|~|~|IX(c) Kaposi sarcoma|81683260|0-19|All Races|Male and Female|2008|~|~|~
+4.1|5.0|4.5|375|IX(d) Other specified soft tissue sarcomas|81683260|0-19|All Races|Male and Female|2008|4.1|5.1|4.6
+1.3|1.8|1.5|125|IX(e) Unspecified soft tissue sarcomas|81683260|0-19|All Races|Male and Female|2008|1.3|1.8|1.5
+0.2|0.4|0.3|22|Not classified by ICCC|81683260|0-19|All Races|Male and Female|2008|0.2|0.4|0.3
+2.6|3.4|3.0|249|V Retinoblastoma|81683260|0-19|All Races|Male and Female|2008|2.7|3.5|3.0
+6.6|7.7|7.1|583|VI Renal tumors|81683260|0-19|All Races|Male and Female|2008|6.6|7.7|7.1
+5.8|6.9|6.3|516|VI(a) Nephroblastoma and other nonepithelial renal tumors|81683260|0-19|All Races|Male and Female|2008|5.8|6.9|6.3
+0.6|1.0|0.8|64|VI(b) Renal carcinomas|81683260|0-19|All Races|Male and Female|2008|0.6|1.0|0.8
+~|~|~|~|VI(c) Unspecified malignant renal tumors|81683260|0-19|All Races|Male and Female|2008|~|~|~
+1.9|2.6|2.3|187|VII Hepatic tumors|81683260|0-19|All Races|Male and Female|2008|2.0|2.6|2.3
+1.4|2.0|1.7|140|VII(a) Hepatoblastoma|81683260|0-19|All Races|Male and Female|2008|1.4|2.0|1.7
+0.4|0.7|0.6|46|VII(b) Hepatic carcinomas|81683260|0-19|All Races|Male and Female|2008|0.4|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|81683260|0-19|All Races|Male and Female|2008|~|~|~
+8.1|9.4|8.7|718|VIII Malignant bone tumors|81683260|0-19|All Races|Male and Female|2008|8.2|9.5|8.8
+4.5|5.5|5.0|412|VIII(a) Osteosarcomas|81683260|0-19|All Races|Male and Female|2008|4.6|5.6|5.0
+0.3|0.5|0.4|32|VIII(b) Chondrosarcomas|81683260|0-19|All Races|Male and Female|2008|0.3|0.6|0.4
+2.4|3.1|2.7|224|VIII(c) Ewing tumor and related sarcomas of bone|81683260|0-19|All Races|Male and Female|2008|2.4|3.1|2.7
+0.2|0.5|0.3|29|VIII(d) Other specified malignant bone tumors|81683260|0-19|All Races|Male and Female|2008|0.2|0.5|0.4
+0.2|0.4|0.3|21|VIII(e) Unspecified malignant bone tumors|81683260|0-19|All Races|Male and Female|2008|0.2|0.4|0.3
+10.2|11.6|10.9|919|X Germ cell, trophoblastic tumors & neoplasms of gonads|81683260|0-19|All Races|Male and Female|2008|10.5|12.0|11.3
+1.4|2.0|1.7|142|X(a) Intracranial & intraspinal germ cell tumors|81683260|0-19|All Races|Male and Female|2008|1.5|2.0|1.7
+1.2|1.7|1.4|121|X(b) Malignant extracranial & extragonadal germ cell tumors|81683260|0-19|All Races|Male and Female|2008|1.2|1.8|1.5
+6.7|7.8|7.2|616|X(c) Malignant gonadal germ cell tumors|81683260|0-19|All Races|Male and Female|2008|7.0|8.2|7.5
+0.2|0.5|0.3|28|X(d) Gonadal carcinomas|81683260|0-19|All Races|Male and Female|2008|0.2|0.5|0.3
+~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|81683260|0-19|All Races|Male and Female|2008|~|~|~
+16.9|18.7|17.7|1504|XI Other malignant epithelial neoplasms and malignant melanomas|81683260|0-19|All Races|Male and Female|2008|17.5|19.4|18.4
+0.1|0.3|0.2|18|XI(a) Adrenocortical carcinomas|81683260|0-19|All Races|Male and Female|2008|0.1|0.3|0.2
+7.2|8.4|7.8|663|XI(b) Thyroid carcinomas|81683260|0-19|All Races|Male and Female|2008|7.5|8.8|8.1
+0.4|0.7|0.5|46|XI(c) Nasopharyngeal carcinomas|81683260|0-19|All Races|Male and Female|2008|0.4|0.8|0.6
+4.4|5.3|4.8|407|XI(d) Malignant melanomas|81683260|0-19|All Races|Male and Female|2008|4.5|5.5|5.0
+~|~|~|~|XI(e) Skin carcinomas|81683260|0-19|All Races|Male and Female|2008|~|~|~
+3.9|4.8|4.3|366|XI(f) Other and unspecified carcinomas|81683260|0-19|All Races|Male and Female|2008|4.0|5.0|4.5
+0.5|0.9|0.7|59|XII Other and unspecified malignant neoplasms|81683260|0-19|All Races|Male and Female|2008|0.5|0.9|0.7
+0.2|0.5|0.4|29|XII(a) Other specified malignant tumors|81683260|0-19|All Races|Male and Female|2008|0.2|0.5|0.4
+0.2|0.5|0.4|30|XII(b) Other unspecified malignant tumors|81683260|0-19|All Races|Male and Female|2008|0.2|0.5|0.4
+170.9|176.6|173.7|14339|All ICCC Groups Combined|81846618|0-19|All Races|Male and Female|2009|172.3|178.1|175.2
+45.0|48.0|46.5|3807|I Leukemias, myeloproliferative & myelodysplastic diseases|81846618|0-19|All Races|Male and Female|2009|45.0|48.0|46.5
+32.9|35.5|34.2|2789|I(a) Lymphoid leukemias|81846618|0-19|All Races|Male and Female|2009|32.8|35.4|34.1
+7.1|8.3|7.6|631|I(b) Acute myeloid leukemias|81846618|0-19|All Races|Male and Female|2009|7.1|8.3|7.7
+1.9|2.5|2.2|182|I(c) Chronic myeloproliferative diseases|81846618|0-19|All Races|Male and Female|2009|1.9|2.6|2.2
+1.2|1.7|1.4|116|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|81846618|0-19|All Races|Male and Female|2009|1.2|1.7|1.4
+0.9|1.3|1.1|89|I(e) Unspecified and other specified leukemias|81846618|0-19|All Races|Male and Female|2009|0.9|1.3|1.1
+23.7|25.8|24.8|2063|II Lymphomas and reticuloendothelial neoplasms|81846618|0-19|All Races|Male and Female|2009|24.1|26.3|25.2
+11.6|13.1|12.3|1041|II(a) Hodgkin lymphomas|81846618|0-19|All Races|Male and Female|2009|12.0|13.5|12.7
+8.1|9.4|8.7|722|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|81846618|0-19|All Races|Male and Female|2009|8.2|9.5|8.8
+1.9|2.5|2.2|178|II(c) Burkitt lymphoma|81846618|0-19|All Races|Male and Female|2009|1.9|2.5|2.2
+0.9|1.4|1.1|94|II(d) Miscellaneous lymphoreticular neoplasms|81846618|0-19|All Races|Male and Female|2009|0.9|1.4|1.1
+0.2|0.5|0.3|28|II(e) Unspecified lymphomas|81846618|0-19|All Races|Male and Female|2009|0.2|0.5|0.3
+29.7|32.1|30.9|2516|III CNS and misc intracranial and intraspinal neoplasms|81846618|0-19|All Races|Male and Female|2009|29.6|32.0|30.7
+2.1|2.7|2.4|197|III(a) Ependymomas and choroid plexus tumor|81846618|0-19|All Races|Male and Female|2009|2.1|2.8|2.4
+14.5|16.2|15.4|1252|III(b) Astrocytomas|81846618|0-19|All Races|Male and Female|2009|14.5|16.2|15.3
+5.7|6.8|6.3|509|III(c) Intracranial and intraspinal embryonal tumors|81846618|0-19|All Races|Male and Female|2009|5.7|6.8|6.2
+5.3|6.3|5.8|469|III(d) Other gliomas|81846618|0-19|All Races|Male and Female|2009|5.2|6.3|5.7
+0.4|0.8|0.6|47|III(e) Other specified intracranial & intraspinal neoplasms|81846618|0-19|All Races|Male and Female|2009|0.4|0.8|0.6
+0.4|0.7|0.5|42|III(f) Unspecified intracranial and intraspinal neoplasms|81846618|0-19|All Races|Male and Female|2009|0.4|0.7|0.5
+7.5|8.8|8.1|665|IV Neuroblastoma and other peripheral nervous cell tumors|81846618|0-19|All Races|Male and Female|2009|7.5|8.8|8.1
+7.3|8.5|7.9|647|IV(a) Neuroblastoma and ganglioneuroblastoma|81846618|0-19|All Races|Male and Female|2009|7.3|8.5|7.9
+0.1|0.3|0.2|18|IV(b) Other peripheral nervous cell tumors|81846618|0-19|All Races|Male and Female|2009|0.1|0.3|0.2
+11.1|12.6|11.8|974|IX Soft tissue and other extraosseous sarcomas|81846618|0-19|All Races|Male and Female|2009|11.2|12.7|11.9
+3.7|4.6|4.1|338|IX(a) Rhabdomyosarcomas|81846618|0-19|All Races|Male and Female|2009|3.7|4.6|4.1
+1.2|1.8|1.5|122|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|81846618|0-19|All Races|Male and Female|2009|1.2|1.8|1.5
+~|~|~|~|IX(c) Kaposi sarcoma|81846618|0-19|All Races|Male and Female|2009|~|~|~
+4.3|5.3|4.8|395|IX(d) Other specified soft tissue sarcomas|81846618|0-19|All Races|Male and Female|2009|4.4|5.3|4.8
+1.1|1.6|1.4|112|IX(e) Unspecified soft tissue sarcomas|81846618|0-19|All Races|Male and Female|2009|1.1|1.6|1.4
+0.3|0.5|0.4|31|Not classified by ICCC|81846618|0-19|All Races|Male and Female|2009|0.3|0.5|0.4
+2.8|3.6|3.2|262|V Retinoblastoma|81846618|0-19|All Races|Male and Female|2009|2.8|3.6|3.2
+6.7|7.9|7.3|594|VI Renal tumors|81846618|0-19|All Races|Male and Female|2009|6.7|7.9|7.3
+5.9|7.0|6.5|528|VI(a) Nephroblastoma and other nonepithelial renal tumors|81846618|0-19|All Races|Male and Female|2009|5.9|7.0|6.5
+0.6|1.0|0.8|64|VI(b) Renal carcinomas|81846618|0-19|All Races|Male and Female|2009|0.6|1.0|0.8
+~|~|~|~|VI(c) Unspecified malignant renal tumors|81846618|0-19|All Races|Male and Female|2009|~|~|~
+1.7|2.3|2.0|165|VII Hepatic tumors|81846618|0-19|All Races|Male and Female|2009|1.7|2.3|2.0
+1.1|1.7|1.4|113|VII(a) Hepatoblastoma|81846618|0-19|All Races|Male and Female|2009|1.1|1.7|1.4
+0.4|0.8|0.6|50|VII(b) Hepatic carcinomas|81846618|0-19|All Races|Male and Female|2009|0.5|0.8|0.6
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|81846618|0-19|All Races|Male and Female|2009|~|~|~
+8.1|9.4|8.7|720|VIII Malignant bone tumors|81846618|0-19|All Races|Male and Female|2009|8.2|9.5|8.8
+4.5|5.4|4.9|407|VIII(a) Osteosarcomas|81846618|0-19|All Races|Male and Female|2009|4.5|5.5|5.0
+0.2|0.4|0.3|24|VIII(b) Chondrosarcomas|81846618|0-19|All Races|Male and Female|2009|0.2|0.4|0.3
+2.5|3.2|2.8|234|VIII(c) Ewing tumor and related sarcomas of bone|81846618|0-19|All Races|Male and Female|2009|2.5|3.2|2.9
+0.3|0.6|0.5|38|VIII(d) Other specified malignant bone tumors|81846618|0-19|All Races|Male and Female|2009|0.3|0.6|0.5
+0.1|0.3|0.2|17|VIII(e) Unspecified malignant bone tumors|81846618|0-19|All Races|Male and Female|2009|0.1|0.3|0.2
+10.6|12.1|11.3|959|X Germ cell, trophoblastic tumors & neoplasms of gonads|81846618|0-19|All Races|Male and Female|2009|11.0|12.5|11.7
+1.4|1.9|1.6|134|X(a) Intracranial & intraspinal germ cell tumors|81846618|0-19|All Races|Male and Female|2009|1.4|1.9|1.6
+1.1|1.6|1.3|111|X(b) Malignant extracranial & extragonadal germ cell tumors|81846618|0-19|All Races|Male and Female|2009|1.1|1.6|1.4
+6.9|8.1|7.5|638|X(c) Malignant gonadal germ cell tumors|81846618|0-19|All Races|Male and Female|2009|7.2|8.4|7.8
+0.4|0.8|0.6|49|X(d) Gonadal carcinomas|81846618|0-19|All Races|Male and Female|2009|0.4|0.8|0.6
+0.2|0.5|0.3|27|X(e) Other and unspecified malignant gonadal tumors|81846618|0-19|All Races|Male and Female|2009|0.2|0.5|0.3
+16.9|18.7|17.8|1507|XI Other malignant epithelial neoplasms and malignant melanomas|81846618|0-19|All Races|Male and Female|2009|17.5|19.4|18.4
+0.2|0.4|0.3|22|XI(a) Adrenocortical carcinomas|81846618|0-19|All Races|Male and Female|2009|0.2|0.4|0.3
+7.5|8.7|8.1|688|XI(b) Thyroid carcinomas|81846618|0-19|All Races|Male and Female|2009|7.8|9.1|8.4
+0.5|0.9|0.7|56|XI(c) Nasopharyngeal carcinomas|81846618|0-19|All Races|Male and Female|2009|0.5|0.9|0.7
+3.9|4.8|4.3|365|XI(d) Malignant melanomas|81846618|0-19|All Races|Male and Female|2009|4.0|4.9|4.5
+~|~|~|~|XI(e) Skin carcinomas|81846618|0-19|All Races|Male and Female|2009|~|~|~
+3.9|4.8|4.4|368|XI(f) Other and unspecified carcinomas|81846618|0-19|All Races|Male and Female|2009|4.0|5.0|4.5
+0.7|1.1|0.9|76|XII Other and unspecified malignant neoplasms|81846618|0-19|All Races|Male and Female|2009|0.7|1.2|0.9
+0.2|0.5|0.4|30|XII(a) Other specified malignant tumors|81846618|0-19|All Races|Male and Female|2009|0.2|0.5|0.4
+0.4|0.7|0.6|46|XII(b) Other unspecified malignant tumors|81846618|0-19|All Races|Male and Female|2009|0.4|0.7|0.6
+172.3|178.1|175.2|14276|All ICCC Groups Combined|80961146|0-19|All Races|Male and Female|2010|173.5|179.2|176.3
+46.3|49.3|47.8|3870|I Leukemias, myeloproliferative & myelodysplastic diseases|80961146|0-19|All Races|Male and Female|2010|46.3|49.3|47.8
+32.6|35.2|33.9|2737|I(a) Lymphoid leukemias|80961146|0-19|All Races|Male and Female|2010|32.6|35.1|33.8
+7.3|8.6|7.9|646|I(b) Acute myeloid leukemias|80961146|0-19|All Races|Male and Female|2010|7.4|8.6|8.0
+2.2|2.9|2.6|210|I(c) Chronic myeloproliferative diseases|80961146|0-19|All Races|Male and Female|2010|2.3|3.0|2.6
+1.5|2.1|1.8|146|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|80961146|0-19|All Races|Male and Female|2010|1.5|2.1|1.8
+1.3|1.9|1.6|131|I(e) Unspecified and other specified leukemias|80961146|0-19|All Races|Male and Female|2010|1.4|1.9|1.6
+25.5|27.8|26.6|2184|II Lymphomas and reticuloendothelial neoplasms|80961146|0-19|All Races|Male and Female|2010|25.9|28.1|27.0
+11.1|12.6|11.8|983|II(a) Hodgkin lymphomas|80961146|0-19|All Races|Male and Female|2010|11.4|12.9|12.1
+7.9|9.2|8.5|694|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|80961146|0-19|All Races|Male and Female|2010|7.9|9.2|8.6
+2.1|2.8|2.4|193|II(c) Burkitt lymphoma|80961146|0-19|All Races|Male and Female|2010|2.1|2.7|2.4
+3.1|4.0|3.5|286|II(d) Miscellaneous lymphoreticular neoplasms|80961146|0-19|All Races|Male and Female|2010|3.1|4.0|3.5
+0.2|0.5|0.3|28|II(e) Unspecified lymphomas|80961146|0-19|All Races|Male and Female|2010|0.2|0.5|0.3
+29.1|31.5|30.3|2441|III CNS and misc intracranial and intraspinal neoplasms|80961146|0-19|All Races|Male and Female|2010|29.0|31.4|30.2
+2.3|3.1|2.7|218|III(a) Ependymomas and choroid plexus tumor|80961146|0-19|All Races|Male and Female|2010|2.3|3.1|2.7
+14.6|16.4|15.5|1249|III(b) Astrocytomas|80961146|0-19|All Races|Male and Female|2010|14.6|16.3|15.4
+5.5|6.6|6.1|487|III(c) Intracranial and intraspinal embryonal tumors|80961146|0-19|All Races|Male and Female|2010|5.5|6.6|6.0
+4.6|5.6|5.1|410|III(d) Other gliomas|80961146|0-19|All Races|Male and Female|2010|4.6|5.6|5.1
+0.5|0.8|0.6|49|III(e) Other specified intracranial & intraspinal neoplasms|80961146|0-19|All Races|Male and Female|2010|0.4|0.8|0.6
+0.2|0.5|0.3|28|III(f) Unspecified intracranial and intraspinal neoplasms|80961146|0-19|All Races|Male and Female|2010|0.2|0.5|0.3
+7.6|8.9|8.2|666|IV Neuroblastoma and other peripheral nervous cell tumors|80961146|0-19|All Races|Male and Female|2010|7.6|8.9|8.2
+7.4|8.7|8.0|650|IV(a) Neuroblastoma and ganglioneuroblastoma|80961146|0-19|All Races|Male and Female|2010|7.4|8.7|8.0
+0.1|0.3|0.2|16|IV(b) Other peripheral nervous cell tumors|80961146|0-19|All Races|Male and Female|2010|0.1|0.3|0.2
+11.5|13.1|12.3|999|IX Soft tissue and other extraosseous sarcomas|80961146|0-19|All Races|Male and Female|2010|11.6|13.1|12.3
+4.6|5.6|5.1|413|IX(a) Rhabdomyosarcomas|80961146|0-19|All Races|Male and Female|2010|4.6|5.6|5.1
+0.7|1.1|0.9|73|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|80961146|0-19|All Races|Male and Female|2010|0.7|1.1|0.9
+~|~|~|~|IX(c) Kaposi sarcoma|80961146|0-19|All Races|Male and Female|2010|~|~|~
+4.1|5.1|4.6|373|IX(d) Other specified soft tissue sarcomas|80961146|0-19|All Races|Male and Female|2010|4.2|5.1|4.6
+1.4|2.0|1.7|137|IX(e) Unspecified soft tissue sarcomas|80961146|0-19|All Races|Male and Female|2010|1.4|2.0|1.7
+0.1|0.3|0.2|17|Not classified by ICCC|80961146|0-19|All Races|Male and Female|2010|0.1|0.3|0.2
+2.8|3.6|3.2|261|V Retinoblastoma|80961146|0-19|All Races|Male and Female|2010|2.8|3.6|3.2
+6.0|7.2|6.6|534|VI Renal tumors|80961146|0-19|All Races|Male and Female|2010|6.0|7.2|6.6
+5.6|6.7|6.1|493|VI(a) Nephroblastoma and other nonepithelial renal tumors|80961146|0-19|All Races|Male and Female|2010|5.6|6.7|6.1
+0.3|0.6|0.5|38|VI(b) Renal carcinomas|80961146|0-19|All Races|Male and Female|2010|0.3|0.6|0.5
+~|~|~|~|VI(c) Unspecified malignant renal tumors|80961146|0-19|All Races|Male and Female|2010|~|~|~
+2.2|2.9|2.6|209|VII Hepatic tumors|80961146|0-19|All Races|Male and Female|2010|2.2|3.0|2.6
+1.6|2.2|1.9|153|VII(a) Hepatoblastoma|80961146|0-19|All Races|Male and Female|2010|1.6|2.2|1.9
+0.5|0.9|0.7|55|VII(b) Hepatic carcinomas|80961146|0-19|All Races|Male and Female|2010|0.5|0.9|0.7
+~|~|~|~|VII(c) Unspecified malignant hepatic tumors|80961146|0-19|All Races|Male and Female|2010|~|~|~
+7.5|8.7|8.1|660|VIII Malignant bone tumors|80961146|0-19|All Races|Male and Female|2010|7.5|8.8|8.2
+4.3|5.2|4.7|385|VIII(a) Osteosarcomas|80961146|0-19|All Races|Male and Female|2010|4.3|5.3|4.8
+0.2|0.5|0.3|27|VIII(b) Chondrosarcomas|80961146|0-19|All Races|Male and Female|2010|0.2|0.5|0.3
+2.1|2.8|2.5|201|VIII(c) Ewing tumor and related sarcomas of bone|80961146|0-19|All Races|Male and Female|2010|2.2|2.9|2.5
+0.3|0.6|0.4|33|VIII(d) Other specified malignant bone tumors|80961146|0-19|All Races|Male and Female|2010|0.3|0.6|0.4
+~|~|~|~|VIII(e) Unspecified malignant bone tumors|80961146|0-19|All Races|Male and Female|2010|~|~|~
+10.4|11.8|11.1|920|X Germ cell, trophoblastic tumors & neoplasms of gonads|80961146|0-19|All Races|Male and Female|2010|10.6|12.1|11.4
+1.6|2.2|1.9|152|X(a) Intracranial & intraspinal germ cell tumors|80961146|0-19|All Races|Male and Female|2010|1.6|2.2|1.9
+1.1|1.6|1.3|106|X(b) Malignant extracranial & extragonadal germ cell tumors|80961146|0-19|All Races|Male and Female|2010|1.1|1.6|1.3
+6.5|7.6|7.0|588|X(c) Malignant gonadal germ cell tumors|80961146|0-19|All Races|Male and Female|2010|6.7|7.9|7.3
+0.4|0.7|0.5|44|X(d) Gonadal carcinomas|80961146|0-19|All Races|Male and Female|2010|0.4|0.7|0.5
+0.2|0.5|0.4|30|X(e) Other and unspecified malignant gonadal tumors|80961146|0-19|All Races|Male and Female|2010|0.3|0.5|0.4
+16.6|18.4|17.5|1458|XI Other malignant epithelial neoplasms and malignant melanomas|80961146|0-19|All Races|Male and Female|2010|17.1|19.0|18.0
+0.1|0.4|0.2|19|XI(a) Adrenocortical carcinomas|80961146|0-19|All Races|Male and Female|2010|0.1|0.4|0.2
+7.8|9.0|8.4|700|XI(b) Thyroid carcinomas|80961146|0-19|All Races|Male and Female|2010|8.0|9.3|8.6
+0.4|0.8|0.6|48|XI(c) Nasopharyngeal carcinomas|80961146|0-19|All Races|Male and Female|2010|0.4|0.8|0.6
+3.5|4.4|3.9|324|XI(d) Malignant melanomas|80961146|0-19|All Races|Male and Female|2010|3.6|4.5|4.0
+~|~|~|~|XI(e) Skin carcinomas|80961146|0-19|All Races|Male and Female|2010|~|~|~
+3.9|4.8|4.3|360|XI(f) Other and unspecified carcinomas|80961146|0-19|All Races|Male and Female|2010|4.0|4.9|4.4
+0.5|0.9|0.7|57|XII Other and unspecified malignant neoplasms|80961146|0-19|All Races|Male and Female|2010|0.5|0.9|0.7
+0.2|0.5|0.4|30|XII(a) Other specified malignant tumors|80961146|0-19|All Races|Male and Female|2010|0.3|0.5|0.4
+0.2|0.5|0.3|27|XII(b) Other unspecified malignant tumors|80961146|0-19|All Races|Male and Female|2010|0.2|0.5|0.3
