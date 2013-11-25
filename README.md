@@ -1,10 +1,4 @@
-Detailed Project Description
-============================
-
-Please give me a full (at least one full page) specification of your proposed project.  This is not a software engineering course, so there is no defined format in which it needs to be written, but you may use one (UML, Z notation, etc) if you wish.  The document should be specific enough that I can understand completely the work you will be doing.  You should discuss the specifics you will use to create the program or programs.  Talk about how the interface will work, how the visualization will be incorporated, and what you will do with the data.  You will be, for the most part, bound to this description; this will be the program you write.  It will be used as a component to grade your final submission (how well you achieved what you propose)
-
-Project Description
--------------------
+# Detailed Project Description
 
 Using the data that was just released this year by the CDC on yearly incidents of cancer, this project will investigate which states have shown an increase or decrease in cancer incidents from 1999 - 2010. This analysis can be broken down by many factors, including age group, race and cancer site. The end product will be a simple web interface, giving the end user the ability to choose how to slice and dice the data, resulting in a graph output.
 
@@ -14,36 +8,34 @@ The CDC provides a similar web interface, that is much more detailed than what I
 
 
 
-Technologies Used
------------------
+## Technologies Used
 
-# Data
+### Data
 
 United States Cancer Statistics (USCS) - http://www.cdc.gov/cancer/npcr/uscs/download_data.htm
 
-# Language
+### Language
 
 Python - http://www.python.org/
 Pandas - http://pandas.pydata.org/
 
-# Database
+### Database
 
 MySQL - http://mysql.org
 
-# Web Layer (not chosen yet)
+### Web Layer (not chosen yet)
 
 Web2py - http://web2py.com/
 Flask - http://flask.pocoo.org/
 
-# Visualization
+### Visualization
 
 pylab - http://wiki.scipy.org/PyLab
 D3.js - http://d3js.org/
 Bokeh - https://github.com/ContinuumIO/bokeh
 
 
-Proposed Layout
----------------
+## Proposed Layout
 
 cancer/
 |-- data/
@@ -59,8 +51,7 @@ cancer/
 |    |-- ...
 
 
-Schema
-------
+## Schema
 
 AREA - String - Name of the state (50 possible values)
 AGE_ADJUSTED_CI_LOWER - Float - Lower bound of 95% confidence interval of the crude rate
@@ -77,8 +68,7 @@ CRUDE_CI_LOWER - Float - Lower bound of 95% confidence interval of the crude rat
 CRUDE_CI_UPPER - Float - Upper bound of 95% confidence interval of the crude rate
 CRUDE_RATE - Float - Rate of incidence per 100,000 persons
 
-General Steps
--------------
+## General Steps
 
 - Load data from .TXT file into pandas
 - Use pylab to graph the data in various ways, get familiar with data
@@ -89,7 +79,6 @@ General Steps
 - Use frontend to look if certain rates are increasing more quickly in certain areas over time
 
 
-Ideas to Expand in the Future
------------------------------
+## Ideas to Expand in the Future
 
 - Can use the other data files to include different ways to break the data down. I am currently using the BYAREA.txt file; BYAGE.txt and BYSITE.txt can provide further insight as that data is broken down by census age groups and cancer sites, respectively. 
