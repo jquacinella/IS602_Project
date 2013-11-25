@@ -12,31 +12,32 @@ The CDC provides a similar web interface, that is much more detailed than what I
 
 ### Data
 
-United States Cancer Statistics (USCS) - http://www.cdc.gov/cancer/npcr/uscs/download_data.htm
+- United States Cancer Statistics (USCS) - http://www.cdc.gov/cancer/npcr/uscs/download_data.htm
 
 ### Language
 
-Python - http://www.python.org/
-Pandas - http://pandas.pydata.org/
+- Python - http://www.python.org/
+- Pandas - http://pandas.pydata.org/
 
 ### Database
 
-MySQL - http://mysql.org
+- MySQL - http://mysql.org
 
 ### Web Layer (not chosen yet)
 
-Web2py - http://web2py.com/
-Flask - http://flask.pocoo.org/
+- Web2py - http://web2py.com/
+- Flask - http://flask.pocoo.org/
 
 ### Visualization
 
-pylab - http://wiki.scipy.org/PyLab
-D3.js - http://d3js.org/
-Bokeh - https://github.com/ContinuumIO/bokeh
+- Pylab - http://wiki.scipy.org/PyLab
+- D3.js - http://d3js.org/
+- Bokeh - https://github.com/ContinuumIO/bokeh
 
 
 ## Proposed Layout
 
+<pre>
 cancer/
 |-- data/
 |    |-- cancer/                # Raw data from CDC
@@ -49,10 +50,11 @@ cancer/
 |    |   |-- css/
 |    |   |-- js/
 |    |-- ...
-
+</pre>
 
 ## Schema
 
+<pre>
 AREA - String - Name of the state (50 possible values)
 AGE_ADJUSTED_CI_LOWER - Float - Lower bound of 95% confidence interval of the crude rate
 AGE_ADJUSTED_CI_UPPER - Float - Upper bound of 95% confidence interval of the crude rate
@@ -67,16 +69,17 @@ YEAR - Integer - Year of data collection for this given population
 CRUDE_CI_LOWER - Float - Lower bound of 95% confidence interval of the crude rate
 CRUDE_CI_UPPER - Float - Upper bound of 95% confidence interval of the crude rate
 CRUDE_RATE - Float - Rate of incidence per 100,000 persons
+</pre>
 
 ## General Steps
 
-- Load data from .TXT file into pandas
-- Use pylab to graph the data in various ways, get familiar with data
-- Load data into MySQL
-- Create code to generate a query to the database based on various parameters
-- Create simple backend that returns JSON of data to plot based on given HTTP parameters
-- Create simple frontend using a JS visualization library, which used backend via jQuery
-- Use frontend to look if certain rates are increasing more quickly in certain areas over time
+- [x] Load data from .TXT file into pandas
+- [ ] Use pylab to graph the data in various ways, get familiar with data
+- [ ] Load data into MySQL
+- [ ] Create code to generate a query to the database based on various parameters
+- [ ] Create simple backend that returns JSON of data to plot based on given HTTP parameters
+- [ ] Create simple frontend using a JS visualization library, which used backend via jQuery
+- [ ] Use frontend to look if certain rates are increasing more quickly in certain areas over time
 
 
 ## Ideas to Expand in the Future
