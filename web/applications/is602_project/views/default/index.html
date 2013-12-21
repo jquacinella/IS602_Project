@@ -4,16 +4,15 @@
 
 <h4>CDC Cancer Data Interface</h4>
 
-{{ if session.flash:}}
-  {{=session.flash}}
-{{ pass }}
-
-{{ if request.flash:}}
-{{=request.flash}}
-{{ pass }}
-
 {{=cancer_form}}
 
 <hr>
 
+{{=request.vars}} <br/><br/>
+{{=query}}  <br/><br/>
+
+{{ if output: }}
 {{=output}}
+{{ else: }}
+No output!
+{{ pass }}
