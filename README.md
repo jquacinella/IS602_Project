@@ -8,7 +8,7 @@ The CDC provides a similar web interface, that is much more detailed than what I
 
 
 
-## Technologies Used
+## Technologies Used 
 
 ### Data
 
@@ -26,13 +26,11 @@ The CDC provides a similar web interface, that is much more detailed than what I
 ### Web Layer (not chosen yet)
 
 - Web2py - http://web2py.com/
-- Flask - http://flask.pocoo.org/
 
 ### Visualization
 
 - Pylab - http://wiki.scipy.org/PyLab
 - D3.js - http://d3js.org/
-- Bokeh - https://github.com/ContinuumIO/bokeh
 
 
 ## Project Layout
