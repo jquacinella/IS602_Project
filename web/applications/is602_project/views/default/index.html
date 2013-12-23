@@ -1,18 +1,155 @@
-<h3>IS602 Project</h3>
+<html>
+  <head>
+    <link rel="stylesheet" href="{{=URL('static', 'css/bootstrap.css')}}">
 
-<p>This is a submission for the IS602 Final Project. Here is a web interface to the CDC cancer data, which allows comparisons over time. The CDC provides a web interface, but it does not allow to drill down the data over time, which this should help with.</p>
+    <style>
+    .chart {
 
-<h4>CDC Cancer Data Interface</h4>
+    }
 
-{{=cancer_form}}
+    .main text {
+        font: 10px sans-serif;  
+    }
 
-<hr>
+    .axis line, .axis path {
+        shape-rendering: crispEdges;
+        stroke: black;
+        fill: none;
+    }
 
-{{=request.vars}} <br/><br/>
-{{=query}}  <br/><br/>
+    circle {
+        fill: steelblue;
+    }
 
-{{ if output: }}
-{{=output}}
-{{ else: }}
-No output!
-{{ pass }}
+    </style>
+
+    <!-- jQuery and Javascript -->
+    <script src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.11/d3.min.js"></script>
+  </head>
+
+  <body>
+    <h3>IS602 Project</h3>
+
+    <p>This is a submission for the IS602 Final Project. Here is a web interface to the CDC cancer data, which allows comparisons over time. The CDC provides a web interface, but it does not allow to drill down the data over time, which this should help with.</p>
+
+    <div class="container">
+      <div class="row-fluid">
+        <div class="span4">
+          <h4>CDC Cancer Data Interface</h4>
+          {{=cancer_form}}
+        </div>
+        
+        <div class="span8">
+          <div id="data"></div>
+          <div id="content"></div>
+        </div>
+      </div>
+  </body>
+
+
+  <script>
+  function brushed() {
+    x.domain(brush.empty() ? x2.domain() : brush.extent());
+    focus.select("path").attr("d", area);
+    focus.select(".x.axis").call(xAxis);
+  }
+
+  function draw_graph(data) {
+    var margin = {top: 10, right: 10, bottom: 100, left: 400},
+      width  = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+    var parseDate = d3.time.format("%Y").parse;
+
+    var x = d3.time.scale().range([0, width]),
+        y = d3.scale.linear().range([height, 0]);
+
+    var xAxis = d3.svg.axis().scale(x).orient("bottom"),
+        yAxis = d3.svg.axis().scale(y).orient("left");
+
+    var brush = d3.svg.brush().on("brush", brushed);
+
+    var area = d3.svg.area()
+        .interpolate("monotone")
+        .x(function(d) { return x(d.date); })
+        .y0(height)
+        .y1(function(d) { return y(d.count); });
+
+    $('#content').html('');
+    var svg = d3.select("#content").append("svg")
+        //.attr("width", width + margin.left + margin.right)
+        .attr("width", '100%')
+        .attr("height", height + margin.top + margin.bottom);
+
+    svg.append("defs").append("clipPath")
+        .attr("id", "clip")
+        .append("rect")
+        .attr("width", width)
+        .attr("height", height);
+
+    var focus = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // $('#content').html('');
+    // var svg = d3.select("#content")
+    //         .append("svg")
+    //         .attr("width", 500)
+    //         .attr("height", 100);
+
+    // $.each(data, function(index, value) {
+    //   data[index].date = parseDate(data[index].date);
+    // });
+
+    // svg.selectAll("circle")
+    //    .data(data)
+    //    .enter()
+    //    .append("circle")
+    //    .attr("cx", function(d) {
+    //         return d['date'];
+    //    })
+    //    .attr("cy", function(d) {
+    //         return d['count'];
+    //    })
+    //    .attr("r", 5);
+
+
+
+    x.domain(d3.extent(data.map(function(d) { return d.date; })));
+    y.domain([0, d3.max(data.map(function(d) { return d.count; }))]);
+
+    focus.append("path")
+         .datum(data)
+         .attr("clip-path", "url(#clip)")
+         .attr("d", area);
+
+    focus.append("g")
+         .attr("class", "x axis")
+         .attr("transform", "translate(0," + height + ")")
+         .call(xAxis);
+
+    focus.append("g")
+         .attr("class", "y axis")
+         .call(yAxis);
+  }
+
+  // Intercept the form submit action
+  jQuery('form').submit(function() {
+    // Call our web frontend via ajax, serializing the form as POST parameters
+    $.ajax({
+      url: document.URL,
+      type: "POST",
+      data: $( this ).serialize()
+    }).done(function(data) {
+      // Show the received data to the user
+      $('#data').html('<h4>Data</h4><p>' + JSON.stringify(data) + '</p>');
+
+      // Output graph if we have data; error message otherwise
+      if(data) { draw_graph(data); }
+      else { $('#content').html('<h4>Graph</h4><p>No data returned! That means we do not have data for your query parameters.'); }
+    });
+    return false;
+  });
+
+
+  </script>
+</html>

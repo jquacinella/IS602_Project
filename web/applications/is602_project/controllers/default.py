@@ -1,7 +1,71 @@
 import types
+import gluon.contenttype
+from gluon.serializers import json
+import json
 
+@request.restful()
 def index():
+    ''' REST interface for CDC Cancer (JSON response on POST).'''
 
+    def GET():
+        cancer_form = _cancer_data_form()
+        return locals()
+
+    def POST(*args, **vars):
+        cancer_form = _cancer_data_form()
+
+        #from gluon.debug import dbg
+        #dbg.set_trace() # stop here!
+
+        output = None
+        query = None
+
+        #if cancer_form.process().accepted:
+        if cancer_form.accepts(request, formname=None):
+            # Build up portions of the query 
+            area_query = db.cancer_data_by_area['AREA'] == request.vars['AREA']
+            event_query = db.cancer_data_by_area['EVENT_TYPE'] == request.vars['EVENT_TYPE']
+            race_query = db.cancer_data_by_area['RACE'] == request.vars['RACE']
+            sex_query  = db.cancer_data_by_area['SEX']  == request.vars['SEX']
+            site_query = db.cancer_data_by_area['SITE'] == request.vars['SITE']
+            
+            # # Build up the portion of the query for year, which can be a list
+            # if type(request.vars['YEARS']) is types.ListType:
+            #     request.vars['YEARS'] = map(int, request.vars['YEARS'])
+            #     year_query = reduce(lambda a,b: a|b, [db.cancer_data_by_area.YEAR==year for year in request.vars['YEARS']])
+            # elif type(request.vars['YEARS']) is types.StringType:
+            #     year_query = db.cancer_data_by_area.YEAR==int(request.vars['YEARS'])
+
+            # Combine all subqueries into one
+            #query = area_query & race_query  & sex_query & event_query & site_query & year_query
+            query = area_query & race_query  & sex_query & event_query & site_query
+
+            # Get the output from MySQL
+            output = db(query).select(orderby=db.cancer_data_by_area.YEAR)
+
+            # Generate JSON object
+            data = []
+            for row in output:
+                year = row['YEAR']
+                data.append({"date": str(year), "count": row[request.vars['TARGET']]})
+
+            response.headers['Content-Type'] = gluon.contenttype.contenttype('.json')
+            response.status = 200
+            return json.dumps(data)
+
+        elif cancer_form.errors:
+            response.headers['Content-Type'] = gluon.contenttype.contenttype('.json')
+            response.status = 500
+            return json.dumps({'error': cancer_form.errors, 'vars': request.vars})
+
+        response.headers['Content-Type'] = gluon.contenttype.contenttype('.json')
+        response.status = 200
+        return json.dumps({'vars': request.vars})
+
+    return locals()
+
+
+def _cancer_data_form():
     db['cancer_data_by_area'].AREA.requires = IS_IN_SET(states, multiple=False)
     db['cancer_data_by_area'].AREA.widget = SQLFORM.widgets.options.widget
     
@@ -36,40 +100,7 @@ def index():
     db['cancer_data_by_area'].YEAR.writable = False
     db['cancer_data_by_area'].YEAR.readable = False
 
-    cancer_form = SQLFORM.factory(db.cancer_data_by_area, 
-                            Field('YEARS',
-                                requires=IS_IN_SET(years, multiple = True),
-                                widget = SQLFORM.widgets.multiple.widget),
+    return SQLFORM.factory(db.cancer_data_by_area, 
+                            Field('TARGET', default=target_variable[0], requires=IS_IN_SET(target_variable, multiple = False)), 
                             _formname='cancer_form')
 
-    # from gluon.debug import dbg
-    # dbg.set_trace() # stop here!
-
-    output = None
-    query = None
-
-    def validate_cancer_form(form):
-        if not form.vars.YEARS:
-            form.errors.YEARS = 'Must provide a year!'
-
-    if cancer_form.process(_formname='cancer_form', onvalidation=validate_cancer_form).accepted:
-
-        area_query = db.cancer_data_by_area['AREA'] == request.vars['AREA']
-        event_query = db.cancer_data_by_area['EVENT_TYPE'] == request.vars['EVENT_TYPE']
-        race_query = db.cancer_data_by_area['RACE'] == request.vars['RACE']
-        sex_query  = db.cancer_data_by_area['SEX']  == request.vars['SEX']
-        site_query = db.cancer_data_by_area['SITE'] == request.vars['SITE']
-        
-        if type(request.vars['YEARS']) is types.ListType:
-            request.vars['YEARS'] = map(int, request.vars['YEARS'])
-            year_query = reduce(lambda a,b: a|b, [db.cancer_data_by_area.YEAR==year for year in request.vars['YEARS']])
-        elif type(request.vars['YEARS']) is types.StringType:
-            year_query = db.cancer_data_by_area.YEAR==int(request.vars['YEARS'])
-
-        query = area_query & race_query  & sex_query & event_query & site_query & year_query
-        output = db(query).select()
-
-    elif cancer_form.errors:
-        session.flash = cancer_form.errors
-
-    return locals()
