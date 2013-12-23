@@ -47,7 +47,10 @@ def index():
             data = []
             for row in output:
                 year = row['YEAR']
-                data.append({"date": str(year), "count": row[request.vars['TARGET']]})
+                if row[request.vars['TARGET']] == 'None' or year < 1999:
+                    continue
+                else:
+                    data.append([year, row[request.vars['TARGET']]])
 
             response.headers['Content-Type'] = gluon.contenttype.contenttype('.json')
             response.status = 200

@@ -3,24 +3,33 @@
     <link rel="stylesheet" href="{{=URL('static', 'css/bootstrap.css')}}">
 
     <style>
-    .chart {
-
-    }
-
-    .main text {
-        font: 10px sans-serif;  
-    }
-
-    .axis line, .axis path {
-        shape-rendering: crispEdges;
-        stroke: black;
+      /* tell the SVG path to be a thin blue line without any area fill */
+      path {
+        stroke: steelblue;
+        stroke-width: 1;
         fill: none;
-    }
+      }
+      
+      .axis {
+        shape-rendering: crispEdges;
+      }
 
-    circle {
-        fill: steelblue;
-    }
+      .x.axis line {
+        stroke: lightgrey;
+      }
 
+      .x.axis .minor {
+        stroke-opacity: .5;
+      }
+
+      .x.axis path {
+        display: none;
+      }
+
+      .y.axis line, .y.axis path {
+        fill: none;
+        stroke: #000;
+      }
     </style>
 
     <!-- jQuery and Javascript -->
@@ -33,103 +42,114 @@
 
     <p>This is a submission for the IS602 Final Project. Here is a web interface to the CDC cancer data, which allows comparisons over time. The CDC provides a web interface, but it does not allow to drill down the data over time, which this should help with.</p>
 
-    <div class="container">
-      <div class="row-fluid">
-        <div class="span4">
+        <div class="span3">
           <h4>CDC Cancer Data Interface</h4>
           {{=cancer_form}}
         </div>
         
-        <div class="span8">
+        <div class="span9">
           <div id="data"></div>
           <div id="content"></div>
         </div>
-      </div>
+
+
   </body>
 
 
   <script>
-  function brushed() {
-    x.domain(brush.empty() ? x2.domain() : brush.extent());
-    focus.select("path").attr("d", area);
-    focus.select(".x.axis").call(xAxis);
+
+  function draw_error() {
+    $('#content').html('<h4>Graph</h4><p>No data returned! That means we do not have data for your query parameters.');
   }
 
   function draw_graph(data) {
-    var margin = {top: 10, right: 10, bottom: 100, left: 400},
-      width  = 960 - margin.left - margin.right,
-      height = 500 - margin.top - margin.bottom;
 
-    var parseDate = d3.time.format("%Y").parse;
+    // var m = {top: 20, right: 15, bottom: 60, left: 60}
+    //   , w = 960 - m.left - m.right
+    //   , h = 500 - m.top - m.bottom;
+    
+    var m = [80, 80, 80, 80]; // margins
+    var w = 1000 - m[1] - m[3]; // width
+    var h = 400 - m[0] - m[2]; // height
 
-    var x = d3.time.scale().range([0, width]),
-        y = d3.scale.linear().range([height, 0]);
-
-    var xAxis = d3.svg.axis().scale(x).orient("bottom"),
-        yAxis = d3.svg.axis().scale(y).orient("left");
-
-    var brush = d3.svg.brush().on("brush", brushed);
-
-    var area = d3.svg.area()
-        .interpolate("monotone")
-        .x(function(d) { return x(d.date); })
-        .y0(height)
-        .y1(function(d) { return y(d.count); });
-
-    $('#content').html('');
-    var svg = d3.select("#content").append("svg")
-        //.attr("width", width + margin.left + margin.right)
-        .attr("width", '100%')
-        .attr("height", height + margin.top + margin.bottom);
-
-    svg.append("defs").append("clipPath")
-        .attr("id", "clip")
-        .append("rect")
-        .attr("width", width)
-        .attr("height", height);
-
-    var focus = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    // $('#content').html('');
-    // var svg = d3.select("#content")
-    //         .append("svg")
-    //         .attr("width", 500)
-    //         .attr("height", 100);
-
-    // $.each(data, function(index, value) {
-    //   data[index].date = parseDate(data[index].date);
-    // });
-
-    // svg.selectAll("circle")
-    //    .data(data)
-    //    .enter()
-    //    .append("circle")
-    //    .attr("cx", function(d) {
-    //         return d['date'];
-    //    })
-    //    .attr("cy", function(d) {
-    //         return d['count'];
-    //    })
-    //    .attr("r", 5);
+    var x = d3.scale.linear()
+              .domain([1999, 
+                      d3.max(data, function(d) { return d[0]; })])
+              .range([ 0, w ]);
+    
+    var y = d3.scale.linear()
+            .domain([0, d3.max(data, function(d) { return d[1]; })])
+            .range([ h, 0 ]);
+ 
+    min_y = d3.min(data, function(d) { return d[1]; });
+    max_y = d3.max(data, function(d) { return d[1]; });
+    min_x = d3.min(data, function(d) { return d[0]; });
+    max_x = d3.max(data, function(d) { return d[0]; });
 
 
+    if (max_x - min_x == 0) { draw_error(); return; }
+    if (max_y - min_y == 0) { draw_error(); return; }
 
-    x.domain(d3.extent(data.map(function(d) { return d.date; })));
-    y.domain([0, d3.max(data.map(function(d) { return d.count; }))]);
+    /* implementation heavily influenced by http://bl.ocks.org/1166403 */
+    
+    // create a line function that can convert data[] into x and y points
+    var line = d3.svg.line()
+      // assign the X function to plot our line as we wish
+      .x(function(d,i) { 
+        // verbose logging to show what's actually being done
+        console.log('Plotting X value for data point: ' + d[0] + ' using index: ' + i + ' to be at: ' + x(d[0]) + ' using our xScale.');
+        // return the X coordinate where we want to plot this datapoint
+        return x(d[0]); 
+      })
+      .y(function(d) { 
+        // verbose logging to show what's actually being done
+        console.log('Plotting Y value for data point: ' + d[1] + ' to be at: ' + y(d[1]) + " using our yScale.");
+        // return the Y coordinate where we want to plot this datapoint
+        return y(d[1]); 
+      })
 
-    focus.append("path")
-         .datum(data)
-         .attr("clip-path", "url(#clip)")
-         .attr("d", area);
+      // Add an SVG element with the desired dimensions and margin.
+      var graph = d3.select("#content").append("svg:svg")
+                                      .attr("width", w + m[1] + m[3])
+                                      .attr("height", h + m[0] + m[2])
+                                      .append("svg:g")
+                                      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
-    focus.append("g")
-         .attr("class", "x axis")
-         .attr("transform", "translate(0," + height + ")")
-         .call(xAxis);
+      // create yAxis
+      var xAxis = d3.svg.axis().scale(x).tickSize(-h).tickSubdivide(true);
+      // Add the x-axis.
+      graph.append("svg:g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + h + ")")
+            .call(xAxis);
 
-    focus.append("g")
-         .attr("class", "y axis")
-         .call(yAxis);
+
+      // create left yAxis
+      var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
+      // Add the y-axis to the left
+      graph.append("svg:g")
+            .attr("class", "y axis")
+            .call(yAxisLeft);
+      
+        // Add the line by appending an svg:path element with the data line we created above
+      // do this AFTER the axes above so that the line is above the tick-lines
+      graph.append("svg:path").attr("d", line(data));
+      graph.append("svg:text")
+           .attr("x", -200)
+           .attr("y", -50)
+           .attr("dy", ".1em")
+           .attr("transform", "rotate(-90)")
+           .text($('form select#no_table_TARGET').val());
+      graph.append("svg:text")
+           .attr("x", w / 2)
+           .attr("y", h + 50)
+           .attr("dy", ".1em")
+           .text('Year'); 
+      graph.append("svg:text")
+           .attr("x", w / 2 - 150)
+           .attr("y", -50)
+           .attr("dy", ".1em")
+           .text($('form select#no_table_TARGET').val() + ' Column per Year' ); 
   }
 
   // Intercept the form submit action
@@ -143,9 +163,12 @@
       // Show the received data to the user
       $('#data').html('<h4>Data</h4><p>' + JSON.stringify(data) + '</p>');
 
+      // Delete the SVG object
+      $('svg').remove();
+
       // Output graph if we have data; error message otherwise
-      if(data) { draw_graph(data); }
-      else { $('#content').html('<h4>Graph</h4><p>No data returned! That means we do not have data for your query parameters.'); }
+      if(typeof data !== 'undefined' && data.length > 0) { draw_graph(data); }
+      else { draw_error(); }
     });
     return false;
   });
