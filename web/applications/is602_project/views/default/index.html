@@ -80,13 +80,14 @@
     var y = d3.scale.linear()
             .domain([0, d3.max(data, function(d) { return d[1]; })])
             .range([ h, 0 ]);
- 
+
+    // Calculate the range of data
     min_y = d3.min(data, function(d) { return d[1]; });
     max_y = d3.max(data, function(d) { return d[1]; });
     min_x = d3.min(data, function(d) { return d[0]; });
     max_x = d3.max(data, function(d) { return d[0]; });
 
-
+    // Determine if the range is indicative of problems with the data 
     if (max_x - min_x == 0) { draw_error(); return; }
     if (max_y - min_y == 0) { draw_error(); return; }
 
