@@ -117,6 +117,20 @@ If you want to do this yourself, here are the steps
   * ``python web2py.py --nogui -p 8080 -a test1234``
 9. Open the web interface, which should be located here: http://127.0.0.1:8080/is602_project/
 
+## Screenshots
+
+The next three screenshots show the age adjusted base rate of incidence (diagnosis) of all forms of cancer (for all races and all sexes) in New York, Kentucky and Washington. Note how they all hover around the same value (~ 500).
+
+![Incidence of All Cancers, in NY, for all races and sexes](/screenshots/Incidence_NY_AgeAdjRate_AllRaces_AllSexes.png)
+![Incidence of All Cancers, in Kentucky, for all races and sexes](/screenshots/Incidence_Kentucky_AgeAdjRate_AllRaces_AllSexes.png)
+![Incidence of All Cancers, in Washington, for all races and sexes](/screenshots/Incidence_Washington_AgeAdjRate_AllRaces_AllSexes.png)
+
+The next three screenshots show the age adjusted base rate of mortalities due to all forms of cancer (for all races and all sexes) in New York, Kentucky and Washington. Notice how NY is lower than the other two states, and that Kentucky's rate does not seem to be decreasing with time. This could be due to the general lower economic status of Kentucky versus New York.
+
+![Mortality Rate of All Cancers, in NY, for all races and sexes](/screenshots/Mortality_NY_AgeAdjRate_AllRaces_AllSexes.png)
+![Mortality Rate of All Cancers, in Kentucky, for all races and sexes](/screenshots/Mortality_Kentucky_AgeAdjRate_AllRaces_AllSexes.png)
+![Mortality Rate of All Cancers, in Washington, for all races and sexes](/screenshots/Mortality_Washington_AgeAdjRate_AllRaces_AllSexes.png)
+
 ## Ideas to Expand in the Future
 
 - Can use the other data files to include different ways to break the data down. I am currently using the BYAREA.txt file; BYAGE.txt and BYSITE.txt can provide further insight as that data is broken down by census age groups and cancer sites, respectively. 
