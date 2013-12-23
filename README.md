@@ -76,7 +76,7 @@ CRUDE_RATE - Float - Rate of incidence per 100,000 persons
 
 - [x] Load data from .TXT file into pandas
 - [x] Use pylab to graph the data in various ways, get familiar with data
-- [X] Load data into MySQL
+- [x] Load data into MySQL
 - [x] Create code to generate a query to the database based on various parameters
 - [x] Create simple backend that returns JSON of data to plot based on given HTTP parameters
 - [x] Create simple frontend using a JS visualization library, which used backend via jQuery
