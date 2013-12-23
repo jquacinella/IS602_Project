@@ -191,6 +191,7 @@
       $('#data').html('<h4>Data</h4><p>' + JSON.stringify(data) + '</p>');
 
       // Delete the SVG object
+      $('#content').html('');
       $('svg').remove();
 
       // Output graph if we have data; error message otherwise
