@@ -12,7 +12,7 @@ import pandas
 
 DB_HOST      = "localhost"
 DB_USERNAME  = "is602"
-DB_PASSWORD  = "-------"
+DB_PASSWORD  = "test1234"
 DB_NAME      = "is602"
 DB_TABLENAME = "cancer_data_by_area"
 
