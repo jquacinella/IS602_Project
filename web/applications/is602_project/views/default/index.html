@@ -3,6 +3,21 @@
     <link rel="stylesheet" href="{{=URL('static', 'css/bootstrap.css')}}">
 
     <style>
+      div#spinner
+      {
+          display: none;
+          width:100px;
+          height: 100px;
+          position: fixed;
+          top: 50%;
+          left: 50%;
+          text-align:center;
+          margin-left: -50px;
+          margin-top: -100px;
+          z-index:2;
+          overflow: auto;
+      }  
+
       /* tell the SVG path to be a thin blue line without any area fill */
       path {
         stroke: steelblue;
@@ -42,17 +57,19 @@
 
     <p>This is a submission for the IS602 Final Project. Here is a web interface to the CDC cancer data, which allows comparisons over time. The CDC provides a web interface, but it does not allow to drill down the data over time, which this should help with.</p>
 
-        <div class="span3">
-          <h4>CDC Cancer Data Interface</h4>
-          {{=cancer_form}}
-        </div>
-        
-        <div class="span9">
-          <div id="data"></div>
-          <div id="content"></div>
-        </div>
+    <div class="span3">
+      <h4>CDC Cancer Data Interface</h4>
+      {{=cancer_form}} 
 
-
+    </div>
+    
+    <div class="span9">
+      <div id="spinner">
+          <img src="static/images/ajax-loader.gif" alt="Loading..."/>
+      </div>
+      <div id="data"></div>
+      <div id="content"></div>
+    </div>
   </body>
 
 
@@ -135,6 +152,8 @@
         // Add the line by appending an svg:path element with the data line we created above
       // do this AFTER the axes above so that the line is above the tick-lines
       graph.append("svg:path").attr("d", line(data));
+
+      // Label yo graphs!
       graph.append("svg:text")
            .attr("x", -200)
            .attr("y", -50)
@@ -152,6 +171,13 @@
            .attr("dy", ".1em")
            .text($('form select#no_table_TARGET').val() + ' Column per Year' ); 
   }
+
+  // Setup the spinner
+  $(document).ajaxStart(function () {
+      $('#spinner').fadeIn('fast');
+  }).ajaxStop(function () {
+      $('#spinner').stop().fadeOut('fast');
+  });
 
   // Intercept the form submit action
   jQuery('form').submit(function() {
