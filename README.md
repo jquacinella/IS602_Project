@@ -80,6 +80,43 @@ CRUDE_RATE - Float - Rate of incidence per 100,000 persons
 - [x] Create simple frontend using a JS visualization library, which used backend via jQuery
 - [ ] Use frontend to look if certain rates are increasing more quickly in certain areas over time
 
+## Instructions
+
+If you want to see the end result, which is a basic web interface to the CDC data, you can visit https://jquacinella.pythonanywhere.com/is602_project/. The web2py architecture is being hosted there for the time being.
+
+If you want to do this yourself, here are the steps
+
+* Clone this repo
+  * ``git clone https://github.com/jquacinella/IS602_Project.git``
+* Change directory to the data/cancer
+  * ``cd IS602_Project/data/cancer``
+* Unzip the USCS_1999_2010_ASCII.zip file, which should extract a file called BYAREA.txt 
+  * Github has a file size limit, hence this is needed
+* Navigate to the top-level directory
+  * ``cd ../../``
+* Setup a local MySQL instance
+  * Either use:
+
+    ```python
+    DB_HOST      = "localhost"
+    DB_USERNAME  = "is602"
+    DB_PASSWORD  = "test1234"
+    DB_NAME      = "is602"
+    DB_TABLENAME = "cancer_data_by_area"
+    ```
+
+  * Or record the username, password, database, and table name and edit the following scripts
+      * ``vi scripts/load_schema.py``
+      * ``vi scripts/load_data.py``
+      * ``vi applications/is602_final/models/db.py``
+* Run the schema and data importer (this may take a while)
+  * ``python scripts/load_schema.py``
+  * ``python scripts/load_data.py`` 
+* Change to the web2py-based web/ directpry
+  * ``cd web/``
+* Start the web-server (Change the port number if needed)
+  * ``python web2py.py --nogui -p 8080 -a test1234``
+* Open the web interface, which should be located here: http://127.0.0.1:8080/is602_project/
 
 ## Ideas to Expand in the Future
 
