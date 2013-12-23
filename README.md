@@ -35,21 +35,22 @@ The CDC provides a similar web interface, that is much more detailed than what I
 - Bokeh - https://github.com/ContinuumIO/bokeh
 
 
-## Proposed Layout
+## Project Layout
 
 <pre>
 cancer/
 |-- data/
-|    |-- cancer/                # Raw data from CDC
-|    |-- data.pandas            # Pickled version of pandas data frame of loaded data
-|    |-- cancer_data.sql        # MySQL data SQL files
-|    |-- cancer_schema.sql      # MySQL schema
-|-- web/                        # Web frontend and backend files (including JS, CSS, etc) (Layput TBD)
-|    |-- static/
-|    |   |-- html/
-|    |   |-- css/
-|    |   |-- js/
-|    |-- ...
+|    |-- MySQL/                  # MySQL schema and data
+|    |-- cancer/                 # Raw data from CDC
+|-- scripts/
+|    |-- load_data.py            # Script that loads the MySQL data
+|    |-- load_schema.py          # Script that loads the MySQL schema
+|-- web/                         # Web2py installation
+|    |-- applications/is602      # The main is602_final application
+|              |-- controller    # Location of Python code behind the REST request
+|              |-- model         # Location of DB model
+|              |-- static        # Location of JS and CSS (Bootstrap) files
+
 </pre>
 
 ## Schema
@@ -74,11 +75,11 @@ CRUDE_RATE - Float - Rate of incidence per 100,000 persons
 ## General Steps
 
 - [x] Load data from .TXT file into pandas
-- [ ] Use pylab to graph the data in various ways, get familiar with data
+- [x] Use pylab to graph the data in various ways, get familiar with data
 - [X] Load data into MySQL
-- [ ] Create code to generate a query to the database based on various parameters
-- [ ] Create simple backend that returns JSON of data to plot based on given HTTP parameters
-- [ ] Create simple frontend using a JS visualization library, which used backend via jQuery
+- [x] Create code to generate a query to the database based on various parameters
+- [x] Create simple backend that returns JSON of data to plot based on given HTTP parameters
+- [x] Create simple frontend using a JS visualization library, which used backend via jQuery
 - [ ] Use frontend to look if certain rates are increasing more quickly in certain areas over time
 
 
